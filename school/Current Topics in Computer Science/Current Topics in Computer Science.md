@@ -67,7 +67,10 @@ Making Sure Generative AI Gets Smarter
 
 Evaluating the Effects of AI on Privacy
 	One of the most important principles of any company is creating a brand that is associated with the values of trust and privacy
-	Businesses must understand the implications of the use of AI a
+	Businesses must understand the implications of the use of AI and how to employ these tools for good
+	The misuse of AI's ability to generate human-quality text undermines the core principles of academic integrity, learning, and original thought.
+		Privacy in AI is also a major concern
+			AI syst
 
 
 

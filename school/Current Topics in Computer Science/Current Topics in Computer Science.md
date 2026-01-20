@@ -36,4 +36,6 @@ Defining the Output Format
 
 Targeting your audience
 	- Tailor prompts to your target audience to obtain the best result
-	- 
+		- Students may want a summary, business professionals may want to investigate sales statistics
+	- Knowing your audience will you manage complexity in language and word jargon
+		- - 

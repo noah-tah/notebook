@@ -20,8 +20,11 @@ const formatDateOnly = (value: string | null | undefined) => {
 ```
 
 # 8:42 AM 1/20/2026
-```
+```js
 const date = Intl.DateTimeFormat(undefined, {
-
-})
+	year: 'numeric',
+	month: 'short',
+	day: '2-digit',
+}).format(d);
 ```
+- `Intl` is a JavaScript helper object that stands for Interna

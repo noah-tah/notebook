@@ -16,4 +16,7 @@ Providing Clear Instructions
 	- if you need expert-level writing, specify that you need a detailed, professional
 
 Adopting a Persona
-- Chat models by defauly typically provide a professional and friendly tone in their generic rep
+- Chat models by defauly typically provide a professional and friendly tone in their generic responses
+- You can encourage the AI model to adopt a specific persona or tone
+	-  you can instruct it to respond as a poet, scientist, marketing professional, or even a fictional character
+

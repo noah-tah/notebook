@@ -34,3 +34,6 @@ Defining the Output Format
 		- a table format
 
 
+Targeting your audience
+	- Tailor prompts to your target audience to obtain the best result
+	- 

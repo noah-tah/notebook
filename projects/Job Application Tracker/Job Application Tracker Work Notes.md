@@ -29,4 +29,8 @@ const date = Intl.DateTimeFormat(undefined, {
 ```
 - `Intl` is a JavaScript helper object that stands for Internalization.
 - Here we are using it as a way to help make sure our date and time is in a proper format depending on the user's browser
-	- "Lets you format things in a way that matches user's locale"
+	- "Lets you format things in a way that matches user's locale conventions"
+```js
+Intl.DateTimeFormat(locales, options)
+```
+- Takes a locales argument

@@ -39,4 +39,5 @@ Intl.DateTimeFormat(locales, options)
 `Intl.DateTimeFormat(...)`
 	- Creates a formatter object, creates a configured formatter object
 	- Config is passed into `...`
-
+`format(d)`
+	- We call `format(d)` immediately because we are only interested in the date, not the formatter object

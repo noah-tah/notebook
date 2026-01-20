@@ -28,17 +28,17 @@ The value of data comes from the characteristics it posses:
 ·
 CNSS Security Model
 
-Information System
+- Information System
 	- A combination of the software, hardware, people, procedures and networks that comes together to perform a business function using information
 		- Each has unique security requirements
+	
 
-
-System admins typically work to improve the security of their information systems
+ System admins typically work to improve the security of their information systems
 	- this is advantageous in one way because it leads to system admins with a high level of technical expertise
-	- The downside of this is that 
+	- The downside of this is that it lacks community support
+	- it also lacks organizational staying power
 
-
-
+	Th
 
 
 

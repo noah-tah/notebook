@@ -33,7 +33,9 @@ Information System
 		- Each has unique security requirements
 
 
-
+System admins typically work to improve the security of their information systems
+	- this is advantageous in one way because it leads to system admins with a high level of technical expertise
+	- The downside of this is that 
 
 
 

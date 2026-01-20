@@ -35,8 +35,7 @@
               "title": "01-20-2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,12 +198,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "0889045404e8cf38",
+  "active": "89a3359a77718980",
   "lastOpenFiles": [
+    "daily/01-20-2026.md",
     "school/Current Topics in Computer Science/Current Topics in Computer Science.md",
     "school/Information Security/Information Security.md",
     "school/Current Topics in Computer Science",
-    "daily/01-20-2026.md",
     "school/Untitled.md",
     "school/Information Security",
     "school",

@@ -19,6 +19,11 @@ Information Security
 
 The value of data comes from the characteristics it posses:
 	- Confidentiality
-	- Authentic
+	- Authenticity
+	- Accuracy
+	- Availability
+	- Utility
+	- Possession
+	- Integrity
 
 

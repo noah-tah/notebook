@@ -45,7 +45,26 @@ Another approach to implementing information security:
 		- Policies
 		- Procedures
 		- Processes
-	- 
+	- They will make sure those that are performing actions are held accountable 
+	- Make sure the expected outcomes are known, and goals are known
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

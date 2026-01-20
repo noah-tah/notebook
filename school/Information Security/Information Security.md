@@ -40,7 +40,12 @@ CNSS Security Model
 
 - Make sure that the money goes with the authority and security
 
-Another way that effort could 
+Another approach to implementing information security:
+	- Could be initiated by upper management
+		- Policies
+		- Procedures
+		- Processes
+	- 
 
 
 

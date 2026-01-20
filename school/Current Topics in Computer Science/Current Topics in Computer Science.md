@@ -60,7 +60,9 @@ Generating Code with Prompts
 	generative AI can generate code in almost any programming language including Java, Python, and C#
 
 
-
+Making Sure Generative AI Gets Smarter
+	ChatGPT is trained using reinforcement learning from human feedback (RLHF) which combines reinforcement learning techniques, such as rewards and comparisons, with human guidance and feedback
+	Over tii
 
 
 

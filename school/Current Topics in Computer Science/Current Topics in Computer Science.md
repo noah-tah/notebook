@@ -50,4 +50,9 @@ Crafting Social Media Marketing Campaign Prompts
 Creating Research and Analysis Prompts
 	AI is shifting the way businesses conduct research and analysis, empowering them to make data-driven decisions
 		may uncover hidden trends
-		can 
+		can analyze vast amounts of random review data
+		may find recurring commends and patterns that humans might miss
+
+
+
+

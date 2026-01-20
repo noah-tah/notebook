@@ -5,4 +5,3 @@ A language model learned from text it has collected and it CAN produce original 
 	- Can recognize voice, optical characters, and handwriting 
 	- Optical character recognizer
 		- OCR software created text
-		- 

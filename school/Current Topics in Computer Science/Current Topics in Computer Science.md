@@ -65,7 +65,9 @@ Making Sure Generative AI Gets Smarter
 	Over time, ChatGPT uses RLHF to learn to avoid common pitfalls and generate more appropriate responses to your requests
 
 
-
+Evaluating the Effects of AI on Privacy
+	One of the most important principles of any company is creating a brand that is associated with the values of trust and privacy
+	Businesses must understand the implications of the use of AI a
 
 
 

@@ -10,3 +10,6 @@ did a lot of showing for the cattle
 
 
 
+Providing Clear Instructions
+- Be explicit and concise
+	- if you want a short answer, 

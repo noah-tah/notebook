@@ -53,6 +53,7 @@ Creating Research and Analysis Prompts
 		can analyze vast amounts of random review data
 		may find recurring commends and patterns that humans might miss
 
-
+Generating Code with Prompts
+	In today's world, almost every business n
 
 

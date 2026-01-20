@@ -27,4 +27,6 @@ const date = Intl.DateTimeFormat(undefined, {
 	day: '2-digit',
 }).format(d);
 ```
-- `Intl` is a JavaScript helper object that stands for Interna
+- `Intl` is a JavaScript helper object that stands for Internalization.
+- Here we are using it as a way to help make sure our date and time is in a proper format depending on the user's browser
+	- "Lets you format things in a way that matches user's locale"

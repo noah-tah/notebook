@@ -29,4 +29,16 @@ The value of data comes from the characteristics it posses:
 CNSS Security Model
 
 Information System
-	- A combination of the software, hardware, people, procedures and networks that comes together to perform a business 
+	- A combination of the software, hardware, people, procedures and networks that comes together to perform a business function using information
+		- Each has unique security requirements
+
+
+
+
+
+
+
+
+
+
+

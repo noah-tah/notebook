@@ -1,3 +1,3 @@
 - A robot that moves around with sensors and navigation systems are called autonomous mobile robots
 - An AI algorithm is an advanced set of machine instructions that improve over time
-- 
+

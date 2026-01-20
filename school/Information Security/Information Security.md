@@ -48,8 +48,8 @@ Another approach to implementing information security:
 	- They will make sure those that are performing actions are held accountable 
 	- Make sure the expected outcomes are known, and goals are known
 
-The most successful top-down approach is to use some sort of strategy like the systems development lifecycle
-	- formalli
+The most successful top-down approach is to use some sort of strategy like the systems development life cycle
+	- formal strategy that engineers can follow to produce better results
 
 
 

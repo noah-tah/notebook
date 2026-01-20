@@ -18,3 +18,10 @@ const formatDateOnly = (value: string | null | undefined) => {
   }).format(d);
 };
 ```
+
+# 8:42 AM 1/20/2026
+```
+const date = Intl.DateTimeFormat(undefined, {
+
+})
+```

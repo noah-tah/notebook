@@ -7,3 +7,6 @@ A language model learned from text it has collected and it CAN produce original 
 		- OCR software created text
 did a lot of showing for the cattle
 	played rock n roll for the cattle because it made it easier for the animals to adjust to the loud show
+
+
+

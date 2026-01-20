@@ -70,7 +70,7 @@ Evaluating the Effects of AI on Privacy
 	Businesses must understand the implications of the use of AI and how to employ these tools for good
 	The misuse of AI's ability to generate human-quality text undermines the core principles of academic integrity, learning, and original thought.
 		Privacy in AI is also a major concern
-			AI syst
+			AI systems often require large amounts of data, raising questions about data collection practices and how long data is retained.
 
 
 

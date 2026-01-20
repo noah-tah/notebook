@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/01-19-2026.md",
+                "file": "daily/01-17-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-19-2026"
+              "title": "01-17-2026"
             }
           }
         ],
@@ -215,9 +215,9 @@
   },
   "active": "1fb9a3d96b232819",
   "lastOpenFiles": [
-    "daily/01-17-2026.md",
     "daily/01-19-2026.md",
     "daily/01-16-2026.md",
+    "daily/01-17-2026.md",
     "daily/01-15-2026.md",
     "daily/11-24-2025.md",
     "daily/11-26-2025.md",

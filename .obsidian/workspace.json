@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school/Untitled.md",
+                "file": "school/Information Security/01-20-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "01-20-2026"
             }
           }
         ],
@@ -199,11 +199,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "d3d6eefc343dd78d",
+  "active": "0889045404e8cf38",
   "lastOpenFiles": [
-    "school/Untitled",
     "daily/01-20-2026.md",
+    "school/Information Security/01-20-2026.md",
     "school/Untitled.md",
+    "school/Information Security",
     "school",
     "projects/Job Application Tracker/Job Application Tracker Work Notes.md",
     "daily/01-19-2026.md",

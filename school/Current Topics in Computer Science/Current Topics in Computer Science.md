@@ -56,7 +56,8 @@ Creating Research and Analysis Prompts
 Generating Code with Prompts
 	In today's world, almost every business needs a website, a mobile app, a database to store information, and other systems
 	each of these computer systems can be modified to develop custom software solutions or integrate with existing technologies
-	
+		even with basic coding knowledge, employees can customize the platform and solve problems without relying on external developers
+	generative AI can generate code in almost any programming language including Java, Python, and C#
 
 
 

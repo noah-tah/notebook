@@ -47,4 +47,7 @@ Crafting Social Media Marketing Campaign Prompts
 	- supports two-way communication
 	- helps build a community around a brand, fostering trust and connection.
 
-Creating Researc
+Creating Research and Analysis Prompts
+	AI is shifting the way businesses conduct research and analysis, empowering them to make data-driven decisions
+		may uncover hidden trends
+		can 

@@ -36,3 +36,5 @@ Intl.DateTimeFormat(locales, options)
 - Takes a locales argument
 	- if you pass `en-US` you are forcing all user's to use the same date time format
 	- however, if you pass undefined it will use the browsers default settings as defined by the user's browser/os
+`Intl.DateTimeFormat()...`
+	- Creates a formatter object, creates a configured formatter object

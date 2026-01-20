@@ -32,3 +32,5 @@ Defining the Output Format
 		- summary
 		- coding snippets in different programming languages
 		- a table format
+
+

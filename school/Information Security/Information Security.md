@@ -38,7 +38,9 @@ CNSS Security Model
 	- The downside of this is that it lacks community support
 	- it also lacks organizational staying power
 
-	Th
+- Make sure that the money goes with the authority and security
+
+Another way that effort could 
 
 
 

@@ -1,4 +1,4 @@
-- A robot that moves around with sensors and navigation systems are called autonomous mobile robots
+W- A robot that moves around with sensors and navigation systems are called autonomous mobile robots
 - An AI algorithm is an advanced set of machine instructions that improve over time
 
 A language model learned from text it has collected and it CAN produce original text by predicting the next word in a text response
@@ -38,4 +38,9 @@ Targeting your audience
 	- Tailor prompts to your target audience to obtain the best result
 		- Students may want a summary, business professionals may want to investigate sales statistics
 	- Knowing your audience will you manage complexity in language and word jargon
-		- - 
+		- Using technical jargon such as API 
+
+Crafting Social Media Marketing Campaign Prompts
+- Many businesses use social media to communicate directly with customers
+	- builds brand recognition and trust
+	- enables bu

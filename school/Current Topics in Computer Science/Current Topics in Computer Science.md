@@ -21,4 +21,14 @@ Adopting a Persona
 	- you can instruct it to respond as a poet, scientist, marketing professional, or even a fictional character
 
 Defining the Output Format
-- When you enter a chatpot prompt, you can 
+- When you enter a chatbot prompt, you can detail the format of the output
+	- you could as for:
+		- bulleted or numbered list
+		- paragraph
+		- quiz
+		- email
+		- specific language
+		- certain number of words
+		- summary
+		- coding snippets in different programming languages
+		- a table format

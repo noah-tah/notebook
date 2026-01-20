@@ -62,7 +62,7 @@ Generating Code with Prompts
 
 Making Sure Generative AI Gets Smarter
 	ChatGPT is trained using reinforcement learning from human feedback (RLHF) which combines reinforcement learning techniques, such as rewards and comparisons, with human guidance and feedback
-	Over tii
+	Over time, ChatGPT uses RLHF to learn to avoid common pitfalls and generate more appropriate responses to your requests
 
 
 

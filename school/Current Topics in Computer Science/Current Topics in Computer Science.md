@@ -12,4 +12,8 @@ did a lot of showing for the cattle
 
 Providing Clear Instructions
 - Be explicit and concise
-	- if you want a short answer, 
+	- if you want a short answer, ask for it
+	- if you need expert-level writing, specify that you need a detailed, professional
+
+Adopting a Persona
+- Chat models by defauly typically provide a professional and friendly tone in their generic rep

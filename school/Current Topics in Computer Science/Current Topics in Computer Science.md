@@ -21,7 +21,7 @@ Adopting a Persona
 	- you can instruct it to respond as a poet, scientist, marketing professional, or even a fictional character
 
 Defining the Output Format
-- When you enter a chatbot prompt, you can detail the format of the output
+- When you enter a chat bot prompt, you can detail the format of the output
 	- you could as for:
 		- bulleted or numbered list
 		- paragraph
@@ -43,4 +43,6 @@ Targeting your audience
 Crafting Social Media Marketing Campaign Prompts
 - Many businesses use social media to communicate directly with customers
 	- builds brand recognition and trust
-	- enables bu
+	- enables businesses to highlight their products or services with fun, engaging content to create more sales
+	- supports two-way communication
+	- helps build a community around a brand, fostering trust and connection.

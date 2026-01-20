@@ -1,0 +1,2 @@
+# Plan mode learning technique prompt
+Alright I love the todos but from now on I want you to walk me through so that I am executing the steps instead of you agentically executing them so give me the code to type and as you do that, please give me the relevant documentation so that I can read it to gain a better understanding if i choose to do so

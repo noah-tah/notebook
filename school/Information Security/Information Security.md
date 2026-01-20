@@ -17,6 +17,8 @@ Tom Clancy Red Storm Rising
 Information Security
 	- Literally what it sounds like, protecting data which consists of managing information security, networks
 
-
+The value of data comes from the characteristics it posses:
+	- Confidentiality
+	- Authentic
 
 

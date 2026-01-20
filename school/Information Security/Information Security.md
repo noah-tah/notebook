@@ -25,5 +25,5 @@ The value of data comes from the characteristics it posses:
 	- Utility
 	- Possession
 	- Integrity
-
+·
 

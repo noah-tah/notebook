@@ -18,4 +18,6 @@ create serailization schedule
 
 
 locking methods facilitiate the isolation of data items used in concurrently executing transactions
-a lock guja
+a lock gujanrtees exclusive use of a data ite to a current transaction
+the use of locks based on the asumption that conflct between transactions is likely tis usually referedd to asessimisstic locking
+a lock manager is responsible for assigning and policing the locks used by the transactinos

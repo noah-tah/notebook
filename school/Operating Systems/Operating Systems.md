@@ -38,4 +38,7 @@ Operating System Categories
 
 Single-Tasking Versus Multitasking Operating Systems
 	A single-tasking operating system can execute only a single process at a time
-		Apple iOS 3 
+		Apple iOS 3 are examples
+		An embedded system is a computing device designed for a specific task and uses a single-tasking OS
+	A multitasking operating system quickly switches between all the processes that are loaded nto memory
+	There are two general types of multitask

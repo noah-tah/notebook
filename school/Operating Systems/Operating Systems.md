@@ -65,6 +65,7 @@ Single-User versus Multuser Operating System
 
 
 A general purpose operating system is designed to provide a convenient user interface and run applications ina  home or business enviornment with reasonable performance
+A real-time operating system (RTOS) is designed to process inputs and produce outputs in a specific
 
 
 

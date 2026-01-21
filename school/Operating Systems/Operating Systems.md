@@ -49,6 +49,7 @@ Single-Tasking Versus Multitasking Operating Systems
 				found in early windows versions
 		preemptive	multitasking
 			the os is in control of the computer at all times
-				the running process can be replaced with another process at any time based on a system interrupt, a higher-priority task requriing the CPI, or the time-slice timer expiring
-				The OS has control over how much of the computer's resource are allocatedto each program
-				Computers must use more of their CPI and memory to suport the OS, but the be
+				the running process can be replaced with another process at any time based on a system interrupt, a higher-priority task requiring the CPU, or the time-slice timer expiring
+				The OS has control over how much of the computer's resource are allocated to each program
+				Computers must use more of their CPI and memory to support the OS, but the behavior of the computer is more predictable
+				The user can play music while working in documents and Web browsers

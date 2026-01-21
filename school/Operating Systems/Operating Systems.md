@@ -27,5 +27,6 @@ An OS is a specialized computer program that provides the following features
 			the OS also ensures that I/O devices such as USB ports and video cards are accessed by only one process at a time
 	security and resource protection
 		OSs used on business systems provide methods for securing access to resources
-	Ken
+	Kernel
+		the kernel is the heart of the OS and runs with the highest priority
 

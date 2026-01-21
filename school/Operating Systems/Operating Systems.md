@@ -24,5 +24,8 @@ CPN
 An OS is a specialized computer program that provides the following features
 	memory and I/O management
 		the OS must determine if sufficient memory exists to load an application and where in memory it should be loaded
-			the OS also ensures that I/O devices such as USB ports and video cards are accessed by o
+			the OS also ensures that I/O devices such as USB ports and video cards are accessed by only one process at a time
+	security and resource protection
+		OSs used on business systems provide methods for securing access to resources
+	Ken
 

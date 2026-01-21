@@ -64,10 +64,10 @@ Single-User versus Multuser Operating System
 		Windows 10 an earlier windows client version are arguable
 
 
-A general purpose operating system is designed to provide a convenient user interface and run applications ina  home or business enviornment with reasonable performance
+A general purpose operating system is designed to provide a convenient user interface and run applications ina  home or business environement with reasonable performance
 A real-time operating system (RTOS) is designed to process inputs and produce outputs in a specific and repeatable amount of time
-	Real-time systems perform tasks like controlling assembly-line robotoic systems, controlling FedEx sorting facilities, managing the electrical grid, etc.
-	Components of real-time systems are called deterministic b
+	Real-time systems perform tasks like controlling assembly-line robotic systems, controlling FedEx sorting facilities, managing the electrical grid, etc.
+	Components of real-time systems are called deterministic because ti is possible to determine the worst-case response times under a given set of conditions
 
 
 

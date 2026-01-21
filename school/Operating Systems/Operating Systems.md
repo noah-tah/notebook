@@ -47,4 +47,5 @@ Single-Tasking Versus Multitasking Operating Systems
 				if the program does not gives control back to the OS, it may hog the CPU until its operations are complete
 				No other program can run until control is given back to the OS
 				found in early windows versions
-			
+		preemptive	multitasking
+			the r

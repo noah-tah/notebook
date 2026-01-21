@@ -13,4 +13,6 @@ CPN
 	IBM-based operating system
 	Xerox made the decision
 		they were the first in the desktop 
+	An OS is a specialized computer program that provides the following features:
+		
 	

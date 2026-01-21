@@ -21,5 +21,5 @@ CPN
 		Process and service management
 			a process is a program that is loaded into memory and run by the CPI; a service is a type of process that runs in the background
 
-
+An OS is a specialized computer program that provides the following features
 

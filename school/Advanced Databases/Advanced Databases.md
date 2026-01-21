@@ -5,3 +5,5 @@ Concurrency control is a DBMS feature that coordinates the simultaneous executio
 concurrency control is important because the simultaneous execution of transactions over a shared database can create several data integrity and consistency problems
 the three main problems are lost updates, uncommitted data, and inconsistent retrievals
 
+The lost update problem occurs when two concurrent transactions are updating the same data elements and one of the updates are lost
+the uncommitted data problem occurs when two transactions are executed concurrently and the first transaction is rolled back after the second transaction has

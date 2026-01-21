@@ -9,3 +9,6 @@ The lost update problem occurs when two concurrent transactions are updating the
 the uncommitted data problem occurs when two transactions are executed concurrently and the first transaction is rolled back after the second transaction has already accessed the uncommitted data
 Inconsistent retrievals occur when a transaction accesses data before and after one or more other transactions finish working with such data
 
+Establishes the order in which th operations are execute within concurrent transactions
+	interleaves the execution of database operations to ensure serializability and isolation of tranactions
+Bases actions on concurrent cont

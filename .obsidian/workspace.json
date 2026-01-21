@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school/Current Topics in Computer Science/Current Topics in Computer Science.md",
+                "file": "daily/01-21-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Current Topics in Computer Science"
+              "title": "01-21-2026"
             }
           }
         ],
@@ -215,8 +215,9 @@
   },
   "active": "38dfe7a0c3effee0",
   "lastOpenFiles": [
-    "daily/01-20-2026.md",
     "school/Current Topics in Computer Science/Current Topics in Computer Science.md",
+    "daily/01-21-2026.md",
+    "daily/01-20-2026.md",
     "projects/Job Application Tracker/Job Application Tracker Work Notes.md",
     "school/Information Security/Information Security.md",
     "school/Current Topics in Computer Science",

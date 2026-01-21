@@ -36,4 +36,6 @@ Operating System Categories
 	single-user versus multiusers
 	general-purpose versus real-time
 
-
+Single-Tasking Versus Multitasking Operating Systems
+	A single-tasking operating system can execute only a single process at a time
+		Apple iOS 3 

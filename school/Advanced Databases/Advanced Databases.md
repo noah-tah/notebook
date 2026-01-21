@@ -6,4 +6,6 @@ concurrency control is important because the simultaneous execution of transacti
 the three main problems are lost updates, uncommitted data, and inconsistent retrievals
 
 The lost update problem occurs when two concurrent transactions are updating the same data elements and one of the updates are lost
-the uncommitted data problem occurs when two transactions are executed concurrently and the first transaction is rolled back after the second transaction has
+the uncommitted data problem occurs when two transactions are executed concurrently and the first transaction is rolled back after the second transaction has already accessed the uncommitted data
+Inconsistent retrievals occur when a transaction accesses data before and after one or more other transactions finish working with such data
+

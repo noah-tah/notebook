@@ -29,7 +29,11 @@ An OS is a specialized computer program that provides the following features
 		OSs used on business systems provide methods for securing access to resources
 	Kernel
 		the kernel is the heart of the OS and runs with the highest priority
+
+
 Operating System Categories
-	- Single-tasking versus mutlitasking
-- single-user versus multiusers
-- general-purpose versus real-time
+	Single-tasking versus mutlitasking
+	single-user versus multiusers
+	general-purpose versus real-time
+
+

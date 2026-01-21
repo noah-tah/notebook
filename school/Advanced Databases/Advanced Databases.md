@@ -15,3 +15,7 @@ Bases actions on concurrent control algorithms
 	determines appropriate order
 create serailization schedule
 	serializable schedule interleaved execution of transactions yields the same results as the serial execution of the transactions
+
+
+locking methods facilitiate the isolation of data items used in concurrently executing transactions
+a lock guja

@@ -11,4 +11,7 @@ Inconsistent retrievals occur when a transaction accesses data before and after 
 
 Establishes the order in which th operations are execute within concurrent transactions
 	interleaves the execution of database operations to ensure serializability and isolation of tranactions
-Bases actions on concurrent cont
+Bases actions on concurrent control algorithms
+	determines appropriate order
+create serailization schedule
+	serializable schedule interleaved execution of transactions yields the same results as the serial execution of the transactions

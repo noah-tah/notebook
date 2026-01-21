@@ -58,9 +58,14 @@ Single-Tasking Versus Multitasking Operating Systems
 
 
 
-Single-User versus Multuser Operating Systems
-	A single-user operating system allows only one user at a time to interact with the OS user interface, start processes, make system configuration changes, and interact directly with the file system.
-		
+Single-User versus Multuser Operating System
+	A single-user operating system allows only one user at a time to interact with the OS user interface, start processes, make system 
+	changes, and interact directly with the file system.
+		Windows 10 an earlier windows client version are arguable
+
+
+A general purpose operating system is designed to provide a convenient user interface and run applications ina  home or business enviornment with reasonable performance
+
 
 
 

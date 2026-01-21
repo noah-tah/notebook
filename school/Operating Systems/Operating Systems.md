@@ -41,4 +41,10 @@ Single-Tasking Versus Multitasking Operating Systems
 		Apple iOS 3 are examples
 		An embedded system is a computing device designed for a specific task and uses a single-tasking OS
 	A multitasking operating system quickly switches between all the processes that are loaded nto memory
-	There are two general types of multitask
+	There are two general types of multitasking
+		cooperative multitasking
+			the os gives cpu control to a process and waits for it to terminate or enter a waiting state
+				if the program does not gives control back to the OS, it may hog the CPU until its operations are complete
+				No other program can run until control is given back to the OS
+				found in early windows versions
+			

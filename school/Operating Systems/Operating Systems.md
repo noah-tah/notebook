@@ -22,4 +22,7 @@ CPN
 			a process is a program that is loaded into memory and run by the CPI; a service is a type of process that runs in the background
 
 An OS is a specialized computer program that provides the following features
+	memory and I/O management
+		the OS must determine if sufficient memory exists to load an application and where in memory it should be loaded
+			the OS also ensures that I/O devices such as USB ports and video cards are accessed by o
 

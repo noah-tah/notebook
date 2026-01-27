@@ -135,6 +135,11 @@ WITH AI IT IS HARD TO PROVE IF ANYONE UNDERSTANDS THE UNDERLYING  CONCEPTS
 - Age of Radicalism?
 	- In depth study of subject matter
 - Lots of Americans have given up their brain
+- Do not get in the way of Police
+	- But it is good to picket 
+- Police officers or Border Pat
+
+
 
 
 

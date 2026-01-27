@@ -149,7 +149,10 @@ WITH AI IT IS HARD TO PROVE IF ANYONE UNDERSTANDS THE UNDERLYING  CONCEPTS
 
 - Claude AI for coding
 
-
+- In the AI age of information, businesses are focusing on data
+- Data helps business leaders interpret underlying trends to understand what products their customers are interested in now and into the future
+- Scenario with AI Data
+	- AI algorithms analyz
 
 
 

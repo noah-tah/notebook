@@ -132,6 +132,9 @@ Genius's are better at exploring than they are at coming up with a new idea?
 
 WITH AI IT IS HARD TO PROVE IF ANYONE UNDERSTANDS THE UNDERLYING  CONCEPTS
 
+- Age of Radicalism?
+	- In depth study of subject matter
+- Lots of Americans have given up their brain
 
 
 

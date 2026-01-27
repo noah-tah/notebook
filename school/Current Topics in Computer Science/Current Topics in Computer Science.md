@@ -100,7 +100,9 @@ Evaluating the Effects of AI on Privacy
 	- summarizing documents with ease
 	- providing concise bullets
 	- creating custom types of documents
-
+- I also enjoy bullets, mr bagley likes bullets
+	- we are bullet enjoyers
+- Facebook y
 
 
 

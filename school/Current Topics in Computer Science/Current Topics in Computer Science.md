@@ -78,7 +78,14 @@ Evaluating the Effects of AI on Privacy
 
 
 
+# 1/27/2025
+- NVIDIA
+- Microsoft
+- Alphabet
+- Amazon
 
+
+2.5 Using Deep Learning in Micr
 
 
 

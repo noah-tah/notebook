@@ -122,8 +122,10 @@ Evaluating the Effects of AI on Privacy
 	- ChatGPT wants to be queried 
 
 
-- AGI refers to a type of artificial intelligence that can understand, learn, and apply knowledge in a way that i
+- AGI refers to a type of artificial intelligence that can understand, learn, and apply knowledge in a way that is indistinguishable from human intelligence
+	- Different from the Turing test as it measures whether AI can solve multiple problems in new situations instead of just focusing on one
 
+Genius's are better at exploring than they are 
 
 
 

@@ -104,6 +104,8 @@ Evaluating the Effects of AI on Privacy
 	- we are bullet enjoyers
 - Facebook or YouTube video
 - Copilot within PowerPoint can also turn ideas into a designed presentation based on AI prompts
+	- You can use Copilot recommendations or choose from PowerPoint's slide layouts and presentation themes to tailor your presentation
+	- Once you type a prompt, Copilot suggests wording and a flow for your presentation, making sure your ideas are clear to your audience
 
 
 

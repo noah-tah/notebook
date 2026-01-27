@@ -109,7 +109,7 @@ Evaluating the Effects of AI on Privacy
 - Copilot within PowerPoint takes your concept from the AI prompt you enter and then searches the Web, gathering relevant information to construct a presentation tailored to your needs
 - You can start from scratch or upload an existing file such as a Word document to use as the basis of the presentation
 
-- You can do powerpoint slides with Copilot
+- You can do PowerPoint slides with Copilot
 
 
 - Commercial data protection is common in most businesses when it comes to securing your company's information
@@ -118,7 +118,11 @@ Evaluating the Effects of AI on Privacy
 	- Data privacy and control
 	- Company security measures
 	- Support and service
+- Copilot wants to be a part of your daily life
+	- ChatGPT wants to be queried 
 
+
+- AGI refers to a type of artificial intelligence that can understand, learn, and apply knowledge in a way that i
 
 
 

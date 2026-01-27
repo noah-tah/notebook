@@ -147,6 +147,7 @@ WITH AI IT IS HARD TO PROVE IF ANYONE UNDERSTANDS THE UNDERLYING  CONCEPTS
 	- Chatbots can still struggle with complex or hard-to-understand questions
 	- They cannot replicate human emotions or empathy
 
+- Claude AI for coding
 
 
 

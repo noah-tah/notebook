@@ -144,7 +144,8 @@ WITH AI IT IS HARD TO PROVE IF ANYONE UNDERSTANDS THE UNDERLYING  CONCEPTS
 - AI is reshaping the business economy and altering the workforce
 - Entire industries are starting to shift from a human-based workforce ti AI-based services
 - AI chatbots can be used to simulate having a conversation with a virtual assistant on a website or messaging app
-	- 
+	- Chatbots can still struggle with complex or hard-to-understand questions
+	- They cannot replicate human emotions or empathy
 
 
 

@@ -164,7 +164,9 @@ WITH AI IT IS HARD TO PROVE IF ANYONE UNDERSTANDS THE UNDERLYING  CONCEPTS
 Think about how AI has evolved throughout the decades
 	prior to reading this chapters, what did you know about the innovations involved in the evolution of AI?
 	Which concepts were completely new to you?
-
+- How had you used Copilot prior to this module?
+	- In what situations might you consider using it?
+	- Will you use it in your future career? If so, how?
 
 
 

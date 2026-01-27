@@ -112,6 +112,14 @@ Evaluating the Effects of AI on Privacy
 - You can do powerpoint slides with Copilot
 
 
+- Commercial data protection is common in most businesses when it comes to securing your company's information
+	- Commercial data protection is the practice of safeguarding sensitive business information
+- Copilot might be a safer and more secure option than ChatGPT because it provides:
+	- Data privacy and control
+	- Company security measures
+	- Support and service
+
+
 
 
 

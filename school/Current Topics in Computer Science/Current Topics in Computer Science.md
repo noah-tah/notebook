@@ -125,8 +125,12 @@ Evaluating the Effects of AI on Privacy
 - AGI refers to a type of artificial intelligence that can understand, learn, and apply knowledge in a way that is indistinguishable from human intelligence
 	- Different from the Turing test as it measures whether AI can solve multiple problems in new situations instead of just focusing on one
 
-Genius's are better at exploring than they are 
+Genius's are better at exploring than they are at coming up with a new idea?
+	Ideal: 120-145
+		Come up with new ideas
+		Hire the other geniuses to do the work for them
 
+WITH AI IT IS HARD TO PROVE IF ANYONE UNDERSTANDS THE UNDERLYING  CONCEPTS
 
 
 

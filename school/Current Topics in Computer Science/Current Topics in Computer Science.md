@@ -90,8 +90,7 @@ Evaluating the Effects of AI on Privacy
 - Currently, machine learning, deep learning, and other AI technologies continue to evolve in a multitude of technology apps
 - Copilot for Microsoft 365 is fueled by deep learning technologies
 	- Acts like a virtual assistance to help you with your work in several ways throughout the Microsoft 365 suit of apps
-
-
+- Copilot can be used to generate ideas to as
 
 
 

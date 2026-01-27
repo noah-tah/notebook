@@ -161,8 +161,9 @@ WITH AI IT IS HARD TO PROVE IF ANYONE UNDERSTANDS THE UNDERLYING  CONCEPTS
 - AI-powered security cameras can distinguish between familiar and unfamiliar faces and detect unusual activity
 	- they can prevent potential break-ins
 
-
-
+Think about how AI has evolved throughout the decades
+	prior to reading this chapters, what did you know about the innovations involved in the evolution of AI?
+	Which concepts were completely new to you?
 
 
 

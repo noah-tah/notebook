@@ -95,7 +95,7 @@ Evaluating the Effects of AI on Privacy
 	- Crafting a compelling mission statement
 	- Creating a motivational email
 - Copilot can save time by analyzing your text and offering multiple rewrite suggestions
-- Copilot takes into account the surrounding text (the context) and the overall topic when gee
+- Copilot takes into account the surrounding text (the context) and the overall topic when generating suggestions
 
 
 

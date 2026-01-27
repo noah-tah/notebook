@@ -137,7 +137,11 @@ WITH AI IT IS HARD TO PROVE IF ANYONE UNDERSTANDS THE UNDERLYING  CONCEPTS
 - Lots of Americans have given up their brain
 - Do not get in the way of Police
 	- But it is good to picket 
-- Police officers or Border Pat
+- Police officers or Border Patrol
+	- Most likely to be killed in America
+		- Regularly have to defend themselves and are on edge at all times and are more likely to attack in situations
+
+
 
 
 

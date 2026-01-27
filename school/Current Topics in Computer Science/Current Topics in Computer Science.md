@@ -94,10 +94,8 @@ Evaluating the Effects of AI on Privacy
 	- Brainstorming the target audience
 	- Crafting a compelling mission statement
 	- Creating a motivational email
-
-
-
-
+- Copilot can save time by analyzing your text and offering multiple rewrite suggestions
+- Copilot takes into account the surrounding text (the context) and the overall topic when gee
 
 
 

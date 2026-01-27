@@ -154,7 +154,7 @@ WITH AI IT IS HARD TO PROVE IF ANYONE UNDERSTANDS THE UNDERLYING  CONCEPTS
 - Scenario with AI Data
 	- AI algorithms analyze browsing behavior
 	- Advertisers use data to target users with relevant ads
-- The vast amount of private data collected about everyone has signifcant positive and negative implications
+- The vast amount of private data collected about everyone has significant positive and negative implications
 - Collecting AI data can be used to recognize unusual patterns
 	- AI can help stop fraudulent transactions
 - AI-powered security cameras can distinguish between familiar and unfamiliar faces and detect unusual activity

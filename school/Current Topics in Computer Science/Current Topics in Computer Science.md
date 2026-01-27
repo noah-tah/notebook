@@ -141,7 +141,10 @@ WITH AI IT IS HARD TO PROVE IF ANYONE UNDERSTANDS THE UNDERLYING  CONCEPTS
 	- Most likely to be killed in America
 		- Regularly have to defend themselves and are on edge at all times and are more likely to attack in situations
 
-
+- AI is reshaping the business economy and altering the workforce
+- Entire industries are starting to shift from a human-based workforce ti AI-based services
+- AI chatbots can be used to simulate having a conversation with a virtual assistant on a website or messaging app
+	- 
 
 
 

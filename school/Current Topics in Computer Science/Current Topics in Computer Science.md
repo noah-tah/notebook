@@ -100,9 +100,10 @@ Evaluating the Effects of AI on Privacy
 	- summarizing documents with ease
 	- providing concise bullets
 	- creating custom types of documents
-- I also enjoy bullets, mr bagley likes bullets
+- I also enjoy bullets, Mr. Bagley likes bullets
 	- we are bullet enjoyers
-- Facebook y
+- Facebook or YouTube video
+- Copilot within PowerPoint can also turn ideas into a designed presentation based on AI prompts
 
 
 

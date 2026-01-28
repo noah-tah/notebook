@@ -82,3 +82,8 @@ A real-time operating system (RTOS) is designed to process inputs and produce ou
 	- It is the software that allows a word-processing program to open a document on a server and knows how to request a Web page or send an email.
 	- It is also the software that communicates between the OS and network hardware.
 
+- Network Software can be divided into the following categories:
+	- Network clients and servers
+	- Protocols
+	- NIC device driver
+

@@ -78,4 +78,7 @@ A real-time operating system (RTOS) is designed to process inputs and produce ou
 # 1-28-2026
 - Network Interface Card
 	- add-on card that is pluged into a motherboard expansion slot and provides a connection between the computer and the network. Most computers have a NIC built into the motherboard, so an additional card is not necessary.
-- Net
+- Network software transforms a standalone OS into a network OS.
+	- It is the software that allows a word-processing program to open a document on a server and knows how to request a Web page or send an email.
+	- It is also the software that communicates between the OS and network hardware.
+

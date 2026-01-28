@@ -114,3 +114,9 @@ There are two sides to a communication session
 - Two or more groups of users and their computers should be logically separated on the network, yet the groups should be able to communicate.
 	- For example, in a school, you might want to logically separate the LAN that contains student computers from the LAN that contains faculty computers.
 		- Routers provide this logical separation but still allow communication between groups.
+
+
+
+- You need to configure two servers to use **IPsec** for *secure communication*.
+	- You will use an **authentication method** that involves a **public entity.** 
+		- What type of **authentication** will you use?

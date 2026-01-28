@@ -120,3 +120,8 @@ There are two sides to a communication session
 - You need to configure two *servers* to use **IPsec** for *secure communication*.
 	- You will use an **authentication method** that involves a **public entity.** 
 		- What type of **authentication** will you use?
+- Either:
+	- Kerberos
+	- digital certificates
+	- preshared key
+	- mu

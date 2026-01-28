@@ -124,4 +124,4 @@ There are two sides to a communication session
 	- Kerberos
 	- digital certificates
 	- preshared key
-	- mu
+	- multifactor

@@ -103,4 +103,6 @@ There are two sides to a communication session
 	- The network protocol determines which server software the message is targeting and passes the message to the designated software. Remember that a computer can have many clients and servers running at the same time. For example, a computer running Windows Server 2016 might be acting both as a mail server and a file server. Each server function requires different server software.
 	- The server software receives the message and responds by sending the requested data to the client computer, using the steps outlined previously
 
-- Two or more groups of users and their computers should be logically separated on the network, yet the groups should be able to communicate. For example, in a school, you might want to logically separate the LAN that contains s
+
+- Your company has just expanded from a simple LAN using two switches on one floor of an office building to using another floor. Forty new users will be added to the network. The users on the new floor of the building will deal with finance and payroll and should be logically separated from the other users. What type of network is required and what device should be used?
+- Two or more groups of users and their computers should be logically separated on the network, yet the groups should be able to communicate. For example, in a school, you might want to logically separate the LAN that contains student computers from the LAN that contains faculty computers. Routers provide this logical separation but still allow communication between groups.

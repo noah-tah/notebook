@@ -87,3 +87,6 @@ A real-time operating system (RTOS) is designed to process inputs and produce ou
 	- Protocols
 	- NIC device driver
 
+- Steps of Network Communications
+	1. An application tries to access a network resource by attempting to send a message to it.
+	2. Network client s

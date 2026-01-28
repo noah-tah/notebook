@@ -98,4 +98,6 @@ There are two sides to a communication session
 	- A server provides those resources
 
 - Steps on the server side:
-	- The NIC on the server receives the signals from the network medium and converts them into message data, which is read by the NIC d
+	- The NIC on the server receives the signals from the network medium and converts them into message data, which is read by the NIC driver
+	- The NIC driver passes the message to the protocol
+	- The network protocol determines which server software the message is targeting and passes the message to the designated software. Remember that a computer can have many clients and servers running at the same time. For example, a computer running Windows Server 2016 

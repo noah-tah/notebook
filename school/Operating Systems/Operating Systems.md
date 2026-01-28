@@ -75,3 +75,6 @@ A real-time operating system (RTOS) is designed to process inputs and produce ou
 
 
 
+# 1-28-2026
+- Network Interface Card
+	- add-

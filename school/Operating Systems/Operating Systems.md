@@ -102,3 +102,5 @@ There are two sides to a communication session
 	- The NIC driver passes the message to the protocol
 	- The network protocol determines which server software the message is targeting and passes the message to the designated software. Remember that a computer can have many clients and servers running at the same time. For example, a computer running Windows Server 2016 might be acting both as a mail server and a file server. Each server function requires different server software.
 	- The server software receives the message and responds by sending the requested data to the client computer, using the steps outlined previously
+
+- Two or more groups of users and their computers should be logically separated on the network, yet the groups should be able to communicate. For example, in a school, you might want to logically separate the LAN that contains s

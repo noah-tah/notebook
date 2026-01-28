@@ -104,5 +104,13 @@ There are two sides to a communication session
 	- The server software receives the message and responds by sending the requested data to the client computer, using the steps outlined previously
 
 
-- Your company has just expanded from a simple LAN using two switches on one floor of an office building to using another floor. Forty new users will be added to the network. The users on the new floor of the building will deal with finance and payroll and should be logically separated from the other users. What type of network is required and what device should be used?
-- Two or more groups of users and their computers should be logically separated on the network, yet the groups should be able to communicate. For example, in a school, you might want to logically separate the LAN that contains student computers from the LAN that contains faculty computers. Routers provide this logical separation but still allow communication between groups.
+- Your company has just expanded from a simple LAN using two switches on one floor of an office building to using another floor.
+	- Forty new users will be added to the network. 
+		- The users on the new floor of the building will deal with finance and payroll and should be logically separated from the other users.
+			- What type of network is required and what device should be used?
+
+
+
+- Two or more groups of users and their computers should be logically separated on the network, yet the groups should be able to communicate.
+	- For example, in a school, you might want to logically separate the LAN that contains student computers from the LAN that contains faculty computers.
+		- Routers provide this logical separation but still allow communication between groups.

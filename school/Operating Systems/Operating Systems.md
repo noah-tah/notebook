@@ -128,4 +128,5 @@ There are two sides to a communication session
 
 # 1/29/2026
 
-A software developer needs to design an applicat
+A software developer needs to design an application in which multiple parts of the application can be scheduled and executed simultaneously.
+	What is each part of an application that can be independently scheduled called?

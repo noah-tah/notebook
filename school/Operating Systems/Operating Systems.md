@@ -125,3 +125,7 @@ There are two sides to a communication session
 	- digital certificates
 	- preshared key
 	- multifactor
+
+# 1/29/2026
+
+A software developer needs to design an applicat

@@ -176,8 +176,7 @@ Think about how AI has evolved throughout the decades
 
 
 
-
-
-
-
-
+# 1/29/2026
+Natural language processing uses AI to empower computers to understand, process, and generate text or human speech responses
+	- Voice commands can mimic natural conversation, making technology more intuitive
+- When an AI engine can recognize, understand, and then generate new content, it is relying on a large 

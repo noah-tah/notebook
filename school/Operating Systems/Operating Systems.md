@@ -138,4 +138,4 @@ A software developer needs to design an application in which multiple parts of t
 
 # 1/30/2026
 
-A true multiuser operating system allows multiple users to sign in to it, start and stop processes (t)
+A true multiuser operating system allows multiple users to sign in to it, start and stop processes (that is, run user applications). interact with the user interface, and access the local file system. Linux/UNIX operating systems have always supported multiple users, and Windows Server versions also allow multiple users through RDP, where one user can be signed into the local console and others can be signed in remotely. The remote users have t

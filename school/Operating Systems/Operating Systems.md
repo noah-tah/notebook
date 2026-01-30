@@ -134,3 +134,8 @@ A software developer needs to design an application in which multiple parts of t
 - Process
 - Task
 - Thread
+
+
+# 1/30/2026
+
+A true multiuser operating system allows multiple users to sign in to it, start and stop processes (t)

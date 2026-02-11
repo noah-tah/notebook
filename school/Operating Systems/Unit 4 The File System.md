@@ -43,3 +43,7 @@ Analyzing file Metadata on Windows using a PowerShell command
 ![[Pasted image 20260211070036.png]]
 
 
+Low-level format
+- Marks the location of disk tracks and sectors
+- Disc is divided into tracks
+- 

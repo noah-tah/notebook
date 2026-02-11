@@ -15,4 +15,5 @@ Folder Structure
 - On Windows, most system configuration files are contained in the `\Windows` directory
 - On Linux, most config files are contained in subdirectories of the `etc` directory
 
-Clients and Servers 
+Clients and Servers Organize different types of files
+- Clients are focused on placing most of their files in the `/home/` directory, where they keep documents, music, 

@@ -190,6 +190,13 @@ Superblock
 - contains information about the layout of blocks, sectors, and cylinder groups on the file system
 
 Raw Device
-- A device that has not been divided into
+- A device that has not been divided into logical blocks
+
+Block Device
+- A device that is divided into logical blocks
+- Transfers data in blocks
+	- Fixed number of byes
+
+Symb
 
 

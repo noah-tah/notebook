@@ -135,6 +135,30 @@ Volume mount point
 Formatting
 - After partitioning the disk, formatting is the act of implementing the filesystem on the drive
 
+Boot Block
+- first sector on the disk
+- Contains information needed to boot the OS
+
+Disk Cluster
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

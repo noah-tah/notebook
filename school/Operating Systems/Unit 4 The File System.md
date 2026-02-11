@@ -162,9 +162,11 @@ Hard Linking
 Disk Quotas
 - Specific amount of disk space allocated for an application that it should not exceed on the disk.
 
+Journaling
+- Tracks file changes in case of an unexpected crash so it is possible to roll back or reconstruct files.
 
-
-
+Hot fix
+- 
 
 
 

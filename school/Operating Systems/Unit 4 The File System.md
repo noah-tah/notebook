@@ -49,4 +49,10 @@ Low-level format
 
 Tracks
 - Concentric circles around the disk.
-- Each track is divided int
+- Each track is divided into sectors.
+
+Sectors
+- Portion of a track on a storage disk.
+
+Block allocation
+- 

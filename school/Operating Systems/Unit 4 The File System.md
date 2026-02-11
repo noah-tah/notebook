@@ -173,7 +173,11 @@ CD-ROM File System (CDFS)
 
 
 Universal Disk Format (UDF)
-- Allows for larger fily
+- Allows for larger file storage for movies and games to be contained on CD-ROM 
+
+UNIX File System (UFS)
+- Uses hierarchical tree structure that can be expanded.
+- Many qualities of NTFS are modeled after UFS.
 
 
 

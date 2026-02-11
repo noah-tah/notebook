@@ -133,7 +133,7 @@ Volume mount point
 - Empty folder where the volume is mounted.
 
 Formatting
-- 
+- After partitioning the disk, formatting is the act of implementing the filesystem on the drive
 
 
 

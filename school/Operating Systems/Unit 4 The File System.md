@@ -140,7 +140,10 @@ Boot Block
 - Contains information needed to boot the OS
 
 Disk Cluster
-- 
+- Group of one or more sectors used to store files.
+
+Linked List
+- Method used in FAT32 files that connec
 
 
 

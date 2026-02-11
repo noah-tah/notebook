@@ -109,3 +109,7 @@ GUID Partition Table (GPT)
 Cyclic Redundancy Check (CRC) 
 - Ensure no unauthorized changes have happened to the table.
 - A CRC is a formula calculated by using the data bytes of a file or other data object and calculates its 32-bit signature to verify the integrity of the data.
+	- If data changes in a non-standard manner, CRC check will fail.
+
+
+

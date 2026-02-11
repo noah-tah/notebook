@@ -111,5 +111,11 @@ Cyclic Redundancy Check (CRC)
 - A CRC is a formula calculated by using the data bytes of a file or other data object and calculates its 32-bit signature to verify the integrity of the data.
 	- If data changes in a non-standard manner, CRC check will fail.
 
-
+Basic Disks
+- Default type and been around since the IBM PC.
+- Either MBR or GPT 
+- Volumes are defined by their config
+- Once volume is created on disk, can only be increased in size.
+- Basic disks do not support the following:
+	- RAID config
 

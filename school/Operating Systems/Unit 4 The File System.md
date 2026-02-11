@@ -82,3 +82,5 @@ Partition Table
 - Known as the disk label in Linux
 - Provides information to the computer about how to access the disk
 
+Master Boot Record (MBR)
+- Traditional BIOS uses this

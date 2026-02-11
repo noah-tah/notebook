@@ -149,7 +149,10 @@ Bad Clusters
 - Sectors of the disk that are never used by the FAT32 filesystem
 
 Master File Table (MFT)
-- 
+- Storage organization system used with NTFS
+- Located within the beginning of the partition
+- A file on the system
+- Second file on the system contains the first 3 records so that the MFT can be reprodu
 
 
 

@@ -31,3 +31,7 @@ Disk contention
 - Operating System files should be on a separate hard disk than User files to solve this problem.
 	- It is also useful to store user data on a separate disk because it allows for easier backup of user data in the case of emergency.
 	- Administrator also has more access to tools such as compression to be used on the drive as well that contains user data.
+
+
+Metadata
+- Metadata is data that describes the file and its contents, but is not the actual content contained within the file.

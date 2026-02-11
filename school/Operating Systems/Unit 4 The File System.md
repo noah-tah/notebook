@@ -37,4 +37,4 @@ Metadata
 - Metadata is data that describes the file and its contents, but is not the actual content contained within the file.
 
 File Attributes
-- Stored with the filename on the 
+- Stored with the filename on the disk and it contains storage and operational parameters like whether it is read/write or read only or perhaps it is hidden.

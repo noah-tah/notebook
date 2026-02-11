@@ -29,4 +29,5 @@ Server might contain
 Disk contention
 - Occurs when two  or more processes attempt to access the files on a disc at the same time.
 - Operating System files should be on a separate hard disk than User files to solve this problem.
-	- It is also useful to store 
+	- It is also useful to store user data on a separate disk because it allows for easier backup of user data in the case of emergency.
+	- Administrator also has more access to tools such as compression to be used on the drive as well that contains user data.

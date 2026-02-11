@@ -100,3 +100,6 @@ Extended partition
 
 Logical drives
 - Sections of an extended partition that can contain data, but can not be an active partition containing a bootable os.
+
+GUID Partition Table (GPT)
+- More reliable than MBR because  multiple copies of the partition data are stored in multiple places on theo

@@ -201,3 +201,64 @@ Symbolic Link
 - Permits a folder to link to a file that is on a different partition.Y
 
 
+
+# Extending the VM size in Omarchy
+
+Yes, you can absolutely complete this assignment using your current setup! Since you are running Windows as a Virtual Machine (VM) through **Omarchy** (which typically uses Docker/KVM or QEMU under the hood), the Windows operating system will "see" virtual hardware as if it were physical.
+
+To start, you will need to add a second virtual disk to your Windows VM settings within Omarchy (often found in the `docker-compose.yml` or the VM configuration menu) before booting Windows to perform the tasks.
+
+### Answers to the Lab Questions
+
+Based on how Windows Disk Management behaves, here are the expected answers to your assignment:
+
+**1. What type of disk is it: basic or dynamic?**
+
+- **Answer:** By default, any new disk initialized in Windows is a **Basic** disk.
+    
+
+**2. What format did you choose?**
+
+- **Answer:** **NTFS**. To support "file and folder permissions," you must choose NTFS. Older formats like FAT32 or exFAT do not support the security descriptors required for specific user permissions.
+    
+
+**3. What type of partition was created (primary, extended, logical drive)?**
+
+- **Answer:** **Primary**. On a new Basic disk using the MBR (Master Boot Record) style, the first partition created is always a Primary partition.
+    
+
+**4. For each partition, what was the partition type you created?**
+
+- **Answer:** * **Vol1:** Primary
+    
+    - **Vol2:** Primary
+        
+    - **Vol3:** Primary
+        
+    - **Vol4:** **Logical Drive** (inside an Extended Partition).
+        
+
+**5. Explain what happened when you created the fourth volume.**
+
+- **Answer:** MBR disks have a limit of **four primary partitions**. When you tried to create the fourth volume, Windows automatically converted the remaining space into an **Extended Partition** and placed the fourth volume inside it as a **Logical Drive**. This allowed you to bypass the 4-partition limit.
+    
+
+**6. How did this change the way the volumes and partitions are labeled?**
+
+- **Answer:** After converting to a **Dynamic** disk, the labels "Primary Partition" and "Logical Drive" disappear. They are replaced by the term **"Simple Volume."** Additionally, the color coding in Disk Management usually changes (e.g., from dark blue/green to olive/dark green) to indicate the disk is now Dynamic.
+    
+
+---
+
+### Tips for Arch/Omarchy Users
+
+- **Adding the Disk:** If you are using the standard Omarchy Windows container, look for the configuration file (usually in `~/.config/windows/`) and add a second drive entry like `-drive file=/path/to/storage.img,if=virtio`.
+    
+- **MBR vs. GPT:** If your VM initialized the disk as **GPT** (common in UEFI systems), you won't see "Extended Partitions" because GPT supports up to 128 Primary partitions. To see the behavior described in Question 5, you may need to right-click the disk and "Convert to MBR" before starting.
+    
+
+Would you like me to walk you through the specific terminal commands on Arch to create that 20GB virtual disk file for your VM?
+
+[Basic and Dynamic Disks on Windows](https://www.youtube.com/watch?v=kE0foLfYkfk)
+
+This video provides a visual overview of how Windows manages different disk types and partition styles, which is helpful for understanding the underlying concepts of your assignment.

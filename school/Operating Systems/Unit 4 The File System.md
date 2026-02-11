@@ -166,7 +166,9 @@ Journaling
 - Tracks file changes in case of an unexpected crash so it is possible to roll back or reconstruct files.
 
 Hot fix
-- 
+- NTFS can copy data from a bad disk area to an undamaged area of the disk.
+
+CD-ROM filesystem
 
 
 

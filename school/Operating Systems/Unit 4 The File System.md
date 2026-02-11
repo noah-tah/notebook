@@ -159,6 +159,8 @@ Master File Table (MFT)
 Hard Linking
 - Permits multiple folder entries to point to the same file
 
+Disk Quotas
+- Specific amount of disk space allocated for an application that it should not exceed on the disk.
 
 
 

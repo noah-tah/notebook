@@ -198,6 +198,6 @@ Block Device
 	- Fixed number of byes
 
 Symbolic Link
-- Permits a folder to link to a file that is on a different partition.
+- Permits a folder to link to a file that is on a different partition.Y
 
 

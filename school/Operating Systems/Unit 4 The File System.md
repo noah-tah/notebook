@@ -91,3 +91,6 @@ Master Boot Record (MBR)
 Bootstrap code
 - Examines the partition table and then it determines which partition to boot from, usually the active partition. 
 	- That partition typically contains its own boot code, this will find that code and execute it.
+
+Active Partition
+- This meant the partition contained boot code, and stored data for the 

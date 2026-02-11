@@ -77,4 +77,8 @@ Volume
 
 Partition Table
 - Reserved area that stores partition information
-- Known as the disk label in linux
+	- Size 
+	- Location
+- Known as the disk label in Linux
+- Provides information to the computer about how to access the disk
+

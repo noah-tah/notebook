@@ -16,4 +16,8 @@ Folder Structure
 - On Linux, most config files are contained in subdirectories of the `etc` directory
 
 Clients and Servers Organize different types of files
-- Clients are focused on placing most of their files in the `/home/` directory, where they keep documents, music, 
+- Clients are focused on placing most of their files in the `/home/` directory, where they keep documents, music, pictures, and videos and so forth
+- Server operating systems might have a structure based around applications and user files.
+
+Server might contain
+- Operati

@@ -26,5 +26,6 @@ Server might contain
 - Software applications
 - Other administrative files
 
+Disk contention
+- Occurs when two  or more processes
 Operating System files should be on a separate hard disk than User files
-- 

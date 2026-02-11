@@ -179,5 +179,8 @@ UNIX File System (UFS)
 - Uses hierarchical tree structure that can be expanded.
 - Many qualities of NTFS are modeled after UFS.
 
+Extended File System (EXT)
+- Default Linux File System
+
 
 

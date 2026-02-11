@@ -168,7 +168,12 @@ Journaling
 Hot fix
 - NTFS can copy data from a bad disk area to an undamaged area of the disk.
 
-CD-ROM filesystem
+CD-ROM File System (CDFS) 
+- Supported so that OS and read/write to DVD/CD-ROM drives.
+
+
+Universal Disk Format (UDF)
+- Allows for larger fily
 
 
 

@@ -197,6 +197,7 @@ Block Device
 - Transfers data in blocks
 	- Fixed number of byes
 
-Symb
+Symbolic Link
+- Permits a folder to link to a file that is on a different partition.
 
 

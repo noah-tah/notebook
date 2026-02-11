@@ -62,4 +62,5 @@ Clusters
 - Refer o a group of sectors on a disk
 
 File Allocation Table (FAT)
-- Decd
+- Defines the way data is stored on the drive
+- Keeps track of where a file is on the disk, and information about the file's size

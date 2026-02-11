@@ -118,4 +118,10 @@ Basic Disks
 - Once volume is created on disk, can only be increased in size.
 - Basic disks do not support the following:
 	- RAID config
+	- Disk striping
+	- Disk spanning
+
+Dynamic Disks
+- Uses a database to store volume information about dynamic disks on the system.
+- 
 

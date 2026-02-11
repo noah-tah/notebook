@@ -143,7 +143,7 @@ Disk Cluster
 - Group of one or more sectors used to store files.
 
 Linked List
-- Method used in FAT32 files that connec
+- Method used in FAT32 filesystems that store data in a cluster that points to the next cluster
 
 
 

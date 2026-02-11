@@ -26,4 +26,5 @@ Server might contain
 - Software applications
 - Other administrative files
 
-Operating Syste
+Operating System files should be on a separate hard disk than User files
+- 

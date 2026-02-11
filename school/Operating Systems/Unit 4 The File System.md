@@ -1,5 +1,8 @@
 Folder
-- Organizational structure that contains files and other folders on the storage device1, 
+- Organizational structure that contains files and other folders on the storage device. It also contains information about the files it contains such as their type, size, or the date they were created or last modified. 
 
 Directory
-- Old term for Folder, typically when you are referring to a Linux file system
+- Old term for Folder, typically when you are referring to a Linux file system.
+
+Root
+- The root of the filesysyt

@@ -152,7 +152,8 @@ Master File Table (MFT)
 - Storage organization system used with NTFS
 - Located within the beginning of the partition
 - A file on the system
-- Second file on the system contains the first 3 records so that the MFT can be reprodu
+- Second file on the system contains the first 3 records so that the MFT can be reproduced in the event of catastrophic failure.
+- When a file is created in NTFS, Metadata about that file is stored in the MFT.
 
 
 

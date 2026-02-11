@@ -5,4 +5,8 @@ Directory
 - Old term for Folder, typically when you are referring to a Linux file system.
 
 Root
-- The root of the filesysyt
+- The root of the file system typically refers to the mass storage media or flash drive that the operating system is being run from.
+
+Subfolders or Subdirectories
+- A folder/directory within a folder/directory.
+

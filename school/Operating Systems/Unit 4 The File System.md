@@ -154,6 +154,7 @@ Master File Table (MFT)
 - A file on the system
 - Second file on the system contains the first 3 records so that the MFT can be reproduced in the event of catastrophic failure.
 - When a file is created in NTFS, Metadata about that file is stored in the MFT.
+	- If there is not enough space on the MFT, a cluster is utilized and the sequential clusters are noted in the MFT
 
 
 

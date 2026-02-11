@@ -74,3 +74,7 @@ High-level formatting
 Volume
 - A formatted partition
 - Volume can be formatted with the same file system or different file system in dual-boot set ups
+
+Partition Table
+- Reserved area that stores partition information
+- Known as the disk label in linux

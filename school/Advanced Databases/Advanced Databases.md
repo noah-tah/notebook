@@ -21,3 +21,33 @@ locking methods facilitiate the isolation of data items used in concurrently exe
 a lock gujanrtees exclusive use of a data ite to a current transaction
 the use of locks based on the asumption that conflct between transactions is likely tis usually referedd to asessimisstic locking
 a lock manager is responsible for assigning and policing the locks used by the transactinos
+MKXCV
+	as,dfl,
+
+
+
+
+# February 06, 2026
+ACID
+
+# February 06, 2026
+ACID
+
+Atomicity
+- Once a transaction is started, it must be completed or rolled back, but never partially complete.
+Consistency
+- Database must begin in a consistent state, and must end in a consistent state.
+Isolation
+- When a datum is accessed, it may not be accessed by another transaction until the current transaction is complete
+Durability
+- When a transaction is complete, its effects are permanent, and cannot be rolled back. # February 06, 2026
+ACID
+
+Atomicity
+- Once a transaction is started, it must be completed or rolled back, but never partially complete.
+Consistency
+- Database must begin in a consistent state, and must end in a consistent state.
+Isolation
+- When a datum is accessed, it may not be accessed by another transaction until the current transaction is complete
+Durability
+- When a transaction is complete, its effects are permanent, and cannot be rolled back. 

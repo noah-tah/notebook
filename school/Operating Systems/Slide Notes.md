@@ -141,3 +141,6 @@ A software developer needs to design an application in which multiple parts of t
 A true multiuser operating system allows multiple users to sign in to it, start and stop processes (that is, run user applications). interact with the user interface, and access the local file system. Linux/UNIX operating systems have always supported multiple users, and Windows Server versions also allow multiple users through RDP, where one user can be signed into the local console and others can be signed in remotely. The remote users have the same access to the Windows user interface, file system, CPU, and memory  as the locally signed-in users. A multiuser operating system is, by definition, also a multitasking operating system.
 	- Does this mean that if multiple users are signed into a multiusers Windows operating system, they are all using the same mouse cursor and user interface, and are fighting over control at all times if they are all using the computer at the same time? Or does this create a new virtual instance of that user interface, utilizing the computer's hardware capabilities to do so, so that multiple users can work on the same filesystem?
 	- What does it mean by being signed into the local console? do they mean like powershell admin?
+
+
+

@@ -38,3 +38,6 @@ Metadata
 
 File Attributes
 - Stored with the filename on the disk and it contains storage and operational parameters like whether it is read/write or read only or perhaps it is hidden.
+
+Analyzing file 
+![[Pasted image 20260211070036.png]]

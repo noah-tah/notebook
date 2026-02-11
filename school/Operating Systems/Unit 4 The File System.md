@@ -145,7 +145,8 @@ Disk Cluster
 Linked List
 - Method used in FAT32 filesystems that store data in a cluster that points to the next cluster
 
-
+Bad Clusters
+- Sectors of the disk that are never used by the FAT32 filesystem
 
 
 

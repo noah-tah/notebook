@@ -94,3 +94,6 @@ Bootstrap code
 
 Active Partition
 - This meant the partition contained boot code, and stored data for the PC system, and contained the operating system.
+
+Extended partition
+- Divided into one or more logical  drives before disk space can 

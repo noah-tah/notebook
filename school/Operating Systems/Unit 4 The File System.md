@@ -148,6 +148,8 @@ Linked List
 Bad Clusters
 - Sectors of the disk that are never used by the FAT32 filesystem
 
+Master File Table (MFT)
+- 
 
 
 

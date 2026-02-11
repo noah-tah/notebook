@@ -46,4 +46,7 @@ Analyzing file Metadata on Windows using a PowerShell command
 Low-level format
 - Marks the location of disk tracks and sectors
 - Disc is divided into tracks
-- 
+
+Tracks
+- Concentric circles around the disk.
+- Each track is divided int

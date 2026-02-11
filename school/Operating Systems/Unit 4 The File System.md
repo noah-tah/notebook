@@ -56,8 +56,10 @@ Sectors
 
 Block allocation
 - Divides disk into logical blocks called clusters, sometimes called allocation units in Windows
-- Keeps track of
-
+- Keeps track of where specific files are stored on the disk.
 
 Clusters
 - Refer o a group of sectors on a disk
+
+File Allocation Table (FAT)
+- Decd

@@ -84,3 +84,9 @@ Partition Table
 
 Master Boot Record (MBR)
 - Traditional BIOS uses this
+- Does not only contain partition information.
+	- Also contains boot code that locate and starts the operating system
+		- Bootstrap code, or master boot code
+
+Bootstrap code
+- 

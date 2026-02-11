@@ -20,4 +20,10 @@ Clients and Servers Organize different types of files
 - Server operating systems might have a structure based around applications and user files.
 
 Server might contain
-- Operati
+- Operating System Files
+- User files for each specific user
+- Public files that are available to all users
+- Software applications
+- Other administrative files
+
+Operating Syste

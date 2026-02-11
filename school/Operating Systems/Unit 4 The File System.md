@@ -68,6 +68,9 @@ File Allocation Table (FAT)
 Partitioning
 - Process of reserving some or all of the disk to be used by a particular file system such as NTFS or FAT32.
 
-
 High-level formatting
-- Process of setting initial folder structure
+- Process of setting initial folder structure, and file allocation information
+
+Volume
+- A formatted partition
+- Volume can be formatted with the same file system or different file system in dual-boot set ups

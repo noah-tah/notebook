@@ -27,5 +27,6 @@ Server might contain
 - Other administrative files
 
 Disk contention
-- Occurs when two  or more processes
-Operating System files should be on a separate hard disk than User files
+- Occurs when two  or more processes attempt to access the files on a disc at the same time.
+- Operating System files should be on a separate hard disk than User files to solve this problem.
+	- It is also useful to store 

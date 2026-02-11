@@ -11,4 +11,6 @@ Subfolders or Subdirectories
 - A folder/directory within a folder/directory.
 
 Folder Structure
-- Different operating systems have differ
+- Different operating systems have different methods for organizing their Folder Structure
+- On Windows, most system configuration files are contained in the `\Windows` directory
+- On Linux, most config files are contained in subdirectories of the `etc` directory

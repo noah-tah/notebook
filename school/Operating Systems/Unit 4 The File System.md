@@ -96,4 +96,4 @@ Active Partition
 - This meant the partition contained boot code, and stored data for the PC system, and contained the operating system.
 
 Extended partition
-- Divided into one or more logical  drives before disk space can 
+- Divided into one or more logical  drives before disk space can be accessed, can not be marked active and contain an OS volume

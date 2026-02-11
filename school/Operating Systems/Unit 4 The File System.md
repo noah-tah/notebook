@@ -10,3 +10,5 @@ Root
 Subfolders or Subdirectories
 - A folder/directory within a folder/directory.
 
+Folder Structure
+- Different operating systems have differ

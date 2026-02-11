@@ -189,5 +189,7 @@ inodes
 Superblock
 - contains information about the layout of blocks, sectors, and cylinder groups on the file system
 
+Raw Device
+- A device that has not been divided into
 
 

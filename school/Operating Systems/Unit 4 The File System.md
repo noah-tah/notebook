@@ -55,4 +55,9 @@ Sectors
 - Portion of a track on a storage disk.
 
 Block allocation
-- 
+- Divides disk into logical blocks called clusters, sometimes called allocation units in Windows
+- Keeps track of
+
+
+Clusters
+- Refer o a group of sectors on a disk

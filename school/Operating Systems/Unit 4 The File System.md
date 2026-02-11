@@ -65,3 +65,9 @@ File Allocation Table (FAT)
 - Defines the way data is stored on the drive
 - Keeps track of where a file is on the disk, and information about the file's sizeBlock allocation data is stored on the disk itself using one of two techniques. One technique uses a fixed portion of the disk to store this data—for example, the file allocation table (FAT) file system initially implemented in MS-DOS and supported by all versions of Windows and most other OSs. The other technique uses various locations on the disk to store a special type of file that is used for folder and file allocation information; examples include NTFS for Windows systems and the Linux file systems. On NTFS-formatted disks, the allocation table is called the Master File Table (MFT), which is discussed later in the module. As you can imagine, the areas of the disk in which allocation information and folder information are stored are very important; without this data, it would be impossible to access any of the files on the system without using disk repair tools.
 
+Partitioning
+- Process of reserving some or all of the disk to be used by a particular file system such as NTFS or FAT32.
+
+
+High-level formatting
+- Process of setting initial folder structure

@@ -86,7 +86,7 @@ Master Boot Record (MBR)
 - Traditional BIOS uses this
 - Does not only contain partition information.
 	- Also contains boot code that locate and starts the operating system
-		- Bootstrap code, or master boot code
+		- Bootstrap code, or master boot codeGPT is more reliable than MBR because multiple copies of the partition data are stored in various places on the disk, so if one copy of the table is corrupted, it can be rebuilt using other copies.
 
 Bootstrap code
 - Examines the partition table and then it determines which partition to boot from, usually the active partition. 
@@ -102,4 +102,9 @@ Logical drives
 - Sections of an extended partition that can contain data, but can not be an active partition containing a bootable os.
 
 GUID Partition Table (GPT)
-- More reliable than MBR because  multiple copies of the partition data are stored in multiple places on theo
+- More reliable than MBR because  multiple copies of the partition data are stored in multiple places on the disk, creating redundancy.
+- Can be rebuilt using other copies.
+
+
+Cyclic Redundancy Check (CRC) 
+- Ensure no unauthorized changes have happened to the table.

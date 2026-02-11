@@ -126,3 +126,6 @@ Dynamic Disks
 - Stores volume information not only for all volumes on that disk but about all volumes on all the disks.
 - If one database gets corrupted,  it can be repaired using the database information from another disk.
 
+Mount
+- Process that makes a disk partition or volume availble for use
+

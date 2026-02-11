@@ -182,5 +182,9 @@ UNIX File System (UFS)
 Extended File System (EXT)
 - Default Linux File System
 
+inodes
+- Short for "information node"
+- Stores key ifn
+
 
 

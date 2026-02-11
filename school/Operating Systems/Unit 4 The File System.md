@@ -35,3 +35,6 @@ Disk contention
 
 Metadata
 - Metadata is data that describes the file and its contents, but is not the actual content contained within the file.
+
+File Attributes
+- Stored with the filename on the 

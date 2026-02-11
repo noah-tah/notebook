@@ -184,7 +184,10 @@ Extended File System (EXT)
 
 inodes
 - Short for "information node"
-- Stores key ifn
+- Stores key information about files
+
+Superblock
+- contains information about the layout of blocks, sectors, and cylinder groups on the file system
 
 
 

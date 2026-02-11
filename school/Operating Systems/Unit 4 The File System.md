@@ -127,5 +127,20 @@ Dynamic Disks
 - If one database gets corrupted,  it can be repaired using the database information from another disk.
 
 Mount
-- Process that makes a disk partition or volume availble for use
+- Process that makes a disk partition or volume available for use by the OS
+
+Volume mount point
+- Empty folder where the volume is mounted.
+
+Formatting
+- 
+
+
+
+
+
+
+
+
+
 

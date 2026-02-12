@@ -3,4 +3,4 @@ I had to pause this project so that I could focus on getting work done because I
 The reason I was not able to install on the hard drive was because it is using a Master Boot Record (MBR) partition scheme. I went down two different rabbit holes:
 
 1. Installing Drivers within the Windows Install Screen that will allow me to format the Hard Drive?
-2. Launching into Windows
+2. Launching into Windows via a Boot Drive and changing it that way?z

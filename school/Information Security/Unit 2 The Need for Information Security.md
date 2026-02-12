@@ -3,4 +3,9 @@ Information Assets
 
 
 Information
+- Data that has been organized in a way that helps understand how that data is useful.
+- Basically data with context.
+- Context to the data.
+- Data context loop central brother.
+Data
 - 

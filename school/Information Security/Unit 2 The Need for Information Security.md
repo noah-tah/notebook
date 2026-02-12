@@ -13,4 +13,4 @@ Data
 
 Information Security performs the four following functions
 - Protecting the companies ability to function
-- 
+- Protecting the information the company uses whether 

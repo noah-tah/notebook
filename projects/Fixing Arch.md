@@ -9,3 +9,7 @@ Boy that is a terribly optimized photo
 
 - Change or remove one thing at a time
 	- With every change, run `hyprctl reload`
+	- if it breaks, you know what broke bloke
+- Make backups
+`cp -r ~/.local/share/omarchy/default/hypr ~/.local/share/omarchy/default/hypr.backup`
+

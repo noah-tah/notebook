@@ -22,6 +22,7 @@ cp -r ~/.local/share/omarchy/default/hypr ~/.local/share/omarchy/defaul/t/hypr.b
 journalctl -xe | grep hypr
 journalctl -u uwsm_hyprland.desktop -f # Listen to active logs
 timedatectl status # check the hardware time
+journalctl -u uwsm_hyprland.desktop -f # follows user session
 hyprctl errors
 ```
 

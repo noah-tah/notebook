@@ -33,4 +33,5 @@ hyprctl errors
 
 # The Ultimatum
 
-- Rip out everything that is not absolutely essential to fix the errors, 
+- Rip out everything that is not absolutely essential to fix the errors, and we will reclaim our arch setup by creating our own config and ripping out omarchy
+- for now fix the syntax errors

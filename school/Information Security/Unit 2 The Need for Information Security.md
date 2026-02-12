@@ -8,4 +8,6 @@ Information
 - Context to the data.
 - Data context loop central brother.
 Data
-- Items of fact that is collected by the 
+- Items of fact that is collected by the organization
+- includes raw number, facts, and words
+- 

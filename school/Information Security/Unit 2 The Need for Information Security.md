@@ -10,4 +10,7 @@ Information
 Data
 - Items of fact that is collected by the organization
 - includes raw number, facts, and words
+
+Information Security performs the four following functions
+- Protecting the companies ability to function
 - 

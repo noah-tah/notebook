@@ -1,1 +1,3 @@
-I had to pause this project so that I could focus on getting work done because I do not want to fal
+I had to pause this project so that I could focus on getting work done because I do not want to fall behind on my school work at this time for figuring this out. For now I will just fix my hyprland config and stick with arch for a while longer. I can virtualize windows pretty easily so I can do my tableau homework after I catch up on Information Security.
+
+The reason I was not able to install on the hard drive was because it is using 

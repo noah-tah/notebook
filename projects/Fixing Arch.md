@@ -29,3 +29,8 @@ hyprctl errors
 ```
 
 ```
+
+
+# The Ultimatum
+
+- Rip out everything that is not absolutely essential to fix the errors, 

@@ -14,4 +14,5 @@ Data
 Information Security performs the four following functions
 - Protecting the companies ability to function
 - Protecting the information the company uses whether it is physical or electronic
-- Enable th
+- Enable the safe operations of the IT systems
+- Safeguarding the companies technology assets

@@ -5,4 +5,7 @@ Updated arch last night to install steam and we woke up to 1381,935 errors.
 
 Boy that is a terribly optimized photo
 
-# Break things down
+# Break things in chunks, but create backups first
+
+- Change or remove one thing at a time
+	- With every change, run `hyprctl reload`

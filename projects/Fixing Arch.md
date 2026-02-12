@@ -13,6 +13,12 @@ Boy that is a terribly optimized photo
 - Make backups
 ```bash
 cp -r ~/.local/share/omarchy/default/hypr ~/.local/share/omarchy/defaul/t/hypr.backup
+```
+- Basically making a copy of the folder int a .backup file
+	- How does it work? not sure yet
+- When something breaks, check the errors:
 
+```bash
+journalctl -xe 
 ```
 

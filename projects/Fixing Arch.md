@@ -5,3 +5,4 @@ Updated arch last night to install steam and we woke up to 1381,935 errors.
 
 Boy that is a terribly optimized photo
 
+# Break things down

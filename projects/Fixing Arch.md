@@ -19,6 +19,7 @@ cp -r ~/.local/share/omarchy/default/hypr ~/.local/share/omarchy/defaul/t/hypr.b
 - When something breaks, check the errors:
 
 ```bash
-journalctl -xe 
+journalctl -xe | grep hypr
+hyprctl errors
 ```
 

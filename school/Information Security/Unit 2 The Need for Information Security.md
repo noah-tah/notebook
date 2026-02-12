@@ -8,4 +8,4 @@ Information
 - Context to the data.
 - Data context loop central brother.
 Data
-- 
+- Items of fact that is collected by the 

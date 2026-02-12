@@ -11,5 +11,8 @@ Boy that is a terribly optimized photo
 	- With every change, run `hyprctl reload`
 	- if it breaks, you know what broke bloke
 - Make backups
-`cp -r ~/.local/share/omarchy/default/hypr ~/.local/share/omarchy/default/hypr.backup`
+```bash
+cp -r ~/.local/share/omarchy/default/hypr ~/.local/share/omarchy/defaul/t/hypr.backup
+
+```
 

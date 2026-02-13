@@ -28,11 +28,21 @@ Asset valuation
 	- Value retained from the cost of creating the information asset
 		Value retained from past maintenance of the information asset
 		Value implied by the cost of replacing the information
-Value from providing the information
-Value acquired from the cost of protecting the information
-Value to owners
-Value of intellectual property
-Value to adversaries
-Loss of productivity while the information assets are unavailable
-Loss of revenue while information assets are unavailable
-Total cost of ownership 
+		Value from providing the information
+		Value acquired from the cost of protecting the information
+		Value to owners
+		Value of intellectual property
+		Value to adversaries
+		Loss of productivity while the information assets are unavailable
+		Loss of revenue while information assets are unavailable
+		Total cost of ownership 
+
+
+single loss expectancy (SLE)
+- In a cost-benefit analysis, the calculated value associated with the most likely loss from an attack (impact); the SLE is the product of the asset’s value and the exposure factor.
+
+annualized rate of occurrence (ARO)
+- In a cost-benefit analysis, the expected frequency of an attack, expressed on a per-year basis.
+
+
+

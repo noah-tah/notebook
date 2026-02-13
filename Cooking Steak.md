@@ -1,0 +1,1 @@
+The things that I know about cooking a steak is that if you want a nice medium rare you have two options. You either go hot and fast, searing each side and flipping until you reach 130 internal and then letting the steak rest for 5 minutes. Then another method is the re

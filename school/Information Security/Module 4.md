@@ -56,4 +56,10 @@ The OCTAVE Methods
 		Small organizations
 	OCTAVE-Allegro
 		Streamlined InfoSec assessment
-	
+
+
+![[Pasted image 20260213092117.png]]
+
+FAIR
+
+Factor Analysis of Information Risk (FAIR),

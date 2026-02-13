@@ -194,4 +194,8 @@ Stage 4—Derive and Articulate Risk
 - Controls affects incidents in different ways:
 	- Reduce frequency (ARO)
 		- preventative controls stop incidents from happening
-	- Reduce impact 
+	- Reduce impact (cost per incident)
+		- corrective controls limit damage when incidents do occur
+- A control can affect one but not the other when
+	- pure prevention
+		- firewall blocks 80 percent of attacks, but when one gets through, damage is th s

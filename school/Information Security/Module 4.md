@@ -4,7 +4,16 @@ risk management
 risk assessment
 	The identification, analysis, and evaluation of risk as initial parts of risk management.
 
+risk treatment or risk control
+	The application of safeguards or controls to reduce the risks to an organization’s information assets to an acceptable level.
 
+RM framework
+	The overall structure of the strategic planning and design for the entirety of the organization’s RM efforts.
+
+RM process
+	The identification, analysis, evaluation, and treatment of risk to information assets, as specified in the RM framework.
+
+RM Policy
 
 
 ![[Pasted image 20260213090937.png]]

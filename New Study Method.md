@@ -1,0 +1,1 @@
+This method was developed this morning with a conversation with ChatGPT after prepping my lunch and dinner. I decided that transcribing all the information for each key term and concept was too much time dedicated and isn

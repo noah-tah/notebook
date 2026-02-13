@@ -50,8 +50,13 @@ risk identification
 	- prioritize them by overall importance
 
 data classification scheme
-	a formal access control methodology used to assign a level of confidentiality to an information asset and thus restrict the number of people who can
+	a formal access control methodology used to assign a level of confidentiality to an information asset and thus restrict the number of people who can access it
 
+threat assesssment
+- An evaluation of the threats to information assets, including a determination of their likelihood of occurrence and potential impact of an attack
+
+risk analysis
+- a determination of 
 ![[Pasted image 20260213090937.png]]
 - Although it might seem counterintuitive, the goal of InfoSec is not to bring residual risk to zero; rather, it is to bring residual risk in line with an organization’s risk appetite. If decision makers have been informed of uncontrolled risks and the proper authority groups within the communities of interest decide to leave residual risk in place, then the InfoSec program has accomplished its primary goal. 
 

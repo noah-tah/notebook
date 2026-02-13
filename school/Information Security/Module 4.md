@@ -198,4 +198,7 @@ Stage 4—Derive and Articulate Risk
 		- corrective controls limit damage when incidents do occur
 - A control can affect one but not the other when
 	- pure prevention
-		- firewall blocks 80 percent of attacks, but when one gets through, damage is th s
+		- firewall blocks 80 percent of attacks, but when one gets through, damage is the same
+	- pure mitigation
+		- insurance doesn't prevent fire but reduces financial impact
+

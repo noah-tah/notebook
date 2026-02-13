@@ -50,6 +50,7 @@ annualized loss expectancy (ALE)
 
 
 The OCTAVE Methods
+The Operationally Critical Threat, Asset, and Vulnerability Evaluation (OCTAVE)
 	The original OCTAVE Method
 		Large organizations
 	OCTAVE-S
@@ -62,4 +63,11 @@ The OCTAVE Methods
 
 FAIR
 
-Factor Analysis of Information Risk (FAIR),
+Factor Analysis of Information Risk (FAIR)
+	A taxonomy for information risk
+	Standard nomenclature for information risk terms
+	A framework for establishing data collection criteria
+	Measurement scales for risk factors
+	A computational engine for calculating risk
+	A modeling construct for analyzing complex risk scenarios
+![[Pasted image 20260213092303.png]]

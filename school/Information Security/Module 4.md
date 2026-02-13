@@ -71,3 +71,7 @@ Factor Analysis of Information Risk (FAIR)
 	A computational engine for calculating risk
 	A modeling construct for analyzing complex risk scenarios
 ![[Pasted image 20260213092303.png]]
+- Stage 1—Identify Scenario Components
+Stage 2—Evaluate Loss Event Frequency (LEF)
+Stage 3—Evaluate Probable Loss Magnitude (PLM)
+Stage 4—Derive and Articulate Risk

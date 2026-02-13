@@ -9,10 +9,4 @@
 - When the potential loss is substantial—Apply design principles, architectural designs, and technical and nontechnical protections to limit the extent of the attack, thereby reducing the potential for loss.
 ![[Pasted image 20260213091122.png]]
 
-
-![[Pasted image 20260213091229.png]]
-
-Clearwater Compliance’s Information Risk Management application showing the Risk Treatment and Evaluation Form.
-
-
-
+Cost Avoidance

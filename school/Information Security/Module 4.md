@@ -189,3 +189,9 @@ Stage 4—Derive and Articulate Risk
 
 
 
+
+# Why values change
+- Controls affects incidents in different ways:
+	- Reduce frequency (ARO)
+		- preventative controls stop incidents from happening
+	- Reduce impact 

@@ -50,13 +50,13 @@ annualized loss expectancy (ALE)
 
 
 The OCTAVE Methods
-The Operationally Critical Threat, Asset, and Vulnerability Evaluation (OCTAVE)
-	The original OCTAVE Method
-		Large organizations
-	OCTAVE-S
-		Small organizations
-	OCTAVE-Allegro
-		Streamlined InfoSec assessment
+	The Operationally Critical Threat, Asset, and Vulnerability Evaluation (OCTAVE)
+		The original OCTAVE Method
+			Large organizations
+		OCTAVE-S
+			Small organizations
+		OCTAVE-Allegro
+			Streamlined InfoSec assessment
 
 
 ![[Pasted image 20260213092117.png]]
@@ -89,3 +89,9 @@ Stage 4—Derive and Articulate Risk
 ![[Pasted image 20260213092640.png]]
 ![[Pasted image 20260213092651.png]]
 - NIST Risk Management Framework (RMF)
+	The National Institute of Standards and Technology (NIST)
+
+![[Pasted image 20260213092905.png]]
+
+![[Pasted image 20260213092918.png]]
+

@@ -16,3 +16,8 @@ Information Security performs the four following functions
 - Protecting the information the company uses whether it is physical or electronic
 - Enable the safe operations of the IT systems
 - Safeguarding the companies technology assets
+
+- Planning
+- Policy
+- People
+- 

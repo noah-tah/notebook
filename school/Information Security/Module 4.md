@@ -1,1 +1,11 @@
 ![[Pasted image 20260213090937.png]]
+
+![[Pasted image 20260213090946.png]]
+
+When a vulnerability (flaw or weakness) exists in an important asset—Implement security controls to reduce the likelihood of a vulnerability being exploited.
+
+- When a vulnerability can be exploited—Apply layered protections, architectural designs, and administrative controls to minimize the risk or prevent the occurrence of an attack.
+
+- When the attacker’s potential gain is greater than the costs of attack—Apply protections to increase the attacker’s cost or reduce the attacker’s gain by using technical or managerial controls. Note that the attacker’s potential gain is considered from his or her perspective, not the organization’s, so the latter’s perceived potential loss could be much smaller than the attacker’s potential gain.
+
+- When the potential loss is substantial—Apply design principles, architectural designs, and technical and nontechnical protections to limit the extent of the attack, thereby reducing the potential for loss.

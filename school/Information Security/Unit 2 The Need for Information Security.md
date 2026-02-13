@@ -19,5 +19,7 @@ Information Security performs the four following functions
 
 - Planning
 - Policy
+- Programs
+- Protection
 - People
-- 
+- Projects

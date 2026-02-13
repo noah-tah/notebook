@@ -10,3 +10,7 @@
 ![[Pasted image 20260213091122.png]]
 
 Cost Avoidance
+- The financial savings from using the mitigation risk treatment strategy to implement a control and eliminate the financial ramifications of an incident.
+
+Cost Benefit Analysis (CBA)
+- The formal assessment and presentation of the economic expenditures needed for a particular security control, contrasted with its projected value to the organization; also known as an economic feasibility study.

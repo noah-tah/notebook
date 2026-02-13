@@ -61,15 +61,14 @@ The Operationally Critical Threat, Asset, and Vulnerability Evaluation (OCTAVE)
 
 ![[Pasted image 20260213092117.png]]
 
-FAIR
-
-Factor Analysis of Information Risk (FAIR)
-	A taxonomy for information risk
-	Standard nomenclature for information risk terms
-	A framework for establishing data collection criteria
-	Measurement scales for risk factors
-	A computational engine for calculating risk
-	A modeling construct for analyzing complex risk scenarios
+- FAIR
+	- Factor Analysis of Information Risk (FAIR)
+		A taxonomy for information risk
+		Standard nomenclature for information risk terms
+		A framework for establishing data collection criteria
+		Measurement scales for risk factors
+		A computational engine for calculating risk
+		A modeling construct for analyzing complex risk scenarios
 ![[Pasted image 20260213092303.png]]
 Stage 1—Identify Scenario Components
 1. Identify the asset at risk.
@@ -86,6 +85,7 @@ Stage 3—Evaluate Probable Loss Magnitude (PLM)
 Stage 4—Derive and Articulate Risk
 10. Derive and articulate risk.
 
-ISO Standards for InfoSec Risk Management
+- ISO Standards for InfoSec Risk Management
 ![[Pasted image 20260213092640.png]]
 ![[Pasted image 20260213092651.png]]
+- NIST Risk Management Framework (RMF)

@@ -39,10 +39,15 @@ Asset valuation
 
 
 single loss expectancy (SLE)
-- In a cost-benefit analysis, the calculated value associated with the most likely loss from an attack (impact); the SLE is the product of the asset’s value and the exposure factor.
+	In a cost-benefit analysis, the calculated value associated with the most likely loss from an attack (impact); the SLE is the product of the asset’s value and the exposure factor.
 
 annualized rate of occurrence (ARO)
-- In a cost-benefit analysis, the expected frequency of an attack, expressed on a per-year basis.
+	In a cost-benefit analysis, the expected frequency of an attack, expressed on a per-year basis.
 
 
+annualized loss expectancy (ALE)
+	In a cost-benefit analysis, the product of the annualized rate of occurrence and single loss expectancy.
 
+
+The OCTAVE Methods
+	

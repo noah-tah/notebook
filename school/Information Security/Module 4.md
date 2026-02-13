@@ -76,6 +76,16 @@ Three common approaches to implement the mitigation risk treatment strategy:
 transference risk treatment strategy/risk sharing/risk transfer
 - The risk treatment strategy that attempts to shift risk to other assets, processes, or organizations.
 
+Service Level Agreement (SLA)
+- Service category
+- Acceptable range of service quality
+- Definition of what is being measured
+- Formula for calculating the measurement
+- Relevant credits/penalties for achieving/failing performance targets
+- Frequency and interval of measurements
+
+acceptance risk treament strat
+
 ![[Pasted image 20260213090937.png]]
 - Although it might seem counterintuitive, the goal of InfoSec is not to bring residual risk to zero; rather, it is to bring residual risk in line with an organization’s risk appetite. If decision makers have been informed of uncontrolled risks and the proper authority groups within the communities of interest decide to leave residual risk in place, then the InfoSec program has accomplished its primary goal. 
 

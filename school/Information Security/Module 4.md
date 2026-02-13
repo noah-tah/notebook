@@ -14,3 +14,14 @@ Cost Avoidance
 
 Cost Benefit Analysis (CBA)
 - The formal assessment and presentation of the economic expenditures needed for a particular security control, contrasted with its projected value to the organization; also known as an economic feasibility study.
+
+Cost
+- Cost of development or acquisition—Hardware, software, and services
+- Training fees—Cost to train personnel
+- Cost of implementation—Installing, configuring, and testing hardware, software, and services
+- Service costs—Vendor fees for maintenance and upgrades or from outsourcing the information asset’s protection and/or insurance
+- Cost of maintenance—Labor expense to verify and continually test, maintain, train, and update
+- Potential cost from the loss of the asset—Either from removal of service (termination) or compromise by attack 
+
+Asset valuation
+The process of assigning financial value or worth to each information asset.

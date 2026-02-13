@@ -24,7 +24,13 @@ RM Policy
 - References to other key policies, plans, and guidelines
 
 risk management (RM) plan
-	A document that conta
+	A document that contains specifications for the implementation and conduct of PM efforts
+
+residual risk
+- The risk to information assets that remains even after the current controls have been applied
+
+risk appetite
+- the quantity and nature of risk that organizations are willing to accept as they evaluate the trade-offs between perfect security a
 
 ![[Pasted image 20260213090937.png]]
 - Although it might seem counterintuitive, the goal of InfoSec is not to bring residual risk to zero; rather, it is to bring residual risk in line with an organization’s risk appetite. If decision makers have been informed of uncontrolled risks and the proper authority groups within the communities of interest decide to leave residual risk in place, then the InfoSec program has accomplished its primary goal. 

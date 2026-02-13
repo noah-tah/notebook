@@ -72,32 +72,16 @@ Factor Analysis of Information Risk (FAIR)
 	A modeling construct for analyzing complex risk scenarios
 ![[Pasted image 20260213092303.png]]
 Stage 1—Identify Scenario Components
-
 1. Identify the asset at risk.
-
 2. Identify the threat community under consideration.
-
 Stage 2—Evaluate Loss Event Frequency (LEF)
-
 3. Estimate the probable Threat Event Frequency (TEF).
 4. Estimate the Threat Capability (TCap).
 5. Estimate Control Strength (CS).
 6. Derive Vulnerability (Vuln).
-    7.
-
-    Derive Loss Event Frequency (LEF).
-
+7. Derive Loss Event Frequency (LEF).
 Stage 3—Evaluate Probable Loss Magnitude (PLM)
-
-    8.
-
-    Estimate worst-case loss.
-    9.
-
-    Estimate probable loss.
-
+8. Estimate worst-case loss.
+9. Estimate probable loss.
 Stage 4—Derive and Articulate Risk
-
-    10.
-
-    Derive and articulate risk.*
+10. Derive and articulate risk.

@@ -85,3 +85,7 @@ Stage 3—Evaluate Probable Loss Magnitude (PLM)
 9. Estimate probable loss.
 Stage 4—Derive and Articulate Risk
 10. Derive and articulate risk.
+
+ISO Standards for InfoSec Risk Management
+![[Pasted image 20260213092640.png]]
+![[Pasted image 20260213092651.png]]

@@ -36,7 +36,12 @@ risk tolerance
 - the assessment of the amount of risk an organization is willing to accept for a particular information asset, typically synthesized into the organization's overall risk appetite
 
 zero-tolerance risk exposure
-- A
+- An extreme level of risk tolerance whereby the organization is unwilling to allow any successful attacks or suffer any loss to an information asset.
+
+
+risk appetite statement
+- A formal document developed by the organization that specifies its overall willingness to accept risk to its information assets, based on a sny
+
 ![[Pasted image 20260213090937.png]]
 - Although it might seem counterintuitive, the goal of InfoSec is not to bring residual risk to zero; rather, it is to bring residual risk in line with an organization’s risk appetite. If decision makers have been informed of uncontrolled risks and the proper authority groups within the communities of interest decide to leave residual risk in place, then the InfoSec program has accomplished its primary goal. 
 

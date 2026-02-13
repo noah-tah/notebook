@@ -84,7 +84,8 @@ Service Level Agreement (SLA)
 - Relevant credits/penalties for achieving/failing performance targets
 - Frequency and interval of measurements
 
-acceptance risk treament strat
+acceptance risk treatment strategy/risk acceptance
+- The risk treatment strategy that indicates the organization is willing to accept the current level of residual risk and as a result the organization makes a conscious decision to do nothing else to protect an information asset from risk and to "live with" the outcome from any resulting exploitation.
 
 ![[Pasted image 20260213090937.png]]
 - Although it might seem counterintuitive, the goal of InfoSec is not to bring residual risk to zero; rather, it is to bring residual risk in line with an organization’s risk appetite. If decision makers have been informed of uncontrolled risks and the proper authority groups within the communities of interest decide to leave residual risk in place, then the InfoSec program has accomplished its primary goal. 

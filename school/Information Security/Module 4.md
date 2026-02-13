@@ -1,3 +1,12 @@
+risk management
+	The process of identifying risk, assessing its relative magnitude, and taking steps to reduce it to an acceptable level.
+
+risk assessment
+	The identification, analysis, and evaluation of risk as initial parts of risk management.
+
+
+
+
 ![[Pasted image 20260213090937.png]]
 - Although it might seem counterintuitive, the goal of InfoSec is not to bring residual risk to zero; rather, it is to bring residual risk in line with an organization’s risk appetite. If decision makers have been informed of uncontrolled risks and the proper authority groups within the communities of interest decide to leave residual risk in place, then the InfoSec program has accomplished its primary goal. 
 
@@ -94,4 +103,6 @@ Stage 4—Derive and Articulate Risk
 ![[Pasted image 20260213092905.png]]
 
 ![[Pasted image 20260213092918.png]]
+
+
 

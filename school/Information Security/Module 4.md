@@ -50,4 +50,10 @@ annualized loss expectancy (ALE)
 
 
 The OCTAVE Methods
+	The original OCTAVE Method
+		Large organizations
+	OCTAVE-S
+		Small organizations
+	OCTAVE-Allegro
+		Streamlined InfoSec assessment
 	

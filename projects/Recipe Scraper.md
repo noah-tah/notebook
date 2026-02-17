@@ -673,3 +673,364 @@ AI normalization pass
 Validated recipe object
  ↓
 Database
+
+
+You’re thinking in exactly the right direction.  
+A **scraper → AI → normalized recipe pipeline** is basically a multi-stage text processing system where each stage makes the data cleaner and more structured.
+
+Here’s what a practical version looks like for a dev like you.
+
+---
+
+# 1. High-level architecture
+
+```
+URL
+ ↓
+HTML fetcher
+ ↓
+DOM parser
+ ↓
+Recipe candidate extractor (rules + heuristics)
+ ↓
+Structured text bundle
+ ↓
+AI normalization pass
+ ↓
+Validated recipe object
+ ↓
+Database
+```
+
+Each stage has a clear job. No magic. Just pipelines.
+
+---
+
+# 2. Stage 1 — Fetcher (boring but important)
+
+Goal: get raw HTML reliably.
+
+Typical stack:
+
+- Node: `axios` / `node-fetch`
+    
+- Python: `requests`
+    
+- Add headers to look like a real browser
+    
+- Cache responses locally (huge for development)
+    
+
+Output:
+
+```
+raw_html
+```
+
+---
+
+# 3. Stage 2 — DOM parser
+
+Goal: turn HTML into searchable structure.
+
+Typical tools:
+
+- Node: `cheerio`
+    
+- Python: `BeautifulSoup`
+    
+- Browser extension: real DOM
+    
+
+Output:
+
+```
+document tree
+```
+
+Now you can search for:
+
+- `<ul>` lists
+    
+- `<li>`
+    
+- `<p>`
+    
+- `<h2>`
+    
+- `<section>`
+    
+- JSON-LD blocks (important!)
+    
+
+---
+
+# 4. Stage 3 — Recipe candidate extraction (RULES, not AI)
+
+This is where most of the work happens.
+
+You want to detect:
+
+### A. Ingredient section clues
+
+Look for headings containing:
+
+```
+ingredients
+what you'll need
+for the sauce
+for the dough
+```
+
+Then grab:
+
+```
+the next <ul> or block of <li>
+```
+
+---
+
+### B. Instruction section clues
+
+Headings like:
+
+```
+instructions
+directions
+method
+steps
+preparation
+```
+
+Then grab:
+
+```
+the next <ol> or group of paragraphs
+```
+
+---
+
+### C. Time / yield detection
+
+Regex works well:
+
+```
+/prep.*?(\d+)/i
+/cook.*?(\d+)/i
+/serves?.*?(\d+)/i
+```
+
+---
+
+### D. THE SECRET WEAPON: JSON-LD structured data
+
+Many recipe sites embed this:
+
+```html
+<script type="application/ld+json">
+{
+ "@type": "Recipe",
+ "recipeIngredient": [...],
+ "recipeInstructions": [...]
+}
+</script>
+```
+
+If present, this is gold.  
+Use it first before any scraping heuristics.
+
+---
+
+# 5. Stage 4 — Build a structured bundle
+
+At this stage, you’re NOT using AI yet.
+
+You produce something like:
+
+```json
+{
+  "title": "...",
+  "ingredients_raw": [
+    "2 cups flour",
+    "1 tsp salt"
+  ],
+  "instructions_raw": [
+    "Mix flour and salt...",
+    "Bake at 350F..."
+  ],
+  "time_raw": "...",
+  "yield_raw": "...",
+  "source_url": "..."
+}
+```
+
+This is your **scraped candidate object**.
+
+---
+
+# 6. Stage 5 — AI normalization pass (the smart layer)
+
+Now AI becomes useful.
+
+Instead of “rewrite recipe”, you give it a **data cleaning job**.
+
+Prompt example:
+
+```
+You are a recipe parser.
+
+Convert this scraped recipe into normalized JSON.
+
+Rules:
+- Rewrite instructions in neutral wording
+- Standardize units
+- Split ingredients into quantity/unit/item fields
+- Remove fluff text
+- Keep meaning identical
+- Return ONLY valid JSON
+
+DATA:
+{your scraped object}
+```
+
+---
+
+### Output you want:
+
+```json
+{
+  "title": "Slow Cooker Chicken and Dumplings",
+  "ingredients": [
+    { "qty": 2, "unit": "cup", "item": "flour" },
+    { "qty": 1, "unit": "tsp", "item": "salt" }
+  ],
+  "steps": [
+    "Combine flour and salt in a bowl.",
+    "Cook at 350°F for 30 minutes."
+  ],
+  "prep_time_min": 10,
+  "cook_time_min": 30,
+  "servings": 4
+}
+```
+
+Now your DB has **clean, structured recipes**.
+
+---
+
+# 7. Stage 6 — Validation layer (CRITICAL)
+
+Never trust AI output blindly.
+
+You run checks:
+
+- ingredients array not empty
+    
+- steps > 1
+    
+- quantities numeric or null
+    
+- times reasonable
+    
+- title present
+    
+
+If it fails:
+
+```
+send to retry queue
+```
+
+---
+
+# 8. Stage 7 — Database schema
+
+Normalized tables like:
+
+```
+recipes
+ingredients
+steps
+tags
+sources
+```
+
+This allows:
+
+- search by ingredient
+    
+- meal planning
+    
+- grocery lists
+    
+- nutrition estimation later
+    
+
+---
+
+# 9. What your MVP could look like
+
+For you specifically (CS student, backend focus):
+
+### Week 1 MVP
+
+- CLI tool
+    
+- paste URL
+    
+- parse JSON-LD
+    
+- store recipe JSON locally
+    
+
+### Week 2
+
+- add heuristic scraping fallback
+    
+- add AI normalization step
+    
+
+### Week 3
+
+- SQLite DB
+    
+- simple query interface
+    
+
+That’s already portfolio-level.
+
+---
+
+# 10. Why this project is actually very strong for your career
+
+Because it demonstrates:
+
+- scraping
+    
+- parsing messy data
+    
+- structured pipelines
+    
+- API integration
+    
+- DB modeling
+    
+- reliability thinking
+    
+- legal awareness
+    
+
+This is **real backend engineering**, not toy stuff.
+
+---
+
+If you want, I can next show you:
+
+**A concrete tech stack suggestion tailored to you**  
+(Node vs Python vs C++ backend)
+
+or
+
+**A literal file-by-file project structure**
+
+Which do you want?

@@ -448,3 +448,9 @@ If you want, I can:
 ✅ Design the markdown template for Obsidian
 
 Which direction do you want to go first?**
+
+
+
+
+Cookbook.io
+- Scrapes recipe from website, get

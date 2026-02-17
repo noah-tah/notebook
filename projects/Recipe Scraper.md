@@ -453,4 +453,4 @@ Which direction do you want to go first?**
 
 
 Cookbook.io
-- Scrapes recipe from website, cutting out life story and ads only keeping recipe, saves it to database. Application queries database and displays recipes on demand. To avo
+- Scrapes recipe from website, cutting out life story and ads only keeping recipe, saves it to database. Application queries database and displays recipes on demand. To avoid legal trouble in the database schema i will make sure to take note of the author and the proper accreditation's. Is this legal? I am certain that it is technically feasible. I think that you could 

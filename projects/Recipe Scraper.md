@@ -1034,3 +1034,324 @@ or
 **A literal file-by-file project structure**
 
 Which do you want?
+
+
+Alright — tailored to **you specifically** (CS student, backend focus, likes systems/C++, comfortable with Linux/WSL, wants employable skills, not toy stacks).
+
+I’m going to give you **one primary stack** and **one alternate**, and explain _why_.
+
+---
+
+# 🥇 Primary Stack (best for employability + speed)
+
+This stack shows modern backend skills companies actually hire for.
+
+## **Core language: Node.js + TypeScript**
+
+Why this fits you:
+
+- You already know JavaScript
+    
+- TypeScript teaches real backend discipline
+    
+- Huge scraping + AI ecosystem
+    
+- Used everywhere in production
+    
+- Faster to ship than C++
+    
+
+This lets you focus on:
+
+- architecture
+    
+- data modeling
+    
+- pipelines
+    
+- reliability
+    
+
+…instead of fighting tooling.
+
+---
+
+## **Scraping Layer**
+
+### Libraries:
+
+- `axios` → HTTP requests
+    
+- `cheerio` → HTML parsing
+    
+- `puppeteer` (only if needed for JS-heavy sites)
+    
+
+Why:
+
+- Cheerio is basically jQuery for servers
+    
+- Super fast to learn
+    
+- Industry standard for scraping
+    
+
+---
+
+## **Structured Data Detection**
+
+### Libraries:
+
+- `jsonld` or plain JSON parsing
+    
+- `zod` → schema validation
+    
+
+Why:
+
+- Shows companies you know input validation
+    
+- Prevents AI garbage from entering DB
+    
+
+---
+
+## **AI Layer**
+
+Use:
+
+- OpenAI API (or equivalent)
+    
+
+Design pattern:
+
+```
+/ai/normalizeRecipe.ts
+/ai/prompts/normalize.ts
+```
+
+Why:
+
+- keeps prompts versioned
+    
+- clean separation from scraper
+    
+- very professional architecture
+    
+
+---
+
+## **Backend / Pipeline Orchestrator**
+
+Use:
+
+- plain TypeScript services
+    
+- no heavy framework initially
+    
+
+Structure like:
+
+```
+/src
+  /fetch
+  /extract
+  /ai
+  /validate
+  /db
+  /pipeline
+```
+
+Why:
+
+- shows you understand service boundaries
+    
+- looks like real production code
+    
+
+---
+
+## **Database**
+
+### MVP:
+
+👉 SQLite + `better-sqlite3`
+
+### Later upgrade:
+
+👉 PostgreSQL
+
+Why:
+
+- SQLite = zero friction
+    
+- Postgres = industry standard
+    
+- Same schema works for both
+    
+
+---
+
+## **ORM / Query Layer**
+
+Use:  
+👉 `Drizzle ORM`
+
+Why:
+
+- extremely employable
+    
+- SQL-first (good for backend jobs)
+    
+- type-safe
+    
+- much cleaner than Prisma for this use case
+    
+
+---
+
+## **API Layer**
+
+Later stage:
+
+👉 `Fastify`
+
+Why:
+
+- faster than Express
+    
+- modern
+    
+- used in real production
+    
+- teaches good backend patterns
+    
+
+---
+
+## **Testing**
+
+Use:
+
+- `Vitest`
+    
+
+Why:
+
+- simple
+    
+- fast
+    
+- TS-native
+    
+- companies like seeing tests
+    
+
+---
+
+# 🧠 What this stack signals to employers
+
+If they see this repo, they think:
+
+> “This person understands modern backend architecture.”
+
+It demonstrates:
+
+- pipeline thinking
+    
+- schema design
+    
+- input validation
+    
+- async workflows
+    
+- structured services
+    
+- AI integration
+    
+- DB modeling
+    
+
+That’s resume gold.
+
+---
+
+# 🥈 Alternate Stack (if you want to lean systems-heavy)
+
+If you want something that aligns with your **C++ / backend systems goal**:
+
+---
+
+## **Core language: Python**
+
+Why:
+
+- best scraping ecosystem
+    
+- best AI tooling
+    
+- widely used in data pipelines
+    
+- very employable backend/data skill
+    
+
+---
+
+### Python stack:
+
+- `requests` → fetching
+    
+- `BeautifulSoup` / `lxml` → parsing
+    
+- `pydantic` → schema validation
+    
+- `sqlite3` / PostgreSQL
+    
+- `FastAPI` → API layer
+    
+
+This stack is:
+
+- extremely common in data engineering
+    
+- used in AI companies
+    
+- used in backend tooling
+    
+
+---
+
+# 🧭 My honest recommendation for YOU
+
+Given your goals:
+
+- you want a stable backend job
+    
+- you already know JS
+    
+- you want something portfolio-worthy
+    
+- you want to ship quickly
+    
+
+👉 **Use TypeScript stack first**
+
+You’ll finish faster  
+It’ll look stronger on GitHub  
+It’s easier to demo  
+It aligns with modern hiring
+
+Then later:  
+👉 build a second version in C++ or Python for systems cred.
+
+That’s the power move.
+
+---
+
+If you want, I can now give you:
+
+1️⃣ **Exact folder structure for your repo**  
+2️⃣ **Step-by-step build order so you don’t get stuck**  
+3️⃣ **A “minimum impressive MVP” definition**
+
+Pick one.

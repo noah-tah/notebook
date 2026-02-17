@@ -454,3 +454,205 @@ Which direction do you want to go first?**
 
 Cookbook.io
 - Scrapes recipe from website, cutting out life story and ads only keeping recipe, saves it to database. Application queries database and displays recipes on demand. To avoid legal trouble in the database schema i will make sure to take note of the author and the proper accreditation's. Is this legal? I am certain that it is technically feasible. I think that you could even use AI to determine what parts are life story and what parts are recipe in order to make the scraping more accurate.
+
+Short answer: **it can be legal, but only if you design it carefully.**  
+There are **3 separate legal layers** here — copyright, terms of service, and database use.
+
+---
+
+## 1. Copyright law (the big one)
+
+According to the U.S. Copyright Office:
+
+- **Ingredient lists are NOT copyrightable**
+    
+- **Basic instructions are often not protected**
+    
+- **Creative expression _is_ protected**
+    
+
+That means:
+
+### ✅ Usually safe
+
+- Ingredient lists
+    
+- Basic steps rewritten in your own words
+    
+- Cook times, temperatures, quantities
+    
+- Your own formatting/structure
+    
+- AI-generated paraphrase of instructions
+    
+
+### ❌ Risky / illegal
+
+- Copy-pasting recipe text verbatim
+    
+- Copying personal story sections
+    
+- Copying distinctive phrasing or descriptions
+    
+- Storing full scraped pages in your DB
+    
+
+**Key rule:**  
+👉 Facts = free  
+👉 Expression = protected
+
+So your idea **only storing the actual recipe content** is good —  
+but you should **rewrite it**, not store the original text.
+
+---
+
+## 2. Website Terms of Service (often ignored, but important)
+
+Many recipe sites (like Allrecipes and food blogs) explicitly forbid:
+
+- scraping
+    
+- automated extraction
+    
+- storing their content
+    
+- building a competing database
+    
+
+Violating ToS is usually **civil breach of contract**, not criminal —  
+but they _can_:
+
+- block you
+    
+- send cease-and-desist
+    
+- sue if you commercialize it
+    
+
+**Safer approaches:**
+
+- Only scrape sites that allow it
+    
+- Respect robots.txt
+    
+- Provide source links
+    
+- Let users import recipes themselves
+    
+
+---
+
+## 3. Attribution does NOT make copying legal
+
+This part is super important:
+
+👉 Giving credit **does not fix copyright infringement**
+
+You can’t copy text and say  
+“Recipe by Jane Doe”  
+and assume you’re safe.
+
+Attribution only matters if:
+
+- the content is public domain, OR
+    
+- licensed for reuse (like Creative Commons)
+    
+
+---
+
+## 4. AI extraction idea — legally interesting
+
+Using AI to:
+
+- detect recipe sections
+    
+- rewrite instructions
+    
+- normalize ingredient formats
+    
+
+This actually helps your legal position.
+
+If your system:
+
+1. extracts structure
+    
+2. paraphrases content
+    
+3. stores normalized recipe data
+    
+
+then your DB becomes a **transformed dataset**, not a copied one.
+
+That’s much safer.
+
+---
+
+## 5. Safest architecture (what I’d do)
+
+If you want Cookbook.io to be legally solid:
+
+### Store in DB:
+
+- Ingredients (normalized text)
+    
+- Steps rewritten/paraphrased
+    
+- Prep/cook time
+    
+- Nutrition if available
+    
+- Source URL
+    
+- Author name
+    
+
+### Do NOT store:
+
+- original paragraphs
+    
+- photos
+    
+- personal stories
+    
+- site formatting
+    
+- comments/reviews
+    
+
+### On frontend:
+
+Show:
+
+> “Adapted from [source link]”
+
+This is the safest common pattern used by:
+
+- recipe apps
+    
+- grocery planners
+    
+- meal prep tools
+    
+
+---
+
+## 6. Bottom line
+
+✔ Technically feasible — absolutely  
+✔ Legally possible — yes  
+⚠ Only if you **transform**, not copy
+
+---
+
+If you want, I can also outline:
+
+- a **legally safe DB schema**
+    
+- a **scraper → AI → normalized recipe pipeline**
+    
+- or a **minimal MVP architecture** you could build this semester
+    
+
+Which do you want next?

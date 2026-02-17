@@ -656,3 +656,20 @@ If you want, I can also outline:
     
 
 Which do you want next?
+
+
+URL
+ ↓
+HTML fetcher
+ ↓
+DOM parser
+ ↓
+Recipe candidate extractor (rules + heuristics)
+ ↓
+Structured text bundle
+ ↓
+AI normalization pass
+ ↓
+Validated recipe object
+ ↓
+Database

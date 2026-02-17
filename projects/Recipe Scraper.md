@@ -453,4 +453,4 @@ Which direction do you want to go first?**
 
 
 Cookbook.io
-- Scrapes recipe from website, get
+- Scrapes recipe from website, cutting out life story and ads only keeping recipe, saves it to database. Application queries database and displays recipes on demand. To avo

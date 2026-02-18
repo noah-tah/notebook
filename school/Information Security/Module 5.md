@@ -15,7 +15,7 @@ contingency planning (CP)
 			- disaster recovery planning team
 			- business continuity planning team
 			- crisis management planning team
-	- This could also be interpreted as the two communities of interest: the Information Security/Information Technology and the Senior Management Community. The Senior Management community would 
+	- This could also be interpreted as the two communities of interest: the Information Security/Information Technology and the Senior Management Community. The Senior Management community would oversee the process.
 
 contingency planning management team (CPMT)
 	The group of senior managers and project members organized to conduct and lead all CP efforts.

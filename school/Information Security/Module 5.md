@@ -164,5 +164,14 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 
 - Using a Web search engine, search for the terms disaster recovery and business continuity. How many responses do you get for each term? Note the names some of the companies in the response. Now perform the search again, adding the name of your metropolitan area or community.
 	- disaster recovery gave 204,000,000 results
+		- companies mentioned:
+			- 
 	- business continuity gave 110,000,000 results
-	- disaster recov
+		- companies mentioned:
+			- 
+	- disaster recovery Ponca City gave results
+		- companies mentioned:
+			- 
+	- business continuity Ponca City gave results
+		- companies mentioned:
+			- 

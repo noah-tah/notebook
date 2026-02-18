@@ -156,4 +156,5 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 
 - What is digital forensics, and when is it used in a business setting?
 	- Digital forensics are investigations that involving preserving, identifying, extracting, documenting, and interpreting computer media for evidence and root cause analysis by following pre defined methodologies.
-		- It is used to find evidentiary material, to investigate allegations o dig
+		- It is used to find evidentiary material, to investigate allegations of digital malfeasance, which is a crime that involves digital media, then to perform root cause analysis if an incident occurs.
+	- This is used to prot

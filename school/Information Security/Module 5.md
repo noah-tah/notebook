@@ -74,3 +74,5 @@ It relates to the concept of incident response in that you must clearly define t
 - Notification by hacker—Some hackers enjoy taunting their victims. If an organization’s Web pages are defaced, it is an incident. If an organization receives an extortion request for money in exchange for its stolen data, an incident is in progress. Note that even if an actual attack has not occurred—for example, the hacker is just making an empty threat—the reputational risk is real and should be treated as such.
 Once an actual incident has been confirmed and properly classified, the IR plan moves from the detection phase to the reaction phase.
 - Once an actual incident has been confirmed and properly classified, the IR plan moves from the detection phase to the reaction phase.
+
+- List and describe the sets of procedures used to detect, contain, and resolve an incident.

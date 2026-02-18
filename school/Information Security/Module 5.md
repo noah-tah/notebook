@@ -105,4 +105,6 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 - What is an alert roster? What is an alert message? Describe the two ways they can be used.
 	- An alert roster is a document that contains contact information for the individuals that need to be notified in the event of and incident.
 	- An alert message is a description of the incident that contains just enough information so that each person knows what part of the IR or DR plan to implement without slowing down the process of notifying the key individuals.
-	- The alert roster can be activated either sequentially or hierarchically. A sequential roster uses a designated contact person who uses an identified method to initiate contact with each person on the roster. A hierarchical roster requires the first person contact a speci
+	- The alert roster can be activated either sequentially or hierarchically. A sequential roster uses a designated contact person who uses an identified method to initiate contact with each person on the roster. A hierarchical roster requires the first person contact a specific number of people on the roster, who then contact other people on the roster based on their position in the roster. Each system has their advantages and disadvantages.
+
+- List and describe several containment 

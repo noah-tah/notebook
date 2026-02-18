@@ -165,7 +165,8 @@ const recipe = await prisma.recipe.create({
 
 # Here’s what that line does:
 
-```recipe   Recipe  @relation(fields: [recipeId], references: [id], onDelete: Cascade)
+```
+recipe   Recipe  @relation(fields: [recipeId], references: [id], onDelete: Cascade)
 ```
 
 

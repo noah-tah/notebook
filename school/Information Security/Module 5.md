@@ -142,5 +142,6 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 	- Typically, a smaller organization will adopt a one-plan or unified model which consists of straightforward recovery strategies.
 	- A larger and more complex organization develop each component separately because of the complexity and scope of each of the components at this scale.
 
-What strategies can be used to test contingency plans?
-	
+- What strategies can be used to test contingency plans?
+	- The following strategies can be used to test contingency plans:
+		- Desk check, which is a simple validation which involves distributing copies of the plans to individuals who have roles in the CP plan.

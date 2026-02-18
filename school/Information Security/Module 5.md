@@ -80,3 +80,4 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 		- Incident classification and incident detection
 		- alert roster  is used to deliver the alert message, which organizes a team to respond to the incident.
 		- documentation must begin immediately, and serves as a case study to determine if the correct actions were taken, and if they were effective.
+		- the containment procedures focus on stopping the incident and recovering control of the affected systems. the simplest and most straightforward way to stop the incident 

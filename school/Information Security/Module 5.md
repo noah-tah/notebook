@@ -118,3 +118,4 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 
 - What is a disaster recovery plan, and why is it important to the organization?
 	- the documented product of disaster recovery planning and is a plan that shows the organization's intended efforts in the event of an incident or larger disaster.
+	- It is important because they have several responsibilities in recoverying

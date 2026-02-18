@@ -7,3 +7,4 @@ contingency planning (CP)
 
 contingency planning management team (CPMT)
 	The group of senior managers and project members organized to conduct and lead all CP efforts.
+

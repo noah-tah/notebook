@@ -181,9 +181,10 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 			- Ready.gov
 			- Oracle
 			- DRI International
-	- disaster recovery Ponca City gave 35,400results
+	- disaster recovery Ponca City gave 35,400 results
 		- companies mentioned:
 			- Courtesy Care Restoration
+			- Experts W
 	- business continuity Ponca City gave results
 		- companies mentioned:
 			- 

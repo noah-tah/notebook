@@ -78,5 +78,5 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 - List and describe the sets of procedures used to detect, contain, and resolve an incident.
 	- The set of procedures used to detect and incident are:
 		- Incident classification and incident detection
-		- alert roster  is used to deliver the alert message, organize a team to respond to the incident.
-		- 
+		- alert roster  is used to deliver the alert message, which organizes a team to respond to the incident.
+		- documentation must begin immediately, and serves as a case study to determine if the correct actions were taken, and if they were effective.

@@ -158,3 +158,8 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 	- Digital forensics are investigations that involving preserving, identifying, extracting, documenting, and interpreting computer media for evidence and root cause analysis by following pre defined methodologies.
 		- It is used to find evidentiary material, to investigate allegations of digital malfeasance, which is a crime that involves digital media, then to perform root cause analysis if an incident occurs.
 	- This is used to protect the organization and to potentially assist law enforcement in an investigation.
+
+
+
+
+- Using a Web search engine, search for the terms disaster recovery and business continuity. How many responses do you get for each term? Note

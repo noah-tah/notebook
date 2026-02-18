@@ -110,4 +110,8 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 - List and describe several containment strategies given in the text. On which tasks do they focus?
 	- Typical containment strategies:
 		- Disabling compromised accounts
-		- Reconfiguring firewall to bl
+		- Reconfiguring firewall to block problem traffic
+		- Temporarily disabling compromised services/processes
+		- Taking down the conduit application or server that is spreading the incident
+		- Disconnecting affected networks or network segments
+		- Stopping (powering down) all networks and computer devices

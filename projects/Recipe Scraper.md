@@ -12,53 +12,28 @@ There are 3 main pieces of tech involved:
 
 - **Node.js**
 	- `axios` / `fetch`
-
-
-
-### ✅ Stronger approach (handles dynamic sites)
-
 Use a headless browser:
-
 - **Playwright** (best modern option)
-    
 - **Puppeteer**
-    
 - **Selenium**
-    
-
 These load the page like a real browser, so you can:
-
 - wait for content to render
-    
 - click “jump to recipe”
-    
 - scroll if needed
-    
 - then extract the HTML
-    
 
 👉 If you want reliability, **Playwright is the move**.
-
----
 
 # 2️⃣ Recipe extraction (the REAL problem)
 
 Most recipe sites bury the recipe in garbage:
 
 - life story
-    
 - ads
-    
 - popups
-    
 - unrelated images
-    
-
-You don’t want scraping.  
 You want **content extraction**.
-
 ### 🔥 Best solution: Structured data parsing
-
 Most recipe sites include hidden JSON like:
 
 ```
@@ -74,15 +49,10 @@ Most recipe sites include hidden JSON like:
 You can parse this and get:
 
 - title
-    
 - ingredients
-    
 - steps
-    
 - cook time
-    
 - servings
-    
 
 👉 This is the **gold standard** solution.
 

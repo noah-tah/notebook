@@ -201,4 +201,6 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 			- Summit Technology Group LLC
 			- Itology.com
 
-- The document outlines the different 
+- The document outlines the different types of contingency plans:
+	- Business Continuity Plan
+	- Continuity of O

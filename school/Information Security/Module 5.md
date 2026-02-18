@@ -84,3 +84,6 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 		- the recovery procedures include the CSIRT engaging in a process called incident damage assessment to immediately determine the impact from an incident involving information assets. This can take a long time depending on the extend of the damage, and once the extend of the damage has been assessed, recovery begins.
 		- Donald Pipkin gives a process with the following steps:
 			- Identify and resolve the vulnerabilities that allowed the incident.
+			- Address the safeguards that failed to stop or limit the incident, install replace or upgrade them.
+			- Evaluate monitoring capabilities and the reporting protocols, and if needed, install new monitoring capabilities.
+			- Restore data from backups, and have a backup strategy in place if there was not one already. 

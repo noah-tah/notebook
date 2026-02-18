@@ -81,4 +81,6 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 		- alert roster  is used to deliver the alert message, which organizes a team to respond to the incident.
 		- documentation must begin immediately, and serves as a case study to determine if the correct actions were taken, and if they were effective.
 		- the containment procedures focus on stopping the incident and recovering control of the affected systems. the simplest and most straightforward way to stop the incident is to simply disconnect the affected communication circuit, essentially moating that part of the system off, although it obviously is not always going to be that simple. 
-		- the recovery procedures include the CSIRT engaging in a process called incident damage assessment to immediately determine the impact from an incident involving information assets. This can take a long time depending on the extend of the damage, and once the ex
+		- the recovery procedures include the CSIRT engaging in a process called incident damage assessment to immediately determine the impact from an incident involving information assets. This can take a long time depending on the extend of the damage, and once the extend of the damage has been assessed, recovery begins.
+		- Donald Pipkin gives a process with the following steps:
+			- Identify and resolve the vulnerabilities that allowed the incident.

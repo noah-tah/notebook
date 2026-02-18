@@ -162,3 +162,41 @@ const recipe = await prisma.recipe.create({
 
 })
 ```
+
+# Here’s what that line does:
+
+```recipe   Recipe  @relation(fields: [recipeId], references: [id], onDelete: Cascade)
+```
+
+
+
+
+## Parts of the line
+
+|Part|Meaning|
+|---|---|
+|recipe|Name of the relation field on this model (e.g. Ingredient or RecipeStep). Lets you do ingredient.recipe to get the parent Recipe.|
+|Recipe|The model this relation points to.|
+|fields: [recipeId]|The foreign key column on this model that stores the recipe’s ID.|
+|references: [id]|The field on Recipe that recipeId refers to (the primary key).|
+|onDelete: Cascade|When the referenced Recipe is deleted, also delete this record.|
+
+## What it means in practice
+
+This defines a one-to-many relation:
+
+- One Recipe has many Ingredients (or RecipeSteps).
+
+- Each Ingredient/RecipeStep belongs to one Recipe via recipeId.
+
+onDelete: Cascade means: if you delete a recipe, all its ingredients and steps are deleted automatically.
+
+## Is this what you want?
+
+Yes, for a cookbook app this is usually what you want:
+
+- Ingredients and steps are tied to a recipe.
+
+- Deleting a recipe should remove its ingredients and steps.
+
+- You can still load a recipe with its ingredients/steps via include.

@@ -9,7 +9,7 @@ contingency planning (CP)
 		- Disaster recovery plan (DR plan)
 		- Business continuity plan (BC plan)
 - What communities of interest are associated with contingency planning?
-
+	- contingency planning management team (CPMT)
 
 contingency planning management team (CPMT)
 	The group of senior managers and project members organized to conduct and lead all CP efforts.

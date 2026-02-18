@@ -8,8 +8,7 @@ contingency planning (CP)
 		- Incident response plan (IR) plan)
 		- Disaster recovery plan (DR plan)
 		- Business continuity plan (BC plan)
-
-
+- What communities of interest are associated with contingency planning?
 
 
 contingency planning management team (CPMT)

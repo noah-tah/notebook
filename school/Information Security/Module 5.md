@@ -117,4 +117,4 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 		- Stopping (powering down) all networks and computer devices
 
 - What is a disaster recovery plan, and why is it important to the organization?
-	- 
+	- a disaster recovery plan is a part of IR that involves recovering compromised systems for business continuity and information asset integrity. 

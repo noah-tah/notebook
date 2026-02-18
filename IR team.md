@@ -1,1 +1,1 @@
-incident response planning team ([IRPT](IR-team))
+incident response planning team ([IRPT](IR team))

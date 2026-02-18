@@ -115,3 +115,6 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 		- Taking down the conduit application or server that is spreading the incident
 		- Disconnecting affected networks or network segments
 		- Stopping (powering down) all networks and computer devices
+
+- What is a disaster recovery plan, and why is it important to the organization?
+	- 

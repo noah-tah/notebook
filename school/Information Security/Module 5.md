@@ -139,4 +139,4 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 	- Plans look good on paper but testing will reveal resource shortages, outdated info and flaws in logic in reality. Building muscle memory is important and can shorten response time and overall panic. Clarifying the roles and responsibilities of the group is very important, individuals need to know who to look to for authority, and need to be familiar with the communication chains set in place. 
 
 - Which types of organizations might use a unified continuity plan? Which types of organizations might use the various contingency planning components as separate plans? Why?
-	- 
+	- Typically, a smaller organization will adopt a one-plan or unified model which c

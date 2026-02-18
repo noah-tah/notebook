@@ -1,4 +1,4 @@
-```ts
+```pris
 model Recipe {
 
 id String @id @default(cuid(2))

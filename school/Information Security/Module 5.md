@@ -36,3 +36,4 @@ contingency planning management team (CPMT)
 - Step 7 - Implement action plan
 	- The organization determines which actions to take in regards to the gaps, if any, identified in the previous step. It then monitors its current cybersecurity practices against the target profile
 
+List and describe the teams that perform the planning and execution of CP plans and processes. What is the primary role of each?

@@ -10,6 +10,11 @@ contingency planning (CP)
 		- Business continuity plan (BC plan)
 - What communities of interest are associated with contingency planning?
 	- contingency planning management team (CPMT)
+		- consists of four teams to manage each part of the plan:
+			- incident response planning team
+			- disaster recovery planning team
+			- business continuity planning team
+			- crisis management planning team
 
 contingency planning management team (CPMT)
 	The group of senior managers and project members organized to conduct and lead all CP efforts.

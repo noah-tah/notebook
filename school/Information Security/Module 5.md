@@ -86,4 +86,6 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 			- Identify and resolve the vulnerabilities that allowed the incident.
 			- Address the safeguards that failed to stop or limit the incident, install replace or upgrade them.
 			- Evaluate monitoring capabilities and the reporting protocols, and if needed, install new monitoring capabilities.
-			- Restore data from backups, and have a backup strategy in place if there was not one already. 
+			- Restore data from backups, and have a backup strategy in place if there was not one already. Follow recovery process if there was in place.
+			- Restore services and processes, after examination and cleaning.
+			- Continuously monitor the system. If it happened once, it can happen again. If words gets out about an exploit, more hacker buddies might join in to se

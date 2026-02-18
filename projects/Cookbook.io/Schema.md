@@ -1,4 +1,4 @@
-Originally, I planned on sketching out ERD diagrams manually in order to have something to present to an employer, however, this is mostly a waste of time because I have to learn a new syntax in order to make it, and I 
+Originally, I planned on sketching out ERD diagrams manually in order to have something to present to an employer, however, this is mostly a waste of time because I have to learn a new syntax in order to make it, and I can just autogenerate an up to date diagram directly from the Prisma schema using `prisma generate`. Then I can write this in mermaid in my obsidian docs so that I can have a source of truth, and it can be exported 
 
 # Recipe Data Model
 ---

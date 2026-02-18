@@ -136,4 +136,4 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 	- It also focuses on minimizing the impact of this, and how to recover to normal operations.
 
 - Why should contingency plans be tested and rehearsed?
-	- 
+	- Plans look good on paper but testing will reveal resource shortages, outdated info and flaws in logic in reality. Building muscle memory is important and can shorten response time and overall panic. Clarifying the roles and responsibilities of the group is very important

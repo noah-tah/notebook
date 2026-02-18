@@ -101,3 +101,7 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 - List and describe the actions that should be taken during the reaction to an incident.
 	- alert roster  is used to deliver the alert message, which organizes a team to respond to the incident.
 	- documentation must begin immediately, and serves as a case study to determine if the correct actions were taken, and if they were effective.
+
+- What is an alert roster? What is an alert message? Describe the two ways they can be used.
+	- An alert roster is a document that contains contact information for the individuals that need to be notified in the event of and incident.
+	- An alert message 

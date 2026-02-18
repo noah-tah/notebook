@@ -80,245 +80,6 @@ Cookbook.io
 - Scrapes recipe from website, cutting out life story and ads only keeping recipe, saves it to database. Application queries database and displays recipes on demand. To avoid legal trouble in the database schema i will make sure to take note of the author and the proper accreditation's. Is this legal? I am certain that it is technically feasible. I think that you could even use AI to determine what parts are life story and what parts are recipe in order to make the scraping more accurate.
 
 
-- **Ingredient lists are NOT copyrightable**
-    
-- **Basic instructions are often not protected**
-    
-- **Creative expression _is_ protected**
-    
-
-That means:
-
-### ✅ Usually safe
-
-- Ingredient lists
-    
-- Basic steps rewritten in your own words
-    
-- Cook times, temperatures, quantities
-    
-- Your own formatting/structure
-    
-- AI-generated paraphrase of instructions
-    
-
-### ❌ Risky / illegal
-
-- Copy-pasting recipe text verbatim
-    
-- Copying personal story sections
-    
-- Copying distinctive phrasing or descriptions
-    
-- Storing full scraped pages in your DB
-    
-
-**Key rule:**  
-👉 Facts = free  
-👉 Expression = protected
-
-So your idea **only storing the actual recipe content** is good —  
-but you should **rewrite it**, not store the original text.
-
----
-
-## 2. Website Terms of Service (often ignored, but important)
-
-Many recipe sites (like Allrecipes and food blogs) explicitly forbid:
-
-- scraping
-    
-- automated extraction
-    
-- storing their content
-    
-- building a competing database
-    
-
-Violating ToS is usually **civil breach of contract**, not criminal —  
-but they _can_:
-
-- block you
-    
-- send cease-and-desist
-    
-- sue if you commercialize it
-    
-
-**Safer approaches:**
-
-- Only scrape sites that allow it
-    
-- Respect robots.txt
-    
-- Provide source links
-    
-- Let users import recipes themselves
-    
-
----
-
-## 3. Attribution does NOT make copying legal
-
-This part is super important:
-
-👉 Giving credit **does not fix copyright infringement**
-
-You can’t copy text and say  
-“Recipe by Jane Doe”  
-and assume you’re safe.
-
-Attribution only matters if:
-
-- the content is public domain, OR
-    
-- licensed for reuse (like Creative Commons)
-    
-
----
-
-## 4. AI extraction idea — legally interesting
-
-Using AI to:
-
-- detect recipe sections
-    
-- rewrite instructions
-    
-- normalize ingredient formats
-    
-
-This actually helps your legal position.
-
-If your system:
-
-1. extracts structure
-    
-2. paraphrases content
-    
-3. stores normalized recipe data
-    
-
-then your DB becomes a **transformed dataset**, not a copied one.
-
-That’s much safer.
-
----
-
-## 5. Safest architecture (what I’d do)
-
-If you want Cookbook.io to be legally solid:
-
-### Store in DB:
-
-- Ingredients (normalized text)
-    
-- Steps rewritten/paraphrased
-    
-- Prep/cook time
-    
-- Nutrition if available
-    
-- Source URL
-    
-- Author name
-    
-
-### Do NOT store:
-
-- original paragraphs
-    
-- photos
-    
-- personal stories
-    
-- site formatting
-    
-- comments/reviews
-    
-
-### On frontend:
-
-Show:
-
-> “Adapted from [source link]”
-
-This is the safest common pattern used by:
-
-- recipe apps
-    
-- grocery planners
-    
-- meal prep tools
-    
-
----
-
-## 6. Bottom line
-
-✔ Technically feasible — absolutely  
-✔ Legally possible — yes  
-⚠ Only if you **transform**, not copy
-
----
-
-If you want, I can also outline:
-
-- a **legally safe DB schema**
-    
-- a **scraper → AI → normalized recipe pipeline**
-    
-- or a **minimal MVP architecture** you could build this semester
-    
-
-Which do you want next?
-
-
-URL
- ↓
-HTML fetcher
- ↓
-DOM parser
- ↓
-Recipe candidate extractor (rules + heuristics)
- ↓
-Structured text bundle
- ↓
-AI normalization pass
- ↓
-Validated recipe object
- ↓
-Database
-
-
-You’re thinking in exactly the right direction.  
-A **scraper → AI → normalized recipe pipeline** is basically a multi-stage text processing system where each stage makes the data cleaner and more structured.
-
-Here’s what a practical version looks like for a dev like you.
-
----
-
-# 1. High-level architecture
-
-```
-URL
- ↓
-HTML fetcher
- ↓
-DOM parser
- ↓
-Recipe candidate extractor (rules + heuristics)
- ↓
-Structured text bundle
- ↓
-AI normalization pass
- ↓
-Validated recipe object
- ↓
-Database
-```
-
-Each stage has a clear job. No magic. Just pipelines.
 
 ---
 
@@ -594,69 +355,69 @@ For you specifically (CS student, backend focus):
     
 - paste URL
     
-- parse JSON-LD
+- *parse JSON-LD*
     
-- store recipe JSON locally
-    
-
-### Week 2
-
-- add heuristic scraping fallback
-    
-- add AI normalization step
+- *store recipe JSON locally*
     
 
-### Week 3
+### *Week 2*
 
-- SQLite DB
+- *add heuristic scraping fallback*
     
-- simple query interface
-    
-
-That’s already portfolio-level.
-
----
-
-# 10. Why this project is actually very strong for your career
-
-Because it demonstrates:
-
-- scraping
-    
-- parsing messy data
-    
-- structured pipelines
-    
-- API integration
-    
-- DB modeling
-    
-- reliability thinking
-    
-- legal awareness
+- *add AI normalization step*
     
 
-This is **real backend engineering**, not toy stuff.
+### *Week 3*
 
----
+- *SQLite DB*
+    
+- *simple query interface*
+    
 
-If you want, I can next show you:
+*That’s already portfolio-level.*
 
-**A concrete tech stack suggestion tailored to you**  
-(Node vs Python vs C++ backend)
+*---*
 
-or
+# *10. Why this project is actually very strong for your career*
 
-**A literal file-by-file project structure**
+*Because it demonstrates:*
 
-Which do you want?
+- *scraping*
+    
+- *parsing messy data*
+    
+- *structured pipelines*
+    
+- *API integration*
+    
+- *DB modeling*
+    
+- *reliability thinking*
+    
+- *legal awareness*
+    
+
+*This is **real backend engineering**, not toy stuff.*
+
+*---*
+
+*If you want, I can next show you:*
+
+***A concrete tech stack suggestion tailored to you***  
+*(Node vs Python vs C++ backend)*
+
+*or*
+
+***A literal file-by-file project structure***
+
+*Which do you want?*
 
 
-Alright — tailored to **you specifically** (CS student, backend focus, likes systems/C++, comfortable with Linux/WSL, wants employable skills, not toy stacks).
+*Alright — tailored to **you specifically** (CS student, backend focus, likes systems/C++, comfortable with Linux/WSL, wants employable skills, not toy stacks).*
 
-I’m going to give you **one primary stack** and **one alternate**, and explain _why_.
+*I’m going to give you **one primary stack** and **one alternate**, and explain why.*
 
----
+*---*
 
 # 🥇 Primary Stack (best for employability + speed)
 

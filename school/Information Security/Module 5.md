@@ -20,7 +20,8 @@ contingency planning (CP)
 contingency planning management team (CPMT)
 	The group of senior managers and project members organized to conduct and lead all CP efforts.
 
-**NIST framework** - seven-step approach to implementing or improving their risk management and security programs:
+**NIST framework** - NIST Cybersecurity Framework (CSF)
+	
 
 
 List and describe the teams that perform the planning and execution of CP plans and processes. What is the primary role of each?

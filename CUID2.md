@@ -13,3 +13,7 @@ Need unique ids in your app? Forget UUIDs and GUIDs which often collide in large
 - **URL and name-friendly:** No special characters.
 - **Fast and convenient:** No async operations. Won't introduce user-noticeable delays. Less than 5k, gzipped.
 - **But not _too fast_:** If you can hash too quickly you can launch parallel attacks to find duplicates or break entropy-hiding. For unique ids, the fastest runner loses the security race.
+
+
+# Supported in Prisma
+

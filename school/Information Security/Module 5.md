@@ -190,7 +190,7 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 			- File Data Savers Data Recovery
 			- Ponca City
 			- Government Procurement
-	- business continuity Ponca City gave results
+	- business continuity Ponca City gave 9,690 results
 		- companies mentioned:
 			- ArcLight Group
 			- Pileus Technologies

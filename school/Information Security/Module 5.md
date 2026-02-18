@@ -93,4 +93,6 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 		Finally, an after-action review (AAR) should be performed to discuss what happened, and for everyone to share their own perspective, without blaming each other. The AAR is written up and shared.
 
 
-- What is incident classifica
+- What is incident classification?
+	- The process of examining an adverse event or incident candidate and determining whether is constitutes and actual incident
+	- it involves reviewing all adverse events that has the potential to escalate into an incident

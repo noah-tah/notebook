@@ -107,4 +107,7 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 	- An alert message is a description of the incident that contains just enough information so that each person knows what part of the IR or DR plan to implement without slowing down the process of notifying the key individuals.
 	- The alert roster can be activated either sequentially or hierarchically. A sequential roster uses a designated contact person who uses an identified method to initiate contact with each person on the roster. A hierarchical roster requires the first person contact a specific number of people on the roster, who then contact other people on the roster based on their position in the roster. Each system has their advantages and disadvantages.
 
-- List and describe several containment 
+- List and describe several containment strategies given in the text. On which tasks do they focus?
+	- Typical containment strategies:
+		- Disabling compromised accounts
+		- Reconfiguring firewall to bl

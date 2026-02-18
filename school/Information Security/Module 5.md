@@ -184,7 +184,12 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 	- disaster recovery Ponca City gave 35,400 results
 		- companies mentioned:
 			- Courtesy Care Restoration
-			- Experts W
+			- Experts Water Damage Restoration LLC
+			- Clean Harbors
+			- Angie's List
+			- File Data Savers Data Recovery
+			- Ponca City
+			- Government Procurement
 	- business continuity Ponca City gave results
 		- companies mentioned:
 			- 

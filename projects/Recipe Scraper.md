@@ -17,3 +17,9 @@ There are 3 main pieces of tech involved:
 - schema-first approach
 	- `Recipe`, `Ingredient`, and `RecipeStep`
 		- These are interfaces that are the contract for what a recipe looks like.
+- Why this matters
+	- recipes sites are different
+		- some use JSON-LD (structured data)
+		- some use HTML with custom markup
+		- Some use different formats, units, and naming.
+- AI helps with normalization, turning messy site data into a 

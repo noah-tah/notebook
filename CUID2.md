@@ -1,3 +1,5 @@
+https://github.com/paralleldrive/cuid2
+
 Secure, collision-resistant ids optimized for horizontal scaling and performance. Next generation UUIDs.
 
 Need unique ids in your app? Forget UUIDs and GUIDs which often collide in large apps. Use Cuid2, instead.

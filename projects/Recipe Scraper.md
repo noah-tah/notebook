@@ -25,4 +25,6 @@ There are 3 main pieces of tech involved:
 - AI helps with normalization, turning messy site data and making it fit into my schema
 	- ai can parse free text or semi structured html
 	- map it into my interfaces
-	- fill in optional fields when possible
+	- fill in optional fields when possibleA
+
+[[Prisma Data Scheme Sketch]]

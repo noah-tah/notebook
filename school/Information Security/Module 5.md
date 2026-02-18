@@ -167,7 +167,13 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 		- companies mentioned:
 			- NetApp
 			- Microsoft Azure
-			- Di
+			- DisasterAssitance.gov
+			- IBM
+			- VMWare
+			- Google Cloud
+			- Ready.gov
+			- U.S. Economic Development Administration
+			- Cloudian
 	- business continuity gave 110,000,000 results
 		- companies mentioned:
 			- The Business Continuity Institute (BCI)
@@ -175,9 +181,9 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 			- Ready.gov
 			- Oracle
 			- DRI International
-	- disaster recovery Ponca City gave results
+	- disaster recovery Ponca City gave 35,400results
 		- companies mentioned:
-			- 
+			- Courtesy Care Restoration
 	- business continuity Ponca City gave results
 		- companies mentioned:
 			- 

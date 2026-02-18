@@ -127,4 +127,5 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 
 - What is the business continuity plan, and why is it important?
 	- The BC plan is the documented product of business continuity planning and is a plan that shows the organizations intended efforts in the case of operations no longer being possible at the primary site.
-	- It is important because there must be a plan in place to allow the business to continue t
+	- It is important because there must be a plan in place to allow the business to continue to function in the case of a disaster, business must go on.
+	- Manufacturing and retail organizations depend on continued operations for revenue, so business continuity is very important in those types of business clearly.

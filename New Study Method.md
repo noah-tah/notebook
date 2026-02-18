@@ -1,0 +1,4 @@
+This method was developed this morning with a conversation with ChatGPT after prepping my lunch and dinner. I decided that transcribing all the information for each key term and concept was too much time dedicated and isn't effective for my situation. Instead, the best way for me to study is simply to write down the key terms and to try and remember. I will take the flowcharts and important images as well and store them in my notes. The point is to try and recall as much as possible and if i really want to spend time on a topic i can make that thing a note and i can try to dump all my knowledge into it. That will make it work like a flash card and will help me recall information
+
+
+[[Cooking Steak]]

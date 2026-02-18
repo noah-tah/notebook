@@ -1,5 +1,8 @@
 {
   "vimMode": false,
   "alwaysUpdateLinks": true,
-  "openBehavior": "daily"
+  "openBehavior": "daily",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "",
+  "focusNewTab": false
 }

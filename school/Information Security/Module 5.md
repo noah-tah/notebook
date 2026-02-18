@@ -203,4 +203,11 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 
 - The document outlines the different types of contingency plans:
 	- Business Continuity Plan
-	- Continuity of O
+	- Continuity of Operations Plan
+	- Crisis Communications Plan
+	- Critical Infrastructure Protection Plan
+	- Cyber Incident Response Plan
+	- Disaster Recovery Plan
+	- Information System Contingency Plan
+	- Occupant Emergency Plan
+- 

@@ -15,3 +15,5 @@ There are 3 main pieces of tech involved:
 [[High Level Architecture]]
 # Overall Strategy
 - schema-first approach
+	- `Recipe`, `Ingredient`, and `RecipeStep`
+		- These are interfaces that are the contract for what a recipe looks like.

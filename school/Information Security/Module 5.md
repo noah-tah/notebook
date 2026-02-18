@@ -155,4 +155,5 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 	- Using cloud based provisions has been an emerging option which can be used as potential continuity of production systems and can be used to manage recovery from disrupted operations.
 
 - What is digital forensics, and when is it used in a business setting?
-	- Digital forensics are investigations that involving preserving, identifying,
+	- Digital forensics are investigations that involving preserving, identifying, extracting, documenting, and interpreting computer media for evidence and root cause analysis by following pre defined methodologies.
+		- It is used to find evidentiary material, to investigate allegations o dig

@@ -6,7 +6,10 @@ contingency planning (CP)
 	- Consists of four major components:
 		- Business impact analysis (BIA)
 		- Incident response plan (IR) plan)
-		- Disaster recovery plan (DR )
+		- Disaster recovery plan (DR plan)
+		- Business continuity plan (BC plan)
+
+
 
 
 contingency planning management team (CPMT)

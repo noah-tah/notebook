@@ -29,6 +29,6 @@ contingency planning management team (CPMT)
 	6. Ensure plan testing, training and exercises.
 	7. Ensure plan maintenance.
 
-- Four teams are involved in contingency planning and contingency operations: the CP team, the IR team, the DR team, and the BC team. The IR team ensure thats the C
+- Four teams are involved in contingency planning and contingency operations: the CP team, the IR team, the DR team, and the BC team. The IR team ensure that the CSIRT is formed.
 
 List and describe the teams that perform the planning and execution of CP plans and processes. What is the primary role of each?

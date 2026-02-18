@@ -13,3 +13,5 @@ There are 3 main pieces of tech involved:
 [[Product Breakdown]]
 [[Product Breakdown]]
 [[High Level Architecture]]
+# Overall Strategy
+- schema-first approach

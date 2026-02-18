@@ -20,5 +20,7 @@ contingency planning (CP)
 contingency planning management team (CPMT)
 	The group of senior managers and project members organized to conduct and lead all CP efforts.
 
-**NIST framework** - seven-step approach to impl
+**NIST framework** - seven-step approach to implementing or improving their risk management and security programs:
+- Step 1 - Prioritize and scope
+	- The organization identifies its business/mission objectives and high-level organizational priorities. With this information, the organization makes strategic decisions regarding cybersecurity implementations and determines the scope of systems and assets
 

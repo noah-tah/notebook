@@ -38,3 +38,14 @@ Define the term incident as used in the context or [[IRP]]. How is it related to
 - It has a realistic chance of success.
 - It threatens the confidentiality, integrity, or availability of information resources and assets.
 It relates to the concept of incident response in that you must clearly define the threats facing the organization in order to protect against them.
+
+
+# The following types of incident candidates are considered possible indicators of actual incidents:
+
+- _Presence of unfamiliar files_—Users might discover unfamiliar files in their home directories or on their office computers. Administrators might also find unexplained files that do not seem to be in a logical location or are not owned by an authorized user.
+    
+- _Presence or execution of unknown programs or processes_—Users or administrators might detect unfamiliar programs running, or processes executing, on office machines or network servers. Users should become familiar with accessing running programs and processes (usually through the Windows Task Manager shown in [Figure 5-8](https://ebooks.cengage.com/reader/a8ff6564-41f1-45ba-b286-90b49510b74c/content-bd_ch_05_sect_03_04?code=pqz8UNuKal3NXRO_s7EfW-3x5xim2FT0qMNWxT1gw_8&state=919e601f-943b-4e33-9f1c-642a621f4dc0&sidepanel=contents#RFYZ5G10BG01HHA0Q317)) so they can detect rogue instances.
+    
+- _Unusual consumption of computing resources_—An example would be a sudden spike or fall in consumption of memory or hard disk space. Many computer operating systems, including Windows, Linux, and UNIX variants, allow users and administrators to monitor CPU and memory consumption. The Windows Task Manager has a Performance tab that provides this information, also shown in [Figure 5-8](https://ebooks.cengage.com/reader/a8ff6564-41f1-45ba-b286-90b49510b74c/content-bd_ch_05_sect_03_04?code=pqz8UNuKal3NXRO_s7EfW-3x5xim2FT0qMNWxT1gw_8&state=919e601f-943b-4e33-9f1c-642a621f4dc0&sidepanel=contents#RFYZ5G10BG01HHA0Q317). Most computers also have the ability to monitor hard drive space. In addition, servers maintain logs of file creation and storage.
+    
+- _Unusual system crashes_—Computer systems can crash. Older operating systems running newer programs are notorious for locking up or spontaneously rebooting whenever the operating system is unable to execute a requested process or service. You are probably familiar with system error messages such as “Unrecoverable Application Error,” “General Protection Fault,” and the infamous Windows “Blue Screen of Death.” However, if a computer system seems to be crashing, hanging, rebooting, or freezing more frequently than usual, the cause could be an incident candidate.

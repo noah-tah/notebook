@@ -41,4 +41,5 @@ tags RecipeTag[]
 
 }
 ```
-- CUID2 is new in
+- [[CUID2]] is supported in Prisma 7
+	- Secure, collision-resistant ids optimized for horizontal scaling and performance. Next generation UUIDs

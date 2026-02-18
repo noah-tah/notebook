@@ -1,3 +1,5 @@
+Originally, I planned on sketching out ERD diagrams manually in order to have something to present to an employer, however, this is mostly a waste of time because I have to learn a new syntax in order to make it, and I 
+
 # Recipe Data Model
 ---
 ```ts

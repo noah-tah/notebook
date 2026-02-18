@@ -192,4 +192,11 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 			- Government Procurement
 	- business continuity Ponca City gave results
 		- companies mentioned:
-			- 
+			- ArcLight Group
+			- Pileus Technologies
+			- City of Ponca City
+			- File Savers Data Recovery
+			- Ritter Business
+			- Oklahoma.gov
+			- Summit Technology Group LLC
+			- Itology.com

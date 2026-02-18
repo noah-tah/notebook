@@ -148,3 +148,7 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 		- Structured walk-through which involves all the individuals involved in the CP walk through the steps they would take in the case of an actual incident or disaster. Everyone discusses what they are supposed to do, and talk through the steps.
 		- Simulation which involves a role playing exercise with the CP team role playing an actual incident or disaster and to react like it had actually occurred. The discussion is driven by a scenario and every individuals role in that scenario.
 		- Full-interruption testing which individuals follow all the procedures, including a full on interruption of service and even using the backups to restore data. This is performed after business hours as to not interrupt the companies services and not to upset the stakeholders. The priority of any business should always be to provide the most value possible to their stakeholders.
+
+
+- List and describe two specialized alternatives not often used as a continuity strategy
+	- 

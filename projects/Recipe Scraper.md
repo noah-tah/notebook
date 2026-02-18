@@ -109,4 +109,56 @@ model RecipeTag {
 		[[CUID2]] fixes this by hashing all entropy sources, so IDs don’t reveal host or time and are harder to guess.
 - Prisma already support CUID2
 
-# Once ha
+# Once happy with schema
+### 5. Create the database and tables
+
+`npx prisma migrate dev --name init`
+
+### 6. Generate the client
+
+`npx prisma generate`
+
+### 7. Use the client in code
+```ts
+import { PrismaClient } from '@prisma/client'
+
+const prisma = new PrismaClient()
+
+// Example: create a recipe
+
+const recipe = await prisma.recipe.create({
+
+  data: {
+
+    title: 'Scrambled Eggs',
+
+    ingredients: {
+
+      create: [
+
+        { name: 'egg', amount: 2, unit: null, order: 0 },
+
+        { name: 'milk', amount: 0.25, unit: 'cup', order: 1 },
+
+      ],
+
+    },
+
+    steps: {
+
+      create: [
+
+        { text: 'Whisk eggs and milk together.', order: 0 },
+
+        { text: 'Cook in a nonstick pan over medium heat.', order: 1 },
+
+      ],
+
+    },
+
+  },
+
+  include: { ingredients: true, steps: true, tags: true },
+
+})
+```

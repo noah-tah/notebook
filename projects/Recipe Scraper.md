@@ -53,89 +53,28 @@ You can parse this and get:
 - steps
 - cook time
 - servings
-
 👉 This is the **gold standard** solution.
 
----
-
-### Alternative extraction tools
-
-Libraries that try to detect “main content”:
-
+# Fallback options
 - **Mozilla** Readability.js
-    
 - Mercury Parser
-    
 - Goose Extractor
-    
 
-These are decent fallback options if structured data isn’t present.
-
----
 
 # 3️⃣ Exporting to your Obsidian vault
 
 Since **Obsidian** uses plain Markdown, this part is easy.
 
 Your app can:
-
 1. Convert recipe → Markdown template
-    
 
-Example:
 
-```md
-# Spaghetti Carbonara
 
-## Ingredients
-- 200g spaghetti
-- 2 eggs
-- pancetta
-
-## Instructions
-1. Boil pasta
-2. Cook pancetta
-3. Mix eggs + cheese
-4. Combine
-
-## Source
-https://example.com/recipe
-```
-
-2. Save directly into:
-    
-
-```
-/YourVault/Recipes/Spaghetti Carbonara.md
-```
-
-That’s it — Obsidian instantly sees it.
-
----
-
-# 🧠 What stack I’d recommend _for you specifically_
-
-Since you’re:
-
-- already web-comfortable
-    
-- learning backend
-    
-- interested in real tools
-    
-
-### ⭐ Best stack for your goals:
-
-**Option A (clean & powerful)**
 
 - Node.js
-    
 - Playwright
-    
 - JSON-LD parser
-    
 - Markdown generator
-    
 
 **Option B (fastest to build)**
 

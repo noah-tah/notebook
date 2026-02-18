@@ -1,4 +1,6 @@
-```pris
+# Recipe Data Model
+---
+```ts
 model Recipe {
 
 id String @id @default(cuid(2))
@@ -39,3 +41,4 @@ tags RecipeTag[]
 
 }
 ```
+- CUID2 is new in

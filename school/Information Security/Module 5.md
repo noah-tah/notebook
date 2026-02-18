@@ -76,3 +76,5 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 - Once an actual incident has been confirmed and properly classified, the IR plan moves from the detection phase to the reaction phase.
 
 - List and describe the sets of procedures used to detect, contain, and resolve an incident.
+	- The set of procedures used to detect and incident are:
+		- Incident classification and incident detection

@@ -144,4 +144,5 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 
 - What strategies can be used to test contingency plans?
 	- The following strategies can be used to test contingency plans:
-		- Desk check, which is a simple validation which involves distributing copies of the plans to individuals who have roles in the CP plan.
+		- Desk check, which is a simple validation which involves distributing copies of the plans to individuals who have roles in the CP plan, then checking to see if the individuals have all the up to date materials on the CP plan.
+	- Structured walk-through which involves all the individuals involved in the CP

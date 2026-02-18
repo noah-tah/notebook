@@ -168,7 +168,11 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 			- 
 	- business continuity gave 110,000,000 results
 		- companies mentioned:
-			- 
+			- The Business Continuity Institute (BCI)
+			- Cisco Systems
+			- Ready.gov
+			- Oracle
+			- DRI International
 	- disaster recovery Ponca City gave results
 		- companies mentioned:
 			- 

@@ -32,4 +32,4 @@ contingency planning management team (CPMT)
 List and describe the teams that perform the planning and execution of the CP plans and processes. What is the primary role of each?
 - Four teams are involved in contingency planning and contingency operations: the [[CP team]], the [[IR team]], the [[DR team]], and the [[BC team]]. The [[IR team]] ensure that the [[CSIRT]] is formed.
 
-List and describe the teams that perform the planning and execution of CP plans and processes. What is the primary role of each?
+Define the term incident as used in the context or [[IRP]]. How is it related to the concept of incident response?

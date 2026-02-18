@@ -152,4 +152,6 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 
 - List and describe two specialized alternatives not often used as a continuity strategy
 	- A rolling mobile site, which involves contracting with an organization to provide specialized facilities configured at the deployment of the tractor-trailer.
-	- The option t
+	- Using cloud based provisions has been an emerging option which can be used as potential continuity of production systems and can be used to manage recovery from disrupted operations.
+
+- What is digital forensics, and when is it used in a business e

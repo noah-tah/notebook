@@ -33,7 +33,7 @@ List and describe the teams that perform the planning and execution of the CP pl
 - Four teams are involved in contingency planning and contingency operations: the [[CP team]], the [[IR team]], the [[DR team]], and the [[BC team]]. The [[IR team]] ensure that the [[CSIRT]] is formed.
 
 Define the term incident as used in the context or [[IRP]]. How is it related to the concept of incident response?
-- An incident
+- An InfoSec incident is defined as the following
 - It is directed against information assets.
 - It has a realistic chance of success.
 - It threatens the confidentiality, integrity, or availability of information resources and assets.

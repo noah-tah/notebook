@@ -122,4 +122,8 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 		- They recover information assets that are salvageable after disaster.
 		- Acquire replacement information assets.
 		- Reestablish functional information assets at the original primary site if possible or if needed, they will relocate the primary site.
-	- Disaster recovery response teams can include:  the DR management team, the communications team, the computer recovery team, the systems recovery team, the network recovery team, the storage recovery team, the application recovery team, the data management team, the vendor contact team, the damage assessment and salvage team, the business interface team, the 
+	- Disaster recovery response teams can include:  the DR management team, the communications team, the computer recovery team, the systems recovery team, the network recovery team, the storage recovery team, the application recovery team, the data management team, the vendor contact team, the damage assessment and salvage team, the business interface team, the logistics team, and other teams as needed.
+
+
+- What is the business continuity plan, and why is it important?
+	- 

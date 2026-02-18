@@ -22,5 +22,7 @@ contingency planning management team (CPMT)
 
 **NIST framework** - seven-step approach to implementing or improving their risk management and security programs:
 - Step 1 - Prioritize and scope
-	- The organization identifies its business/mission objectives and high-level organizational priorities. With this information, the organization makes strategic decisions regarding cybersecurity implementations and determines the scope of systems and assets
+	- The organization identifies its business/mission objectives and high-level organizational priorities. With this information, the organization makes strategic decisions regarding cybersecurity implementations and determines the scope of systems and assets that support the selected business line or process
+- Step 2 - Orient
+	- Once the scope of the cybersecurity program has been determined for the business line or process, the organization identifies related systems and assets, regulatory requirements, and overall risk approach. The organization then identifies threats to, and vulnerabilties of, those systems and s
 

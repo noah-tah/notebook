@@ -132,4 +132,8 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 
 - What is a business impact analysis, and what is it used for?
 	- A business impact analysis (BIA) is an investigation and assessment of adverse incidents that can affect the organization, and is conducted during the beginning phase of the contingency planning process. It is a paper that includes a determination of how critical a system is and how important it is to the organization's core processes and the recovery priorities associated with it.
-	- BIA assumes the attack was successful and that the infrastructure was ineffective, and assumes that the worst has happened, and then is resp
+	- BIA assumes the attack was successful and that the infrastructure was ineffective, and assumes that the worst has happened, and then is responsible for assessing how that will impact the organization.
+	- It also focuses on minimizing the impact of this, and how to recover to normal operations.
+
+- Why should contingency plans be tested and rehearsed?
+	- 

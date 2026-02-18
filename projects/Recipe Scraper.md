@@ -102,3 +102,11 @@ model RecipeTag {
 - potential problem with `cuid`
 	-  Status: Deprecated due to security. Use [Cuid2](https://github.com/paralleldrive/cuid2), instead.
 - https://github.com/paralleldrive/cuid
+- The original CUID is deprecated because it:
+- Leaks information (host fingerprint, creation time)
+
+- Is easier to predict than CUID2
+
+- Has weaker collision resistance
+
+CUID2 fixes this by hashing all entropy sources, so IDs don’t reveal host or time and are harder to guess.

@@ -91,3 +91,6 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 			- Continuously monitor the system. If it happened once, it can happen again. If words gets out about an exploit, more hacker buddies might join in to see if they can compromise the system again for sport.
 			- Restore confidence in organization's communities of interest, perhaps issuing a statement on the incident, explaining that damage was minimized and the incident has been resolved. 
 		Finally, an after-action review (AAR) should be performed to discuss what happened, and for everyone to share their own perspective, without blaming each other. The AAR is written up and shared.
+
+
+- What is incident classifica

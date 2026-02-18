@@ -24,5 +24,9 @@ contingency planning management team (CPMT)
 - Step 1 - Prioritize and scope
 	- The organization identifies its business/mission objectives and high-level organizational priorities. With this information, the organization makes strategic decisions regarding cybersecurity implementations and determines the scope of systems and assets that support the selected business line or process
 - Step 2 - Orient
-	- Once the scope of the cybersecurity program has been determined for the business line or process, the organization identifies related systems and assets, regulatory requirements, and overall risk approach. The organization then identifies threats to, and vulnerabilties of, those systems and s
+	- Once the scope of the cybersecurity program has been determined for the business line or process, the organization identifies related systems and assets, regulatory requirements, and overall risk approach. The organization then identifies threats to, and vulnerabilties of, those systems and asset.
+- Step 3 - Create a current profile
+	- The organization develops a current profile by indicated which category and subcategory outcomes from the framework core are currently being achieved.
+- Step 4 - Conduct a risk assessment
+	- 
 

@@ -25,6 +25,10 @@ contingency planning management team (CPMT)
 	2. Conduct the BIA.
 	3. Identify preventive controls.
 	4. Create contingency strategies.
-	5. 
+	5. Develop a contingency plan.
+	6. Ensure plan testing, training and exercises.
+	7. Ensure plan maintenance.
+
+- Four teams are involved in contingency planning and contingency operations: the CP team, the IR team, the DR team, and the BC team. The IR team ensure thats the C
 
 List and describe the teams that perform the planning and execution of CP plans and processes. What is the primary role of each?

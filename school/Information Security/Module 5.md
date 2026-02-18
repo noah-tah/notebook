@@ -151,4 +151,4 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 
 
 - List and describe two specialized alternatives not often used as a continuity strategy
-	- 
+	- A rolling mobile si

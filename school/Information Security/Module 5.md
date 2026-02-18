@@ -154,4 +154,5 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 	- A rolling mobile site, which involves contracting with an organization to provide specialized facilities configured at the deployment of the tractor-trailer.
 	- Using cloud based provisions has been an emerging option which can be used as potential continuity of production systems and can be used to manage recovery from disrupted operations.
 
-- What is digital forensics, and when is it used in a business e
+- What is digital forensics, and when is it used in a business setting?
+	- 

@@ -98,4 +98,6 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 	- it involves reviewing all adverse events that has the potential to escalate into an incident, and making a decision on whether or not it should trigger the IR plan.
 	- This is the responsibility of the CSIRT, unless there is a security operations center with individuals trained to perform incident classification before notifying the CSIRT and activating the IR plan.
 
-- List and describe the actions that should be ta
+- List and describe the actions that should be taken during the reaction to an incident.
+	- alert roster  is used to deliver the alert message, which organizes a team to respond to the incident.
+	- documentation must begin immediately, and serves as a case study to determine if the correct actions were taken, and if they were effective.

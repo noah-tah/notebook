@@ -37,3 +37,4 @@ Define the term incident as used in the context or [[IRP]]. How is it related to
 - It is directed against information assets.
 - It has a realistic chance of success.
 - It threatens the confidentiality, integrity, or availability of information resources and assets.
+It relates to the concept of incident response in that you must clearly define the threats facing the organization in order to protect against them.

@@ -131,4 +131,4 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 	- Manufacturing and retail organizations depend on continued operations for revenue, so business continuity is very important in those types of business clearly.
 
 - What is a business impact analysis, and what is it used for?
-	- A business impact analysis (BIA) is an investigation and assessment of 
+	- A business impact analysis (BIA) is an investigation and assessment of adverse incidents that can affect the organization, and is conducted during the beginning phase of the contengency planning process. It is a paper that includes a determination of how critical a system is and how important it is to the organization's core processes and the recovery priorities associated with it

@@ -10,28 +10,10 @@ There are 3 main pieces of tech involved:
 
 # 1️⃣ Page scraping (getting the content)
 
-This depends on how robust you want it.
-
-### ✅ Simple approach (works for many sites)
-
-Use an HTML parser:
-
-- **Python**
-    
-    - `requests` → fetch page
-        
-    - `BeautifulSoup` → parse HTML
-        
 - **Node.js**
-    
-    - `axios` / `fetch`
-        
-    - `cheerio` (jQuery-style HTML parser)
-        
+	- `axios` / `fetch`
 
-This works if the recipe is already in the HTML.
 
----
 
 ### ✅ Stronger approach (handles dynamic sites)
 
@@ -1355,3 +1337,9 @@ If you want, I can now give you:
 3️⃣ **A “minimum impressive MVP” definition**
 
 Pick one.
+
+
+
+
+
+# My Gamplan

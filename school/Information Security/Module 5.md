@@ -129,3 +129,6 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 	- The BC plan is the documented product of business continuity planning and is a plan that shows the organizations intended efforts in the case of operations no longer being possible at the primary site.
 	- It is important because there must be a plan in place to allow the business to continue to function in the case of a disaster, business must go on.
 	- Manufacturing and retail organizations depend on continued operations for revenue, so business continuity is very important in those types of business clearly.
+
+- What is a business impact analysis, and what is it used for?
+	- A business impact analysis (BIA) is an investigation and assessment of 

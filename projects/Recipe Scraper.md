@@ -100,3 +100,5 @@ model RecipeTag {
 ```
 
 - potential problem with `cuid`
+	-  Status: Deprecated due to security. Use [Cuid2](https://github.com/paralleldrive/cuid2), instead.
+- https://github.com/paralleldrive/cuid

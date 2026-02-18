@@ -7,6 +7,7 @@ What you want is **very doable** — you’re basically building a
 There are 3 main pieces of tech involved:
 
 ---
+[[Basic Idea]]
 # Basic idea
  1️⃣ Page scraping (getting the content)
 
@@ -23,8 +24,7 @@ These load the page like a real browser, so you can:
 - then extract the HTML
 
 👉 If you want reliability, **Playwright is the move**.
-
-# 2️⃣ Recipe extraction (the REAL problem)
+2️⃣ Recipe extraction (the REAL problem)
 
 Most recipe sites bury the recipe in garbage:
 
@@ -55,13 +55,13 @@ You can parse this and get:
 - servings
 👉 This is the **gold standard** solution.
 
-# Fallback options
+Fallback options
 - **Mozilla** Readability.js
 - Mercury Parser
 - Goose Extractor
 
 
-# 3️⃣ Exporting to your Obsidian vault
+3️⃣ Exporting to your Obsidian vault
 
 Since **Obsidian** uses plain Markdown, this part is easy.
 
@@ -89,7 +89,7 @@ Let’s break down what you’re actually proposing and where the real leverage 
 
 ---
 
-# 🧠 1. You identified the correct technical insight
+## 🧠 1. You identified the correct technical insight
 
 > “Every website is different but everything is a DOM and every DOM can be walked.”
 
@@ -118,7 +118,7 @@ That’s where AI genuinely helps.
 
 ---
 
-# 🧠 2. The actual product layers you just outlined
+## 🧠 2. The actual product layers you just outlined
 
 You accidentally designed a **3-layer system**:
 

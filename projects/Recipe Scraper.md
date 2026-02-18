@@ -107,3 +107,4 @@ model RecipeTag {
 	- Is easier to predict than CUID2
 	- Has weaker collision resistance
 		[[CUID2]] fixes this by hashing all entropy sources, so IDs don’t reveal host or time and are harder to guess.
+- Prisma already support CUID2

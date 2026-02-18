@@ -16,4 +16,7 @@ Need unique ids in your app? Forget UUIDs and GUIDs which often collide in large
 
 
 # Supported in Prisma
-
+- When defining your database schema in `schema.prisma` you can use CUID2 by using:
+```
+id    String      @default(cuid(2))
+```

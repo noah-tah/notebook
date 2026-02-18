@@ -21,6 +21,10 @@ contingency planning management team (CPMT)
 	The group of senior managers and project members organized to conduct and lead all CP efforts.
 
 - To ensure continuity during the creation of the CP components, a seven-step process is used:
-	1. 
+	1. Develop the contingency planning policy statement.
+	2. Conduct the BIA.
+	3. Identify preventive controls.
+	4. Create contingency strategies.
+	5. 
 
 List and describe the teams that perform the planning and execution of CP plans and processes. What is the primary role of each?

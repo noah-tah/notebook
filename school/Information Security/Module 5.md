@@ -141,3 +141,6 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 - Which types of organizations might use a unified continuity plan? Which types of organizations might use the various contingency planning components as separate plans? Why?
 	- Typically, a smaller organization will adopt a one-plan or unified model which consists of straightforward recovery strategies.
 	- A larger and more complex organization develop each component separately because of the complexity and scope of each of the components at this scale.
+
+What strategies can be used to test contingency plans?
+	

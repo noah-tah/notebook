@@ -30,5 +30,9 @@ contingency planning management team (CPMT)
 - Step 4 - Conduct a risk assessment
 	- This assessment could be guided by the organization’s overall risk management process or previous risk assessment activities. The organization analyzes the operational environment in order to discern the likelihood of a cybersecurity event and the impact that the event could have on the organization. 
 - Step 5 - Create a target profile
-	- 
+	- The organization creates a target profile that focuses on the assessment of the framework categories and subcategories describing the organization’s desired cybersecurity outcomes. 
+- Step 6 - Determine, analyze, and prioritize gaps
+	- The organization compares the current profile and the target profile to determine gaps. Next it creates a prioritized action plan to address those gaps that draws upon mission drivers, a cost-benefit analysis, and understanding of risk to achieve the outcomes in the target profile. The organization then determines resources necessary to address the gaps. 
+- Step 7 - Implement action plan
+	- The organization determines which actions to take in regards to the gaps, if any, identified in the previous step. It then monitors its current cybersecurity practices against the target profile
 

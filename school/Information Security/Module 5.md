@@ -121,4 +121,5 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 	- It is important because they have several responsibilities in recovering the primary site and the reestablishment of operations in the case of a natural disaster or a complete system wipeout.
 		- They recover information assets that are salvageable after disaster.
 		- Acquire replacement information assets.
-		- Reestablish functional information assets at the pr
+		- Reestablish functional information assets at the original primary site if possible or if needed, they will relocate the primary site.
+	- Disaster recovery response teams

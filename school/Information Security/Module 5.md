@@ -28,5 +28,7 @@ contingency planning management team (CPMT)
 - Step 3 - Create a current profile
 	- The organization develops a current profile by indicated which category and subcategory outcomes from the framework core are currently being achieved.
 - Step 4 - Conduct a risk assessment
+	- This assessment could be guided by the organization’s overall risk management process or previous risk assessment activities. The organization analyzes the operational environment in order to discern the likelihood of a cybersecurity event and the impact that the event could have on the organization. 
+- Step 5 - Create a target profile
 	- 
 

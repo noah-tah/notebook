@@ -95,4 +95,5 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 
 - What is incident classification?
 	- The process of examining an adverse event or incident candidate and determining whether is constitutes and actual incident
-	- it involves reviewing all adverse events that has the potential to escalate into an incident
+	- it involves reviewing all adverse events that has the potential to escalate into an incident, and making a decision on whether or not it should trigger the IR plan.
+	- This is the responsibility of the C

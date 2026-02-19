@@ -210,4 +210,5 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 	- Disaster Recovery Plan
 	- Information System Contingency Plan
 	- Occupant Emergency Plan
-- It also outlines how to develop the contingency planning policy st
+- It also outlines how to develop the contingency planning policy statement and how to conduct the business impact analysis. It contains contingency strategies and methodologies to test them. 
+- It also covers the

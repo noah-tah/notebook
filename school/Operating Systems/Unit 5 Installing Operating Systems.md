@@ -63,4 +63,6 @@
 	- Upon further use I actually had to allocate a bit more ram to the machine to get it to run smoothly as it was hanging up a bit with the default settings.
 
 # Case Project 5-1 Determining Preliminary Steps
-- Merlinos Mills is a company that produces flours and grains for grocery stores. It owns mills and distribution centers in the Northwestern and Midwestern United States. The headquarters in Bend, Oregon employs more than 400 people, mo
+- Merlinos Mills is a company that produces flours and grains for grocery stores. It owns mills and distribution centers in the Northwestern and Midwestern United States. The headquarters in Bend, Oregon employs more than 400 people, most of whom use computers. Also, the headquarters has 28 servers, all running Microsoft Windows Server 2012 R2 Standard Edition. The company employees use Windows 7, Windows 8.1, and Mac OS X El Capitan.
+
+- The management distribution center i

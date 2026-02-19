@@ -5,7 +5,9 @@
 - **Description:** Your Windows Server 2019 computer is ready for you to perform post installation tasks. Based on the description of these tasks in this module, configure your server. Assume it’s a test server for the IT department, and give it a suitable name. Do the following:
 
 • List the configuration tasks you performed and the values and settings you used:
-
+- Setting the Time Zone and Date
+- Assigning an IP Address
+	- Windows Server configures the network interface to use DHCP by default, server may already haven an IP address assigned v
 # Fedora Workstation
 
 • What virtual machine settings did you choose?

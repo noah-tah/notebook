@@ -238,8 +238,9 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 	- A hacker breaks into the company network and deletes files from a server.
 		- Law enforcement should be involved, and should take place in digital forensics. Business continuity plan isn't executed. This is an incident. Recovery plan should be executed and should probably do a restoration from a backup if it exists.
 	- A fire breaks out in the storeroom and sets off sprinklers on that floor. Some computers are damaged, but the fire is contained.
-		- Emergency services are involved but not necessarily the law enforcement unless this is arson. Some computers doesn't sound like we need to activate the business continuity plan, even so, this is a 
+		- Emergency services are involved but not necessarily the law enforcement unless this is arson. Some computers doesn't sound like we need to activate the business continuity plan, even so, this is a disaster and not an incident. Damage assessment must be performed, equipment must be analyzed and inventoried, and a cost assessment for replacement must be placed, then a recovery implementation plan must be executed.
 	- A tornado hits a local power station, and the company will be without power for three to five days.
+		- This is definitely a disaster, and definitely needs to have a business continuity plan executed. The BC team should look into restoring operations at a different location 
 	- Employees go on strike, and the company could be without critical workers for weeks.
 	- A disgruntled employee takes a critical server home, sneaking it out for hours.
 - For each of the scenarios, describe the steps necessary to restore operations. Indicate whether law enforcement should be involved

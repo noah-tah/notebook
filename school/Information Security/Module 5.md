@@ -236,4 +236,8 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 
 - Classify each of the following occurrences as incident or disaster. If an occurrence is a disaster, determine whether business continuity plans would be called into play.
 	- A hacker breaks into the company network and deletes files from a server.
-	- A fire breaks out in the storeroom and sets off sprinklers on that floor. Some computers are da
+	- A fire breaks out in the storeroom and sets off sprinklers on that floor. Some computers are damaged, but the fire is contained.
+	- A tornado hits a local power station, and the company will be without power for three to five days.
+	- Employees go on strike, and the company could be without critical workers for weeks.
+	- A disgruntled employee takes a critical server home, sneaking it out for hours.
+- For each of the scenarios, describe the steps necessary to rest

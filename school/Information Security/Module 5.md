@@ -256,4 +256,4 @@ What would be the first note you wrote down if you were Charlie?
 - I would determine how to prevent that incident in the future, potentially by avoiding that incident.
 
 Suppose Charlie encountered resistance to his plans to improve contingency planning. What appeals could he use to sway opinions toward improved business contingency planning?
-- He could quantify the loss of profits during a period of downtime caused by an incident. 
+- He could quantify the loss of profits during a period of downtime caused by an incident. If you are the first organization to recover after a large incident and your competitors are still recovering, you're in position to pick up the desperate customers. Reliability builds customer trust, and customer trust builds

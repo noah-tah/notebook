@@ -244,4 +244,6 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 	- Employees go on strike, and the company could be without critical workers for weeks.
 		- This is a disaster and a business continuity plan should be executed, and members of the organization should temporarily take over these critical worker's functions if possible.
 	- A disgruntled employee takes a critical server home, sneaking it out for hours.
-- For each of the scenarios, describe the steps necessary to restore operations. Indicate whether law enforcement should be involved
+		- This is an incident, and potentially law enforcement should be involved. To restore operations, the critical server must be recovered, scanned, and cleaned in the case of a potential inside attack.
+
+Charlie sat at his desk in the morning after his nightt

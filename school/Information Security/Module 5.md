@@ -232,3 +232,4 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 	- Mexico has a national disaster agency called SINACOM which had federal protocols for hurricane response. Local response plans were not designed for 12 hour explosive intense hurricanes.
 	- The speed of the storm hindered communications, as usually there is a 36 to 48 hour window, but this one was so fast none of the protocols were designed for this, and the alert didn't reach the public in time for preparations
 	- The intensity of the storm was so great that the hierarchy of communication failed because the cellular and power grid went out so quickly.
+	- The plan was improved by the military and now is rehearsed annually. The army is able to mobilize thousands of troops when local police are overwhelmed.

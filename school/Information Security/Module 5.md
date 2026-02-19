@@ -217,8 +217,9 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 - Virus Attack
 	- I should perform an outage assessment and see what has been damaged on my machine, then i should enter the recovery phase and perform a sequence of recovery activities to reconstitute the integrity of my system.
 - Power Failure
-	- Determine outage assessment, then test the status of physical infrastructure, and inventory the functionality of equipment and then find the items that need to be replaced. Recovery imple
+	- Determine outage assessment, then test the status of physical infrastructure, and inventory the functionality of equipment and then find the items that need to be replaced. Recovery implementation would involve replacing the affected parts.
 - Fire
+	- I would have to determine a sort of Business Impact Analysis to understand how 
 - Burst Water Pipe
 - ISP failure
 - What other scenarios do you think are important to plan for?

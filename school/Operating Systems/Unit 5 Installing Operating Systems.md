@@ -26,7 +26,8 @@
 				- This actually failed and so I tried using the GUI next
 			- In Server Manager, I selected Local Server, and in the Local Server Properties section I selected 192.168.0.1 which was under Ethernet, and it opened up Network Connections.
 				- Here, I right clicked, selected properties.
-					- I double clicked 
+					- I double clicked Internet Protocol Version 4 (TCP/IPv4), and it opened up it's properties.
+						- Here I was able to check to see what the preferred DNS server was and it was already `127.0.0.1` so operation success.
 		- set the DNS server address to 127.0.0.1
 - Assigning a Computer Name
 	- For this I chose to use PowerShell:

@@ -70,9 +70,6 @@
 - The master distribution center in Bend, Oregon houses 42 employees, including 22 people using Windows 7 Professional and 20 people using Windows 8.1. The distribution center is slated to upgrade its computers to Windows 10 Pro. What preliminary steps should be taken before starting the upgrades on these computers? In general, are there any problems involved in upgrading to Windows 10 from each of these OSs?
 
 
-Current Operating Systems
-- Microsoft Windows Server 2012 R2 Standard Edition
-- Windows 7
-- Windows 8.1
-- Mac OS X El Capitan
-
+Master Distribution Center in Bend, Oregon Current Operating Systems
+- Windows 7 Professional - 22 people
+- 

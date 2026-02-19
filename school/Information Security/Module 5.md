@@ -251,4 +251,6 @@ Charlie sat at his desk in the morning after his nightmare. He had answered the 
 What would be the first note you wrote down if you were Charlie?
 - I would determine the threats that I would potentially face
 - I would determine the scope of damage and the likelihood of these threats
-- I would determine how I
+- I would determine how I would respond in the event of these threats coming to fruition in the form of an incident
+- I would determine how to minimize damage and recover from the incident.
+- I would determine how to prevent that incident in the future, potentially by avoiding that incident.

@@ -228,4 +228,5 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 	- I think its important to back up your operating system before major updates or potentially breaking changes. I used arch Linux for a while and sometimes the rolling updates can completely cook your machine, and sometimes it is best to pick you battles and to just roll back to a stable configuration.
 
 - Use your library or the Web to find a reported natural disaster that occurred at least six months ago. From the news accounts, determine whether local or national officials had prepared disaster plans and if the disaster plans were used. See if you can determine how the plans helped officials improve disaster response. How do the plans help the recovery?
-	- The natural disaster is Hurricane O
+	- The natural disaster is Hurricane Otis which struck Acapulco, Mexico on October 25, 2023. It transformed from a tropical storm to a category 5 hurricane in 12 hours, and made landfall with winds of 165 mph. 
+	- Mexico has a national disa

@@ -27,6 +27,7 @@
 - Assigning a Computer Name
 	- For this I chose to use PowerShell:
 		- `Rename-Computer -NewName "DC01-WS19"`
+		- I chose this name because it follows a naming convention I thought made
 	- I had to restart the server to change the name:
 		- `Restart-Computer`
 

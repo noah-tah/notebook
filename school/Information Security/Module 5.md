@@ -219,8 +219,9 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 - Power Failure
 	- Determine outage assessment, then test the status of physical infrastructure, and inventory the functionality of equipment and then find the items that need to be replaced. Recovery implementation would involve replacing the affected parts.
 - Fire
-	- I would have to determine a sort of Business Impact Analysis to understand how 
+	- I would have to determine a sort of Business Impact Analysis to understand how damaged the system is, and then identify recovery priorities. Determine the critical process and recover the critical components first.
 - Burst Water Pipe
+	- Determine the impact received from the disaster and recover the critical components first.
 - ISP failure
 - What other scenarios do you think are important to plan for?
 	- I think its important to back up your operating system before major updates or potentially breaking changes. I used arch linux for a while and sometimes the rolling updates can completely cook your machine, and sometimes it is best to pick you battles and to just roll back to a stable configuration.

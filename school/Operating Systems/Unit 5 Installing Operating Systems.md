@@ -18,6 +18,7 @@
 			- Default Gateway 10.0.2.2
 			- DNS servers configured through DHCP: 192.168.4.1
 			- WINS servers configured through DHCP: None.
+		- I decided this will be the domain controller, so I changed the IP address using the following command after navigating to 
 
 
 	- Windows Server configures the network interface to use DHCP by default, server may already haven an IP address assigned via DHCP.

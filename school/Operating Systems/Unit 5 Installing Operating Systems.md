@@ -2,7 +2,9 @@
 - Install Windows Server 2019
 - In this project, you install Windows Server 2019
 - When installing Windows Server 2019, you must open the storage menu and click the disk icon, then select the iso file in order for the installation to be successful.
+- **Description:** Your Windows Server 2019 computer is ready for you to perform post installation tasks. Based on the description of these tasks in this module, configure your server. Assume it’s a test server for the IT department, and give it a suitable name. Do the following:
 
+• List the configuration tasks you performed and the values and settings you used:
 
 # Fedora Workstation
 

@@ -16,5 +16,6 @@
 			- IDE Primary Device 0: [Optical Drive] Fedora-Workstation-Live-43-1.6x86_64.iso (2.55 GB)
 		- SATA Port 0: Fedora Workstation.vdi (Normal, 15.00GB)
 • Where did you get the Fedora Workstation ISO file?
-
+	- I got the ISO file from fedoraproject.org, more specifically the following link:
+		- https://www.fedoraproject.org/workstation/download/
 • What setting did you need to change on the virtual machine before you could begin the installation?

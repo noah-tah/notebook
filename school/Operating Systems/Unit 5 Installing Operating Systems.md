@@ -62,4 +62,5 @@
 	- No setting needed changing for me, I was able to install this while running Windows Server 2019 in another VM and had no problems at all with installation. Installing Windows Server 2019 wasn't as straightforward though, and had to open the settings and point to the ISO file
 	- Upon further use I actually had to allocate a bit more ram to the machine to get it to run smoothly as it was hanging up a bit with the default settings.
 
-# Ca
+# Case Project 5-1 Determining Preliminary Steps
+- Merlinos Mills is a company that produces flours and grains for grocery stores. It owns mills and distribution centers in the Northwestern and Midwestern United States. The headquarters in Bend, Oregon employs more than 400 people, mo

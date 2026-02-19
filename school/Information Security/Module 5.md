@@ -215,6 +215,7 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 
 - Using the format provided in the text, design an incident response plan for your home computer. Include actions to be taken if each of the following events occur:
 - Virus Attack
+	- I should perform an outage assessment and see what has been damaged on my machine, then i should enter the recovery phase and perform a sequence of recovery activities to restore 
 - Power Failure
 - Fire
 - Burst Water Pipe

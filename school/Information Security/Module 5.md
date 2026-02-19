@@ -227,4 +227,4 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 - What other scenarios do you think are important to plan for?
 	- I think its important to back up your operating system before major updates or potentially breaking changes. I used arch Linux for a while and sometimes the rolling updates can completely cook your machine, and sometimes it is best to pick you battles and to just roll back to a stable configuration.
 
-- Use your library or the Web to find a reported natural disaster that o
+- Use your library or the Web to find a reported natural disaster that occurred at least six months ago. From the news accounts, determine whether local or national officials had prepared disaster plans and if the disaster plans were used. See if you can determine how the plans helped officials improve disaster response. How do the plans help the recovery?

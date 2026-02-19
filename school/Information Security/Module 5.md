@@ -220,4 +220,4 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 - Burst Water Pipe
 - ISP failure
 - What other scenarios do you think are important to plan for?
-	- I think its important to back up your operating system before major updates or potentially breaking changes. I used arch linux for a while and sometimes the rolling updates can completely cook your machine, and sometimes it is best to pick you battles and to jus
+	- I think its important to back up your operating system before major updates or potentially breaking changes. I used arch linux for a while and sometimes the rolling updates can completely cook your machine, and sometimes it is best to pick you battles and to just roll back to a stable configuration.

@@ -9,6 +9,9 @@
 	- Opened Settings
 	- Under Time Zone, I selected Central Time (US & Canada)
 - Assigning an IP Address
+
+
+
 	- Windows Server configures the network interface to use DHCP by default, server may already haven an IP address assigned via DHCP.
 	- I can use the GUI, the `netsh` command, or the `New-NewIPaddress` PowerShell cmdlet to set your IP address.
 	- You'll see the address of your default gateway and DNS servers as well.

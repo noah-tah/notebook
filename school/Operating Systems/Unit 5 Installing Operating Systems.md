@@ -11,7 +11,11 @@
 - Assigning an IP Address
 	- First I checked to see what was currently set:
 		- Opened powershell, ran `netsh`, then ran `interface`, then `ipv4`, then, `show config`.
-		It listed the following configurat
+		- It listed the following configuration:
+			- DHCP enabled: Yes
+			- IP Address: 10.0.2.15
+			- Subnet Prefix: 10.0.2.0/24 (mask 255.255.255.0)
+			- Default Gateway 10.0.2.2
 
 
 	- Windows Server configures the network interface to use DHCP by default, server may already haven an IP address assigned via DHCP.

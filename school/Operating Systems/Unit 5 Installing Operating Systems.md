@@ -65,4 +65,4 @@
 # Case Project 5-1 Determining Preliminary Steps
 - Merlinos Mills is a company that produces flours and grains for grocery stores. It owns mills and distribution centers in the Northwestern and Midwestern United States. The headquarters in Bend, Oregon employs more than 400 people, most of whom use computers. Also, the headquarters has 28 servers, all running Microsoft Windows Server 2012 R2 Standard Edition. The company employees use Windows 7, Windows 8.1, and Mac OS X El Capitan.
 
-- The management distribution center i
+- The management distribution center in Bend, Oregon houses 42 employees, including 22 people using Windows 7 Professional and 20 people using Windows 8.1. The distribution center is slated to upgrade its computers to Windows 10 Pro. What preliminary steps should be taken before starting the upgrades on these computers? In general, are there any problems involved in upgrading to Windows 10 from eac

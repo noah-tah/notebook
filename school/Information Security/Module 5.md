@@ -249,4 +249,6 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 Charlie sat at his desk in the morning after his nightmare. He had answered the most pressing e-mails in his inbox and had a piping hot cup of coffee at his elbow. He looked down at a blank legal pad, ready to make notes about to do in case his nightmare became a reality.
 
 What would be the first note you wrote down if you were Charlie?
-- 
+- I would determine the threats that I would potentially face
+- I would determine the scope of damage and the likelihood of these threats
+- I would determine how I

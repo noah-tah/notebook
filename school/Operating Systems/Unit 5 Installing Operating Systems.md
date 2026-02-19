@@ -72,4 +72,8 @@
 
 Master Distribution Center in Bend, Oregon Current Operating Systems
 - Windows 7 Professional - 22 people
-- 
+- Windows 8.1 - 20 people
+
+Distribution center wants to upgrade to Windows 10 Pro.
+
+What preliminary steps should be taken before starting the upgrades on these computers?

@@ -246,4 +246,7 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 	- A disgruntled employee takes a critical server home, sneaking it out for hours.
 		- This is an incident, and potentially law enforcement should be involved. To restore operations, the critical server must be recovered, scanned, and cleaned in the case of a potential inside attack.
 
-Charlie sat at his desk in the morning after his nightt
+Charlie sat at his desk in the morning after his nightmare. He had answered the most pressing e-mails in his inbox and had a piping hot cup of coffee at his elbow. He looked down at a blank legal pad, ready to make notes about to do in case his nightmare became a reality.
+
+What would be the first note you wrote down if you were Charlie?
+- 

@@ -82,4 +82,5 @@ What preliminary steps should be taken before starting the upgrades on these com
 	- 2 GB RAM for 64-bit
 	- 20 GB free disk space
 - I would argue these machines need at least 8 GB of ram and an SSD for modern computing tasks.
-- Should preform a full data backup as well, to create a safety net for
+- Should preform a full data backup as well, to create a safety net for the machine so we can roll back if necessary.
+- Taken inventory of all proprietary software being used in the distribution center, and try these on a testing Windows 10 machine to see how everything works, may potentially need to run virtual machines t

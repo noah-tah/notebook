@@ -88,4 +88,4 @@ What preliminary steps should be taken before starting the upgrades on these com
 What problems are involved in upgrading to Windows 10 from each of these OS's?
 - Windows 7 does not have a direct upgrade path to Windows 10 Pro and an activation key will have to be purchased.
 - The hardware on the Windows 7 machine is likely not compatible with modern drivers Windows 10 uses, and may cause potential problems.
-- Depending o
+- Depending on the edition of Windows 8.1, complications may occur and and upgrade path might not be straightforward.

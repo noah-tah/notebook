@@ -254,3 +254,6 @@ What would be the first note you wrote down if you were Charlie?
 - I would determine how I would respond in the event of these threats coming to fruition in the form of an incident
 - I would determine how to minimize damage and recover from the incident.
 - I would determine how to prevent that incident in the future, potentially by avoiding that incident.
+
+Suppose Charlie encountered resistance to his plans to improve contingency planning. What appeals could he use to sway opinions toward improved business contingency planning?
+- 

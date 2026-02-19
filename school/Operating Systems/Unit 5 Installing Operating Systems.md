@@ -86,3 +86,6 @@ What preliminary steps should be taken before starting the upgrades on these com
 - Taken inventory of all proprietary software being used in the distribution center, and try these on a testing Windows 10 machine to see how everything works, may potentially need to run virtual machines to support legacy software.
 
 What problems are involved in upgrading to Windows 10 from each of these OS's?
+- Windows 7 does not have a direct upgrade path to Windows 10 Pro and an activation key will have to be purchased.
+- The hardware on the Windows 7 machine is likely not compatible with modern drivers Windows 10 uses, and may cause potential problems.
+- Depending o

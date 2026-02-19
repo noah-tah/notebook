@@ -21,7 +21,8 @@
 		- I decided this will be the domain controller, so I changed the IP address using the following command after navigating to `netsh interface ipv4` again:
 			- `set address name="Ethernet" static 192.168.0.1 255.255.255.0`
 		- Then set the DNS to itself so that it checks its own database when looking up a computer name
-			- 
+			- Inside the `netsh interface ipv4`:
+				- `set dns name="Ethernet" static 127.0.0.1`
 
 
 	- Windows Server configures the network interface to use DHCP by default, server may already haven an IP address assigned via DHCP.

@@ -1,3 +1,8 @@
+# Windows Server 2019
 - Install Windows Server 2019
 - In this project, you install Windows Server 2019
 - When installing Windows Server 2019, you must open the storage menu and click the disk icon, then select the iso file in order for the installation to be successful.
+
+
+# Fedora Workstation
+

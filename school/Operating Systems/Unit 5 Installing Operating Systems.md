@@ -36,7 +36,7 @@
 	- I had to restart the server to change the name:
 		- `Restart-Computer`
 - Configuring and Installing Updates
-	- 
+	- I selected the link next to Windows Update and checked for updates.
 
 
 	- Windows Server configures the network interface to use DHCP by default, server may already haven an IP address assigned via DHCP.

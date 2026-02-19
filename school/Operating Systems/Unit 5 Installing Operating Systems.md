@@ -24,7 +24,9 @@
 			- Inside the `netsh interface ipv4`:
 				- `set dns name="Ethernet" static 127.0.0.1`
 				- This actually failed and so I tried using the GUI next
-			- In Server Manager, I selected Local Server, and in the Local Server
+			- In Server Manager, I selected Local Server, and in the Local Server Properties section I selected 192.168.0.1 which was under Ethernet, and it opened up Network Connections.
+				- Here, I right clicked, selected properties.
+					- I double clicked 
 		- set the DNS server address to 127.0.0.1
 - Assigning a Computer Name
 	- For this I chose to use PowerShell:

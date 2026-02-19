@@ -229,4 +229,4 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 
 - Use your library or the Web to find a reported natural disaster that occurred at least six months ago. From the news accounts, determine whether local or national officials had prepared disaster plans and if the disaster plans were used. See if you can determine how the plans helped officials improve disaster response. How do the plans help the recovery?
 	- The natural disaster is Hurricane Otis which struck Acapulco, Mexico on October 25, 2023. It transformed from a tropical storm to a category 5 hurricane in 12 hours, and made landfall with winds of 165 mph. 
-	- Mexico has a national disa
+	- Mexico has a national disaster agency called SINACOM which had federal protocols for hurricane response. Local response plans were

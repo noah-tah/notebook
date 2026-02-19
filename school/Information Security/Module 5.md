@@ -226,3 +226,5 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 	- This one is largely out of my control but i would probably implement a Continuity of Operations Plan to see what operations I can still continue during this incident. Essential functions, continuity of communications, and reconstituting what I can.
 - What other scenarios do you think are important to plan for?
 	- I think its important to back up your operating system before major updates or potentially breaking changes. I used arch Linux for a while and sometimes the rolling updates can completely cook your machine, and sometimes it is best to pick you battles and to just roll back to a stable configuration.
+
+- Use your library or the Web to find a reported natural disaster that o

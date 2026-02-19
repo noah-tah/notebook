@@ -27,7 +27,7 @@
 - Assigning a Computer Name
 	- For this I chose to use PowerShell:
 		- `Rename-Computer -NewName "DC01-WS19"`
-		- I chose this name because it follows a naming convention I thought made
+		- I chose this name because it follows a naming convention I thought made sense. "Domain Control 1, Windows Server 2019" would be the long version of the name. It is concise and scalable.
 	- I had to restart the server to change the name:
 		- `Restart-Computer`
 

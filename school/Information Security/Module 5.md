@@ -242,6 +242,6 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 	- A tornado hits a local power station, and the company will be without power for three to five days.
 		- This is definitely a disaster, and definitely needs to have a business continuity plan executed. The BC team should look into restoring operations at another location temporarily if possible while the DR team waits for power to be restored to the infrastructure.
 	- Employees go on strike, and the company could be without critical workers for weeks.
-		- This is an incident and l
+		- This is a disaster and a business continuity plan should be executed, and members of the organization should temporarily take over these critical worker's functions if possible.
 	- A disgruntled employee takes a critical server home, sneaking it out for hours.
 - For each of the scenarios, describe the steps necessary to restore operations. Indicate whether law enforcement should be involved

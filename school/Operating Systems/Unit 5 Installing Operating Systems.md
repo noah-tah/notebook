@@ -23,7 +23,7 @@
 		- Then set the DNS to itself so that it checks its own database when looking up a computer name
 			- Inside the `netsh interface ipv4`:
 				- `set dns name="Ethernet" static 127.0.0.1`
-				- This actually failed because we haven't installed the DNS service yet, and it will resolve itself when the DNS service is installed more than likely.
+				- This actually failed and so I trie
 		- set the DNS server address to 127.0.0.1
 - Assigning a Computer Name
 	- For this I chose to use PowerShell:

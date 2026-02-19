@@ -77,3 +77,5 @@ Master Distribution Center in Bend, Oregon Current Operating Systems
 Distribution center wants to upgrade to Windows 10 Pro.
 
 What preliminary steps should be taken before starting the upgrades on these computers?
+- The first thing is to make sure the PCs meet the minimum requirement for Windows 10:
+	- 1 GHz

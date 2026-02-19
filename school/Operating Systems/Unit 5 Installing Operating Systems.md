@@ -35,6 +35,8 @@
 		- I chose this name because it follows a naming convention I thought made sense. "Domain Control 1, Windows Server 2019" would be the long version of the name. It is concise and scalable.
 	- I had to restart the server to change the name:
 		- `Restart-Computer`
+- Configuring and Installing Updates
+	- 
 
 
 	- Windows Server configures the network interface to use DHCP by default, server may already haven an IP address assigned via DHCP.

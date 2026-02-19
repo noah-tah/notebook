@@ -20,4 +20,4 @@
 		- https://www.fedoraproject.org/workstation/download/
 • What setting did you need to change on the virtual machine before you could begin the installation?
 	- No setting needed changing for me, I was able to install this while running Windows Server 2019 in another VM and had no problems at all with installation. Installing Windows Server 2019 wasn't as straightforward though, and had to open the settings and point to the ISO file
-	- Upon further use I actually had to allocate a bit more ram and 
+	- Upon further use I actually had to allocate a bit more ram to the machine to get it to run smoothly as it was hanging up a bit with the default settings.

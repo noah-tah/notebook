@@ -79,3 +79,7 @@ Distribution center wants to upgrade to Windows 10 Pro.
 What preliminary steps should be taken before starting the upgrades on these computers?
 - The first thing is to make sure the PCs meet the minimum requirement for Windows 10:
 	- 1 GHz
+	- 2 GB RAM for 64-bit
+	- 20 GB free disk space
+- I would argue these machines need at least 8 GB of ram and an SSD for modern computing tasks.
+- Should preform a full data backup as well, to create a safety net for

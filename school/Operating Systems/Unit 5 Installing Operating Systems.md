@@ -26,7 +26,9 @@
 				- This actually failed because we haven't installed the DNS service yet, and it will resolve itself when the DNS service is installed more than likely.
 - Assigning a Computer Name
 	- For this I chose to use PowerShell:
-		- `Rename-Computer -NewName `
+		- `Rename-Computer -NewName "DC01-WS19"`
+	- I had to restart the server to change the name:
+		- `Restart-Computer`
 
 
 	- Windows Server configures the network interface to use DHCP by default, server may already haven an IP address assigned via DHCP.

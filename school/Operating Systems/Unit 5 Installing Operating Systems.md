@@ -7,7 +7,10 @@
 • List the configuration tasks you performed and the values and settings you used:
 - Setting the Time Zone and Date
 - Assigning an IP Address
-	- Windows Server configures the network interface to use DHCP by default, server may already haven an IP address assigned v
+	- Windows Server configures the network interface to use DHCP by default, server may already haven an IP address assigned via DHCP.
+	- I can use the GUI, the netsh command, or the New-NewIPaddress PowerShell cmdlet to set your IP address.
+	- You'll see the address of your default gateway and DNS servers as well.
+		- If thisserver will be a DNS server, you can set the DNS server address to 127.0.0.1 and the server will use its O
 # Fedora Workstation
 
 • What virtual machine settings did you choose?

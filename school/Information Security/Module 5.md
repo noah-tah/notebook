@@ -235,4 +235,5 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 	- The plan was improved by the military and now is rehearsed annually. The army is able to mobilize thousands of troops when local police are overwhelmed.
 
 - Classify each of the following occurrences as incident or disaster. If an occurance is a disaster, determine whether business continuity plans would be called into play.
-	- A hacker breaks
+	- A hacker breaks into the company network and deletes files from a server.
+	- A fire breaks out in the storeroom and sets of sprinklwer

@@ -258,4 +258,5 @@ What would be the first note you wrote down if you were Charlie?
 Suppose Charlie encountered resistance to his plans to improve contingency planning. What appeals could he use to sway opinions toward improved business contingency planning?
 - He could quantify the loss of profits during a period of downtime caused by an incident. If you are the first organization to recover after a large incident and your competitors are still recovering, you're in position to pick up the desperate customers. Reliability builds customer trust, and customer trust builds a portfolio of life-long customers. Having processes in place helps with organization during the chaos of an incident.
 
-- Suppose Charlie's manager, Gladys, tells him that everything is just fine the way it is. Charlie is firmly convinced that the f
+- Suppose Charlie's manager, Gladys, tells him that everything is just fine the way it is. Charlie is firmly convinced that the company is not prepared for any significant adverse events that may occur. Should Charlie's professional responsibilities include escalating this matter to the higher levels of the organization?
+	- Absolutely, it is his professional obligation to perform his role to the best of his abilities, and if he believes the organization is at risk, he should not ignore that and 

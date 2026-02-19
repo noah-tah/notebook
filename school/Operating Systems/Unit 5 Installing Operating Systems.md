@@ -1,0 +1,2 @@
+- Install Windows Server 2019
+- In this project, you install Windows Server 2019

@@ -213,7 +213,7 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 - It also outlines how to develop the contingency planning policy statement and how to conduct the business impact analysis. It contains contingency strategies and methodologies to test them. 
 - It also covers the recovery phase and even outlines technical considerations for planning low-level planning considerations.
 
-- Using the format provided in the text, design an incident response plan for your home computer. Inlcude actions to be taken if each of the following events occur:
+- Using the format provided in the text, design an incident response plan for your home computer. Include actions to be taken if each of the following events occur:
 - Virus Attack
 - Power Failure
 - Fire

@@ -9,7 +9,11 @@
 • What virtual machine settings did you choose?
 	- The virtual machine settings that I chose:
 		- Base Memory: 2048 MB
-		- Boot Order: Floppy, Optical, Hard D
+		- Boot Order: Floppy, Optical, Hard Disk
+		- Video Memory: 16 MB
+		- Graphics Controller: VMSVGA
+		- Controller: IDE
+			- IDE Primary Device 0: [Optical Drive] Fedora-Workstation-Live-43-1.6x86_64
 • Where did you get the Fedora Workstation ISO file?
 
 • What setting did you need to change on the virtual machine before you could begin the installation?

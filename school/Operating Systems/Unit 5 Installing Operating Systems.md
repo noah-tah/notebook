@@ -19,3 +19,4 @@
 	- I got the ISO file from fedoraproject.org, more specifically the following link:
 		- https://www.fedoraproject.org/workstation/download/
 • What setting did you need to change on the virtual machine before you could begin the installation?
+	- No setting needed changing for me, I was able to install this while running Windows Server 2019 in another VM and had no problems at all with installation. Installing W

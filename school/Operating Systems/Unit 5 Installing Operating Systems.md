@@ -23,6 +23,7 @@
 		- Then set the DNS to itself so that it checks its own database when looking up a computer name
 			- Inside the `netsh interface ipv4`:
 				- `set dns name="Ethernet" static 127.0.0.1`
+				- This actually failed because we haven't installed the DNS service yet, and it will resolve itself when the DNS service is installed more than likely.
 
 
 	- Windows Server configures the network interface to use DHCP by default, server may already haven an IP address assigned via DHCP.

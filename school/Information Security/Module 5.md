@@ -214,4 +214,10 @@ Once an actual incident has been confirmed and properly classified, the IR plan 
 - It also covers the recovery phase and even outlines technical considerations for planning low-level planning considerations.
 
 - Using the format provided in the text, design an incident response plan for your home computer. Inlcude actions to be taken if each of the following events occur:
-- 
+- Virus Attack
+- Power Failure
+- Fire
+- Burst Water Pipe
+- ISP failure
+- What other scenarios do you think are important to plan for?
+	- I think its important to back up your operating system before major updates or potentially breaking changes. I used arch linux for a while and sometimes the rolling updates can completely cook your machine, and sometimes it is best to pick you battles and to jus

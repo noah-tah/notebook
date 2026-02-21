@@ -57,4 +57,4 @@ tags RecipeTag[]
 - `steps RecipeStep[]`
 	- Every recipe has a series of steps
 - `tags RecipeTag[]`
-	- Every recipe has recipe tags
+	- this is to join table for the many-to-many relationship between Recipe and Tag

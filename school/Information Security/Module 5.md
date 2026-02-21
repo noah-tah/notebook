@@ -74,3 +74,189 @@ It relates to the concept of incident response in that you must clearly define t
 - Notification by hacker—Some hackers enjoy taunting their victims. If an organization’s Web pages are defaced, it is an incident. If an organization receives an extortion request for money in exchange for its stolen data, an incident is in progress. Note that even if an actual attack has not occurred—for example, the hacker is just making an empty threat—the reputational risk is real and should be treated as such.
 Once an actual incident has been confirmed and properly classified, the IR plan moves from the detection phase to the reaction phase.
 - Once an actual incident has been confirmed and properly classified, the IR plan moves from the detection phase to the reaction phase.
+
+- List and describe the sets of procedures used to detect, contain, and resolve an incident.
+	- The set of procedures used to detect and incident are:
+		- Incident classification and incident detection
+		- alert roster  is used to deliver the alert message, which organizes a team to respond to the incident.
+		- documentation must begin immediately, and serves as a case study to determine if the correct actions were taken, and if they were effective.
+		- the containment procedures focus on stopping the incident and recovering control of the affected systems. the simplest and most straightforward way to stop the incident is to simply disconnect the affected communication circuit, essentially moating that part of the system off, although it obviously is not always going to be that simple. 
+		- the recovery procedures include the CSIRT engaging in a process called incident damage assessment to immediately determine the impact from an incident involving information assets. This can take a long time depending on the extend of the damage, and once the extend of the damage has been assessed, recovery begins.
+		- Donald Pipkin gives a process with the following steps:
+			- Identify and resolve the vulnerabilities that allowed the incident.
+			- Address the safeguards that failed to stop or limit the incident, install replace or upgrade them.
+			- Evaluate monitoring capabilities and the reporting protocols, and if needed, install new monitoring capabilities.
+			- Restore data from backups, and have a backup strategy in place if there was not one already. Follow recovery process if there was in place.
+			- Restore services and processes, after examination and cleaning.
+			- Continuously monitor the system. If it happened once, it can happen again. If words gets out about an exploit, more hacker buddies might join in to see if they can compromise the system again for sport.
+			- Restore confidence in organization's communities of interest, perhaps issuing a statement on the incident, explaining that damage was minimized and the incident has been resolved. 
+		Finally, an after-action review (AAR) should be performed to discuss what happened, and for everyone to share their own perspective, without blaming each other. The AAR is written up and shared.
+
+
+- What is incident classification?
+	- The process of examining an adverse event or incident candidate and determining whether is constitutes and actual incident
+	- it involves reviewing all adverse events that has the potential to escalate into an incident, and making a decision on whether or not it should trigger the IR plan.
+	- This is the responsibility of the CSIRT, unless there is a security operations center with individuals trained to perform incident classification before notifying the CSIRT and activating the IR plan.
+
+- List and describe the actions that should be taken during the reaction to an incident.
+	- alert roster  is used to deliver the alert message, which organizes a team to respond to the incident.
+	- documentation must begin immediately, and serves as a case study to determine if the correct actions were taken, and if they were effective.
+
+- What is an alert roster? What is an alert message? Describe the two ways they can be used.
+	- An alert roster is a document that contains contact information for the individuals that need to be notified in the event of and incident.
+	- An alert message is a description of the incident that contains just enough information so that each person knows what part of the IR or DR plan to implement without slowing down the process of notifying the key individuals.
+	- The alert roster can be activated either sequentially or hierarchically. A sequential roster uses a designated contact person who uses an identified method to initiate contact with each person on the roster. A hierarchical roster requires the first person contact a specific number of people on the roster, who then contact other people on the roster based on their position in the roster. Each system has their advantages and disadvantages.
+
+- List and describe several containment strategies given in the text. On which tasks do they focus?
+	- Typical containment strategies:
+		- Disabling compromised accounts
+		- Reconfiguring firewall to block problem traffic
+		- Temporarily disabling compromised services/processes
+		- Taking down the conduit application or server that is spreading the incident
+		- Disconnecting affected networks or network segments
+		- Stopping (powering down) all networks and computer devices
+
+- What is a disaster recovery plan, and why is it important to the organization?
+	- the documented product of disaster recovery planning and is a plan that shows the organization's intended efforts in the event of an incident or larger disaster.
+	- It is important because they have several responsibilities in recovering the primary site and the reestablishment of operations in the case of a natural disaster or a complete system wipeout.
+		- They recover information assets that are salvageable after disaster.
+		- Acquire replacement information assets.
+		- Reestablish functional information assets at the original primary site if possible or if needed, they will relocate the primary site.
+	- Disaster recovery response teams can include:  the DR management team, the communications team, the computer recovery team, the systems recovery team, the network recovery team, the storage recovery team, the application recovery team, the data management team, the vendor contact team, the damage assessment and salvage team, the business interface team, the logistics team, and other teams as needed.
+
+
+- What is the business continuity plan, and why is it important?
+	- The BC plan is the documented product of business continuity planning and is a plan that shows the organizations intended efforts in the case of operations no longer being possible at the primary site.
+	- It is important because there must be a plan in place to allow the business to continue to function in the case of a disaster, business must go on.
+	- Manufacturing and retail organizations depend on continued operations for revenue, so business continuity is very important in those types of business clearly.
+
+- What is a business impact analysis, and what is it used for?
+	- A business impact analysis (BIA) is an investigation and assessment of adverse incidents that can affect the organization, and is conducted during the beginning phase of the contingency planning process. It is a paper that includes a determination of how critical a system is and how important it is to the organization's core processes and the recovery priorities associated with it.
+	- BIA assumes the attack was successful and that the infrastructure was ineffective, and assumes that the worst has happened, and then is responsible for assessing how that will impact the organization.
+	- It also focuses on minimizing the impact of this, and how to recover to normal operations.
+
+- Why should contingency plans be tested and rehearsed?
+	- Plans look good on paper but testing will reveal resource shortages, outdated info and flaws in logic in reality. Building muscle memory is important and can shorten response time and overall panic. Clarifying the roles and responsibilities of the group is very important, individuals need to know who to look to for authority, and need to be familiar with the communication chains set in place. 
+
+- Which types of organizations might use a unified continuity plan? Which types of organizations might use the various contingency planning components as separate plans? Why?
+	- Typically, a smaller organization will adopt a one-plan or unified model which consists of straightforward recovery strategies.
+	- A larger and more complex organization develop each component separately because of the complexity and scope of each of the components at this scale.
+
+- What strategies can be used to test contingency plans?
+	- The following strategies can be used to test contingency plans:
+		- Desk check, which is a simple validation which involves distributing copies of the plans to individuals who have roles in the CP, then checking to see if the individuals have all the up to date materials on the CP plan.
+		- Structured walk-through which involves all the individuals involved in the CP walk through the steps they would take in the case of an actual incident or disaster. Everyone discusses what they are supposed to do, and talk through the steps.
+		- Simulation which involves a role playing exercise with the CP team role playing an actual incident or disaster and to react like it had actually occurred. The discussion is driven by a scenario and every individuals role in that scenario.
+		- Full-interruption testing which individuals follow all the procedures, including a full on interruption of service and even using the backups to restore data. This is performed after business hours as to not interrupt the companies services and not to upset the stakeholders. The priority of any business should always be to provide the most value possible to their stakeholders.
+
+
+- List and describe two specialized alternatives not often used as a continuity strategy
+	- A rolling mobile site, which involves contracting with an organization to provide specialized facilities configured at the deployment of the tractor-trailer.
+	- Using cloud based provisions has been an emerging option which can be used as potential continuity of production systems and can be used to manage recovery from disrupted operations.
+
+- What is digital forensics, and when is it used in a business setting?
+	- Digital forensics are investigations that involving preserving, identifying, extracting, documenting, and interpreting computer media for evidence and root cause analysis by following pre defined methodologies.
+		- It is used to find evidentiary material, to investigate allegations of digital malfeasance, which is a crime that involves digital media, then to perform root cause analysis if an incident occurs.
+	- This is used to protect the organization and to potentially assist law enforcement in an investigation.
+
+
+
+
+- Using a Web search engine, search for the terms disaster recovery and business continuity. How many responses do you get for each term? Note the names some of the companies in the response. Now perform the search again, adding the name of your metropolitan area or community.
+	- disaster recovery gave 204,000,000 results
+		- companies mentioned:
+			- NetApp
+			- Microsoft Azure
+			- DisasterAssitance.gov
+			- IBM
+			- VMWare
+			- Google Cloud
+			- Ready.gov
+			- U.S. Economic Development Administration
+			- Cloudian
+	- business continuity gave 110,000,000 results
+		- companies mentioned:
+			- The Business Continuity Institute (BCI)
+			- Cisco Systems
+			- Ready.gov
+			- Oracle
+			- DRI International
+	- disaster recovery Ponca City gave 35,400 results
+		- companies mentioned:
+			- Courtesy Care Restoration
+			- Experts Water Damage Restoration LLC
+			- Clean Harbors
+			- Angie's List
+			- File Data Savers Data Recovery
+			- Ponca City
+			- Government Procurement
+	- business continuity Ponca City gave 9,690 results
+		- companies mentioned:
+			- ArcLight Group
+			- Pileus Technologies
+			- City of Ponca City
+			- File Savers Data Recovery
+			- Ritter Business
+			- Oklahoma.gov
+			- Summit Technology Group LLC
+			- Itology.com
+
+- The document outlines the different types of contingency plans:
+	- Business Continuity Plan
+	- Continuity of Operations Plan
+	- Crisis Communications Plan
+	- Critical Infrastructure Protection Plan
+	- Cyber Incident Response Plan
+	- Disaster Recovery Plan
+	- Information System Contingency Plan
+	- Occupant Emergency Plan
+- It also outlines how to develop the contingency planning policy statement and how to conduct the business impact analysis. It contains contingency strategies and methodologies to test them. 
+- It also covers the recovery phase and even outlines technical considerations for planning low-level planning considerations.
+
+- Using the format provided in the text, design an incident response plan for your home computer. Include actions to be taken if each of the following events occur:
+- Virus Attack
+	- I should perform an outage assessment and see what has been damaged on my machine, then i should enter the recovery phase and perform a sequence of recovery activities to reconstitute the integrity of my system.
+- Power Failure
+	- Determine outage assessment, then test the status of physical infrastructure, and inventory the functionality of equipment and then find the items that need to be replaced. Recovery implementation would involve replacing the affected parts.
+- Fire
+	- I would have to determine a sort of Business Impact Analysis to understand how damaged the system is, and then identify recovery priorities. Determine the critical process and recover the critical components first. Will have to evaluate equipment replacement and cost considerations.
+- Burst Water Pipe
+	- Determine the impact received from the disaster and recover the critical components first. Will have to evaluate equipment replacement and cost considerations.
+- ISP failure
+	- This one is largely out of my control but i would probably implement a Continuity of Operations Plan to see what operations I can still continue during this incident. Essential functions, continuity of communications, and reconstituting what I can.
+- What other scenarios do you think are important to plan for?
+	- I think its important to back up your operating system before major updates or potentially breaking changes. I used arch Linux for a while and sometimes the rolling updates can completely cook your machine, and sometimes it is best to pick you battles and to just roll back to a stable configuration.
+
+- Use your library or the Web to find a reported natural disaster that occurred at least six months ago. From the news accounts, determine whether local or national officials had prepared disaster plans and if the disaster plans were used. See if you can determine how the plans helped officials improve disaster response. How do the plans help the recovery?
+	- The natural disaster is Hurricane Otis which struck Acapulco, Mexico on October 25, 2023. It transformed from a tropical storm to a category 5 hurricane in 12 hours, and made landfall with winds of 165 mph. 
+	- Mexico has a national disaster agency called SINACOM which had federal protocols for hurricane response. Local response plans were not designed for 12 hour explosive intense hurricanes.
+	- The speed of the storm hindered communications, as usually there is a 36 to 48 hour window, but this one was so fast none of the protocols were designed for this, and the alert didn't reach the public in time for preparations
+	- The intensity of the storm was so great that the hierarchy of communication failed because the cellular and power grid went out so quickly.
+	- The plan was improved by the military and now is rehearsed annually. The army is able to mobilize thousands of troops when local police are overwhelmed.
+
+- Classify each of the following occurrences as incident or disaster. If an occurrence is a disaster, determine whether business continuity plans would be called into play.
+	- A hacker breaks into the company network and deletes files from a server.
+		- Law enforcement should be involved, and should take place in digital forensics. Business continuity plan isn't executed. This is an incident. Recovery plan should be executed and should probably do a restoration from a backup if it exists.
+	- A fire breaks out in the storeroom and sets off sprinklers on that floor. Some computers are damaged, but the fire is contained.
+		- Emergency services are involved but not necessarily the law enforcement unless this is arson. Some computers doesn't sound like we need to activate the business continuity plan, even so, this is a disaster and not an incident. Damage assessment must be performed, equipment must be analyzed and inventoried, and a cost assessment for replacement must be placed, then a recovery implementation plan must be executed.
+	- A tornado hits a local power station, and the company will be without power for three to five days.
+		- This is definitely a disaster, and definitely needs to have a business continuity plan executed. The BC team should look into restoring operations at another location temporarily if possible while the DR team waits for power to be restored to the infrastructure.
+	- Employees go on strike, and the company could be without critical workers for weeks.
+		- This is a disaster and a business continuity plan should be executed, and members of the organization should temporarily take over these critical worker's functions if possible.
+	- A disgruntled employee takes a critical server home, sneaking it out for hours.
+		- This is an incident, and potentially law enforcement should be involved. To restore operations, the critical server must be recovered, scanned, and cleaned in the case of a potential inside attack.
+
+Charlie sat at his desk in the morning after his nightmare. He had answered the most pressing e-mails in his inbox and had a piping hot cup of coffee at his elbow. He looked down at a blank legal pad, ready to make notes about to do in case his nightmare became a reality.
+
+What would be the first note you wrote down if you were Charlie?
+- I would determine the threats that I would potentially face
+- I would determine the scope of damage and the likelihood of these threats
+- I would determine how I would respond in the event of these threats coming to fruition in the form of an incident
+- I would determine how to minimize damage and recover from the incident.
+- I would determine how to prevent that incident in the future, potentially by avoiding that incident.
+
+Suppose Charlie encountered resistance to his plans to improve contingency planning. What appeals could he use to sway opinions toward improved business contingency planning?
+- He could quantify the loss of profits during a period of downtime caused by an incident. If you are the first organization to recover after a large incident and your competitors are still recovering, you're in position to pick up the desperate customers. Reliability builds customer trust, and customer trust builds a portfolio of life-long customers. Having processes in place helps with organization during the chaos of an incident.
+
+- Suppose Charlie's manager, Gladys, tells him that everything is just fine the way it is. Charlie is firmly convinced that the company is not prepared for any significant adverse events that may occur. Should Charlie's professional responsibilities include escalating this matter to the higher levels of the organization?
+	- Absolutely, it is his professional obligation to perform his role to the best of his abilities, and if he believes the organization is at risk, he should not ignore that and he should run it up the ladder until someone listens to him. He should organize himself though, and make sure he has his facts straight and can provide a clear argument on why the organization needs these contingency plans in place.

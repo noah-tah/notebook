@@ -51,4 +51,7 @@ tags RecipeTag[]
 - [[CUID2]] is supported in Prisma 7
 	- Secure, collision-resistant ids optimized for horizontal scaling and performance. Next generation UUIDs
 - `ingredients Ingredient[]`
-	- Every recipe has a list of incre
+	- Every recipe has a list of ingredients
+- `steps RecipeStep[]`
+	- Every recipe has a series of steps
+	- 

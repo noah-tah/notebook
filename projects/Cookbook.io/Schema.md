@@ -9,7 +9,7 @@ Then there is a bit of complexity with the ERD generation as well because you wa
 ```ts
 model Recipe {
 
-	id String @id @default(cuid(2))
+id String @id @default(cuid(2))
 
 title String
 

@@ -1,0 +1,1 @@
+Application that scrapes a recipe website for the recipe content, cleans the data, and outputs the cleaned data into a database

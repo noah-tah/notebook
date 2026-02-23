@@ -1,4 +1,4 @@
 - Application that scrapes a recipe website for the recipe content, cleans the data, and outputs the cleaned data into a database, which serves as a cookbook that support CRUD operations. 
 - Also converts ingredients and serving sizes into account to show caloric and nutrient values of meals
 - Supports user authentication
-- 
+		- 

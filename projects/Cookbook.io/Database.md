@@ -61,4 +61,4 @@ tags RecipeTag[]
 	- this is to join table for the many-to-many relationship between Recipe and Tag
 
 # How do we actually get this data?
-First, we start with [[Extraction Service]].
+First, we start with [[Scraper service]]

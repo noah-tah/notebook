@@ -13,3 +13,6 @@
 
 "He who fears death will never do anything worthy of a man alive."
 
+"This is our big mistake to think we look forward to death. Most of death is already gone. Whatever time has passed is owned by death."
+
+"I judge you unfortunate because you have never lived through misfortune. You have passed through life without an o"

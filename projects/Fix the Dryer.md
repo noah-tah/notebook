@@ -12,4 +12,4 @@ Dryer will not turn on and is not indicating any power being supplied to it.
 - Blown Thermal Fuse
 	- If the thermal fuse blows, the dryer will not start.
 - Start Switch
-	- 
+	- A faulty start switch can stop the dryer from tur

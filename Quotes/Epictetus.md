@@ -5,3 +5,5 @@
 "How long are you going to wait before you demand the best for yourself?"
 
 "Don't explain your philosophy, embody it."
+
+"If anyone tells you that a certain person speaks ill of you, do not make excuses about what is said but answer, 'He was ignorant of my other faults, else he would not mentioned these alone.'

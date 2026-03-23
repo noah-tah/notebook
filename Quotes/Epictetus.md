@@ -1,0 +1,1 @@
+"I have to die. If it is now, well then I die now; if later, then now I will take my lunch, since the hour for lunch has arrived -- and dying I will tend to later"

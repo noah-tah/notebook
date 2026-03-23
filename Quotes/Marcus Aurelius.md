@@ -12,4 +12,8 @@
 
 "Choose not to be harmed -- and you won't feel harmed. Don't feel harmed -- and you haven't been."
 
-"Be tolerant with others ans"
+"Be tolerant with others and strict with yourself."
+
+"You could leave life right now. Let that determine what you do and say and think."
+
+"It's time you realized that you have something in you more powerful and miraculous than the things that affect you and make you dance like a puppet."

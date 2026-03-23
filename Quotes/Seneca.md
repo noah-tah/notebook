@@ -7,4 +7,9 @@
 
 "If a man knows not which port he sails, no wind is favorable."
 
-"No person has the power to have everything they want, but it is in their power not to want what they don't have, and to ch"
+"No person has the power to have everything they want, but it is in their power not to want what they don't have, and to cheerfully put to good use what they do have."
+
+"Nothing, to my way of thinking, is a better proof of a well ordered mind than a man's ability to stop just where he is and pass some time in his own company."
+
+"He who fears death will never do anything worthy of a man alive."
+

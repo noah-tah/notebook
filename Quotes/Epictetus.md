@@ -3,3 +3,5 @@
 "First say to yourself what you would be; and then do what you have to do"
 
 "How long are you going to wait before you demand the best for yourself?"
+
+"Don't explain your philosophy, embody it."

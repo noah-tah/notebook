@@ -18,3 +18,10 @@ Dryer will not turn on and is not indicating any power being supplied to it.
 	- The start switch is responsible for signaling the dryer to begin the drying cycle. If it is faulty, your clothes dryer won't start, and you may hear no response when pressing the button.
 - Drive Belt and Motor
 	- A broken drive belt or motor can lead to your dryer not working.
+
+
+
+# Objectives moving forward
+- 6:36 PM
+- 3/23/2026
+- I should find the make and model of my dryer, and look up how to check the power su

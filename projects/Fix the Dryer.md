@@ -1,0 +1,1 @@
+Dryer will not turn on and is not indicatin

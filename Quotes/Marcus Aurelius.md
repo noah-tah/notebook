@@ -1,0 +1,1 @@
+"It isn't manly to be enraged. Rather, gentleness and civility are more human, therefore more manly."

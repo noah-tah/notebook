@@ -26,3 +26,4 @@ Dryer will not turn on and is not indicating any power being supplied to it.
 - 3/23/2026
 - I should find the make and model of my dryer, and look up how to check the power supply, door switch, thermal fuse, and start switch.
 - Should also locate local businesses that can repair the dryer if needed.
+- Two different parts of this tutorial suggest a multimeter. I should consider getting one to perform this diagnosis properly.

@@ -15,4 +15,6 @@
 
 "This is our big mistake to think we look forward to death. Most of death is already gone. Whatever time has passed is owned by death."
 
-"I judge you unfortunate because you have never lived through misfortune. You have passed through life without an o"
+"I judge you unfortunate because you have never lived through misfortune. You have passed through life without an opponent - no one can eve know what you are capable of, not even you."
+
+"People are frugal in guarding their personal property; but as soon as it comes to squandering time they are most wasteful of the one thing in which it is right to be stingy."

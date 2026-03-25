@@ -1,0 +1,1 @@
+"If you know the path broadly, you will see it in all things."

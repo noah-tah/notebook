@@ -1,0 +1,1 @@
+"Those who would give up essential Liberty, to purchase a little temporary Safety, deserver neither Liberty nor Safety."

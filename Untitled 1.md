@@ -1,0 +1,1 @@
+because the date of birth entered by the spouse on the "Sign your return" screen does not mach the DOB that the IRS obtained from SSN
